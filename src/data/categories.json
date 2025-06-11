@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "racing",
+    "name": "Racing Games",
+    "icon": "🏎️",
+    "count": 92
+  },
+  {
+    "slug": "casual",
+    "name": "Casual Games",
+    "icon": "🎪",
+    "count": 72
+  },
+  {
+    "slug": "adventure",
+    "name": "Adventure Games",
+    "icon": "🗺️",
+    "count": 49
+  },
+  {
+    "slug": "io-games",
+    "name": "IO Games",
+    "icon": "🌐",
+    "count": 47
+  },
+  {
+    "slug": "puzzle",
+    "name": "Puzzle Games",
+    "icon": "🧩",
+    "count": 46
+  },
+  {
+    "slug": "action",
+    "name": "Action Games",
+    "icon": "⚔️",
+    "count": 35
+  },
+  {
+    "slug": "shooting",
+    "name": "Shooting Games",
+    "icon": "🔫",
+    "count": 33
+  },
+  {
+    "slug": "strategy",
+    "name": "Strategy Games",
+    "icon": "🧠",
+    "count": 31
+  },
+  {
+    "slug": "vehicle-simulator",
+    "name": "Vehicle Simulators",
+    "icon": "🚗",
+    "count": 31
+  },
+  {
+    "slug": "sports",
+    "name": "Sports Games",
+    "icon": "⚽",
+    "count": 28
+  },
+  {
+    "slug": "simulation",
+    "name": "Simulation Games",
+    "icon": "🎯",
+    "count": 22
+  },
+  {
+    "slug": "platformer",
+    "name": "Platformer Games",
+    "icon": "🏃",
+    "count": 17
+  },
+  {
+    "slug": "idle",
+    "name": "Idle & Clicker Games",
+    "icon": "👆",
+    "count": 15
+  },
+  {
+    "slug": "job-simulator",
+    "name": "Job Simulators",
+    "icon": "👨‍💼",
+    "count": 13
+  },
+  {
+    "slug": "fashion",
+    "name": "Fashion & Dress Up Games",
+    "icon": "👗",
+    "count": 12
+  },
+  {
+    "slug": "classic",
+    "name": "Classic Games",
+    "icon": "🕹️",
+    "count": 9
+  },
+  {
+    "slug": "horror",
+    "name": "Horror Games",
+    "icon": "👻",
+    "count": 6
+  },
+  {
+    "slug": "board",
+    "name": "Board Games",
+    "icon": "🎲",
+    "count": 4
+  },
+  {
+    "slug": "drawing",
+    "name": "Drawing & Coloring Games",
+    "icon": "🎨",
+    "count": 4
+  },
+  {
+    "slug": "battle-royale",
+    "name": "Battle Royale Games",
+    "icon": "🏆",
+    "count": 3
+  },
+  {
+    "slug": "fighting",
+    "name": "Fighting Games",
+    "icon": "👊",
+    "count": 3
+  },
+  {
+    "slug": "multiplayer",
+    "name": "Multiplayer Games",
+    "icon": "👥",
+    "count": 3
+  },
+  {
+    "slug": "music",
+    "name": "Music & Rhythm Games",
+    "icon": "🎵",
+    "count": 3
+  },
+  {
+    "slug": "fishing",
+    "name": "Fishing & Hunting Games",
+    "icon": "🎣",
+    "count": 1
+  },
+  {
+    "slug": "kids",
+    "name": "Kids Games",
+    "icon": "👶",
+    "count": 1
+  }
+]

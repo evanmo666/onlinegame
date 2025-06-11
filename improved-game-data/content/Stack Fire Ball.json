@@ -1,0 +1,27 @@
+{
+  "url": "https://www.onlinegames.io/stack-fire-ball/",
+  "title": "Stack Fire Ball",
+  "category": "/t/arcade/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/184/Stack-Fire-Ball-Game.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/184/Stack-Fire-Ball-Game.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/184/responsive/Stack-Fire-Ball-Game-xs.jpg 384w, https://www.onlinegames.io/media/posts/184/responsive/Stack-Fire-Ball-Game-sm.jpg 600w, https://www.onlinegames.io/media/posts/184/responsive/Stack-Fire-Ball-Game-md.jpg 768w, https://www.onlinegames.io/media/posts/184/responsive/Stack-Fire-Ball-Game-lg.jpg 1200w",
+    "alt": "Stack Fire Ball Free",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2021/unity/stack-fire-ball/index.html",
+  "content": {
+    "headings": [],
+    "controls": [],
+    "howToPlay": "",
+    "tips": "",
+    "developer": "",
+    "similarGames": []
+  },
+  "fullContent": "Home› ArcadeStack Fire BallBy OnlineGames.ioMake Game Full ScreenReach the end by guiding the ball through each stage, avoiding the dark tiles.This game is a combination between relaxation but also keeping attention to details.With modern graphics, you will enjoy knocking down the colorful tiles as fast as you can. Let the ball bounce and complete all the stages. Play Stack Fire Ball now!Features:Addictive gameplayCollisions and bouncesControls:Tap to playC to change camera viewEmbed URL:https://www.onlinegames.io/games/2021/unity/stack-fire-ball/index.htmlThis article was updated on January 28, 20251 Player3DArcadeAvoidBallColorCrazyDestroyEmbeddableFreeMobileMouseSkill",
+  "extractedAt": "2025-06-10T05:13:06.452Z",
+  "localThumbnail": "Stack Fire Ball_1749532386453.jpg"
+}

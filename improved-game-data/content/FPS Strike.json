@@ -1,0 +1,46 @@
+{
+  "url": "https://www.onlinegames.io/fps-strike/",
+  "title": "FPS Strike",
+  "category": "/t/action/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/902/fps-strike-online.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/902/fps-strike-online.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/902/responsive/fps-strike-online-xs.jpg 384w, https://www.onlinegames.io/media/posts/902/responsive/fps-strike-online-sm.jpg 600w, https://www.onlinegames.io/media/posts/902/responsive/fps-strike-online-md.jpg 768w, https://www.onlinegames.io/media/posts/902/responsive/fps-strike-online-lg.jpg 1200w",
+    "alt": "FPS Strike Online Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://cloud.onlinegames.io/games/2024/unity2/fps-strike/index-og.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Tips & Tricks for FPS Strike"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "More FPS Games"
+      }
+    ],
+    "controls": [
+      "Move: WASD or Arrow KeysFire: Left Mouse ClickAim: Right Mouse ClickJump: SpaceChange Weapon: 1, 2, 3, 4 or Mouse scrollReload: RCrouch: CShow Scoreboard: Hold TabWeapon Shop: BPause: Escape"
+    ],
+    "howToPlay": "",
+    "tips": "Start with pistols like the USP-S for precision or unleash chaos with the P90's rapid fire. Upgrade to rifles like the M4A1 for balanced gameplay or the AWP for one-shot dominance.Reloading mid-fight can get you killed. Instead, switch to your secondary weapon when your primary runs out of ammo to keep the pressure on your opponents.Use offline mode to memorize map layouts, weapon recoil patterns, and grenade throw distances. Practice headshot consistency by focusing on precise aim rather than spraying bullets.In Team Deathmatch, the scoreboard reveals enemy player activity. Use this to predict where opponents might spawn or regroup during the match.Control the rooftops on maps like Ice World for an advantage, but don’t linger in one spot. Use the Scout for mobility or the AWP for high-damage shots. Always check for opponents trying to sneak up behind you.Grenades are free and excellent for softening enemy clusters. Throw one into chokepoints like narrow alleys in Dust or staircases in Aztec to gain the upper hand before rushing in.",
+    "developer": "FreezeNova created FPS Strike.",
+    "similarGames": []
+  },
+  "fullContent": "Home› First Person ShooterFPS StrikeBy OnlineGames.ioMake Game Full ScreenIf you feel like playing a quick FPS match but all the hassle (finding a game, installing it, and customizing your player or loadout before the battle) is way too much, you're in the right place. Enter FPS Strike, load the game and press the start button and voila! You'll find yourself in the middle of the battlefield in seconds.FPS Strike is a free online shooter game you can play on OnlineGames.io. Offering both Free-for-All (FFA) and Team Deathmatch (TD) game modes, FPS Strike combines realistic mechanics with fun, competitive gameplay. With five unique maps, 18+ weapons, and multiplayer rooms for honing your skills, this game is perfect for shooter fans looking for a quick fix for their FPS cravings anywhere, anytime.ControlsMove: WASD or Arrow KeysFire: Left Mouse ClickAim: Right Mouse ClickJump: SpaceChange Weapon: 1, 2, 3, 4 or Mouse scrollReload: RCrouch: CShow Scoreboard: Hold TabWeapon Shop: BPause: EscapeTips & Tricks for FPS StrikeStart with pistols like the USP-S for precision or unleash chaos with the P90's rapid fire. Upgrade to rifles like the M4A1 for balanced gameplay or the AWP for one-shot dominance.Reloading mid-fight can get you killed. Instead, switch to your secondary weapon when your primary runs out of ammo to keep the pressure on your opponents.Use offline mode to memorize map layouts, weapon recoil patterns, and grenade throw distances. Practice headshot consistency by focusing on precise aim rather than spraying bullets.In Team Deathmatch, the scoreboard reveals enemy player activity. Use this to predict where opponents might spawn or regroup during the match.Control the rooftops on maps like Ice World for an advantage, but don’t linger in one spot. Use the Scout for mobility or the AWP for high-damage shots. Always check for opponents trying to sneak up behind you.Grenades are free and excellent for softening enemy clusters. Throw one into chokepoints like narrow alleys in Dust or staircases in Aztec to gain the upper hand before rushing in.DeveloperFreezeNova created FPS Strike.More FPS GamesIf FPS Strike has you hooked, you'll love WarStrike. The game offers a campaign mode where you complete missions to destroy an evil terrorist Tal Brody as an elite MI-6 soldier. Ready to take on the challenge? Jump into the action now, and let us know your favorites in the comments!Embed URL:https://cloud.onlinegames.io/games/2024/unity2/fps-strike/index-og.htmlThis article was updated on December 24, 20243DActionArenaArmyBattleBattle RoyaleEmbeddableFirst Person ShooterFreeGunMultiplayerShootingSimulatorSniperUnityWarWeapon",
+  "extractedAt": "2025-06-10T04:15:34.103Z",
+  "localThumbnail": "FPS Strike_1749528934103.jpg"
+}

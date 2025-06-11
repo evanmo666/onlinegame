@@ -1,0 +1,55 @@
+{
+  "url": "https://www.onlinegames.io/poly-racing-cars/",
+  "title": "Poly Racing Cars",
+  "category": "/t/car/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/835/Poly-racing-cars-image.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/835/Poly-racing-cars-image.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/835/responsive/Poly-racing-cars-image-xs.jpg 384w, https://www.onlinegames.io/media/posts/835/responsive/Poly-racing-cars-image-sm.jpg 600w, https://www.onlinegames.io/media/posts/835/responsive/Poly-racing-cars-image-md.jpg 768w, https://www.onlinegames.io/media/posts/835/responsive/Poly-racing-cars-image-lg.jpg 1200w",
+    "alt": "Poly Racing Cars Online Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://cloud.onlinegames.io/games/2022/unity3/poly-racing-cars/index-og.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h3",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Poly Racing Cars"
+      },
+      {
+        "type": "h2",
+        "text": "Game Features"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "More Games Like This"
+      }
+    ],
+    "controls": [
+      "Car Racing Controls",
+      "Move Forward: Use the W or Up arrow keyMove Backward/Brake: Use the S or Down arrow keyTurn Left: Use the A or Left arrow keyTurn Right: Use the D or Right arrow key",
+      "Split-Screen Two-Player Mode Controls",
+      "Player 1: Arrow keysPlayer 2: WASD keys",
+      "Track Editor Controls",
+      "Right Click: Place an itemLeft Click: Drag an item"
+    ],
+    "howToPlay": "The game’s track editor allows you to design and save your own racetracks. Click on the track editor in the main menu, then place the roads and set the curves. You can add tents, grandstands or trees to make your track more visually appealing. Challenge your friends to see who performs best on your custom design. Feeling extra tricky? Add as many twists and turns as you want!If you’d instead jump straight into the action, select a pre-made track. You can race against AI opponents or try to beat the clock in a time trial. The first lap of Time Trial mode is the warm up session where you accustom to the track. After finishing the first lap, the clock starts ticking.You can also play Poly Cars Racing in 2-player mode. Race head-to-head with a friend in split-screen mode. This feature allows you to compete on the same screen, with each player controlling their car using separate controls, WASD or arrow keys.If you choose online multiplayer mode, you can race with up to 8 players in a single room. Compete against other players from around the world in high-speed online matches. You can create your own room, set the number of laps and even car colors, and invite friends for a private race.",
+    "tips": "",
+    "developer": "FreezeNova developed Poly Racing Cars.",
+    "similarGames": []
+  },
+  "fullContent": "Home› RacingPoly Racing CarsBy OnlineGames.ioMake Game Full ScreenLow poly is the new pixel! For the fans of these sharp and cornered designs, we have the perfect car game that you can design your own racetracks: Poly Racing Cars is a 3D racing game with diverse player settings that cater to all kinds of racing gamers. There are multiple modes you can enjoy. Race on ready-made tracks against AI opponents or take on the clock in time trials. You can also play in split-screen mode with a friend on the same device. For even more excitement, an online multiplayer mode is available where up to 8 players can race together on the same track. On top of everything, you can do all these on a unique track you designed or use pre-made tracks.ControlsCar Racing ControlsMove Forward: Use the W or Up arrow keyMove Backward/Brake: Use the S or Down arrow keyTurn Left: Use the A or Left arrow keyTurn Right: Use the D or Right arrow keySplit-Screen Two-Player Mode ControlsPlayer 1: Arrow keysPlayer 2: WASD keysTrack Editor ControlsRight Click: Place an itemLeft Click: Drag an itemHow to Play Poly Racing CarsThe game’s track editor allows you to design and save your own racetracks. Click on the track editor in the main menu, then place the roads and set the curves. You can add tents, grandstands or trees to make your track more visually appealing. Challenge your friends to see who performs best on your custom design. Feeling extra tricky? Add as many twists and turns as you want!If you’d instead jump straight into the action, select a pre-made track. You can race against AI opponents or try to beat the clock in a time trial. The first lap of Time Trial mode is the warm up session where you accustom to the track. After finishing the first lap, the clock starts ticking.You can also play Poly Cars Racing in 2-player mode. Race head-to-head with a friend in split-screen mode. This feature allows you to compete on the same screen, with each player controlling their car using separate controls, WASD or arrow keys.If you choose online multiplayer mode, you can race with up to 8 players in a single room. Compete against other players from around the world in high-speed online matches. You can create your own room, set the number of laps and even car colors, and invite friends for a private race.Game FeaturesLow poly track editor and 3 slots to save your tracks3 customizable sports carrace against AITime trial modeOnline multiplayer roomsLocal 2 player in split screen modeDeveloperFreezeNova developed Poly Racing Cars.More Games Like ThisIf you love Poly Racing Cars, you might also enjoy games like Fort Drifter. The game offers great maps that you can customize by adding extra obstacles. The goal is to pull off stunts like drifts, spins, jumps and barrel rolls; follow the link and play it online now!This article was updated on October 7, 20242 Player3DCarCrazyDrivingFreeMultiplayerRacingSimulatorSpeedUnity",
+  "extractedAt": "2025-06-10T05:29:06.081Z",
+  "localThumbnail": "Poly Racing Cars_1749533346080.jpg"
+}

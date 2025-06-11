@@ -1,0 +1,55 @@
+{
+  "url": "https://www.onlinegames.io/grandmaster-chess/",
+  "title": "Grandmaster Chess",
+  "category": "/t/puzzle/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/429/Grandmaster-Chess-Online.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/429/Grandmaster-Chess-Online.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/429/responsive/Grandmaster-Chess-Online-xs.jpg 384w, https://www.onlinegames.io/media/posts/429/responsive/Grandmaster-Chess-Online-sm.jpg 600w, https://www.onlinegames.io/media/posts/429/responsive/Grandmaster-Chess-Online-md.jpg 768w, https://www.onlinegames.io/media/posts/429/responsive/Grandmaster-Chess-Online-lg.jpg 1200w",
+    "alt": "Grandmaster Chess Play Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2022/unity/grandmaster-chess/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "How to play Grandmaster Chess?"
+      },
+      {
+        "type": "h2",
+        "text": "How do chess pieces move?"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Similar Games"
+      }
+    ],
+    "controls": [
+      "Just use your mouse. Please hover over the chess piece you want to use and move it to the chess tile you want to play with by pressing and holding the left mouse button."
+    ],
+    "howToPlay": "Having basic chess knowledge before starting an online chess game can be helpful. Here, you play chess against artificial intelligence.\n\nThere are some settings at the top of the screen. You can reset or flip the board, revert your last move, or, by opening the main menu, you can adjust the difficulty level.You can also choose whether you play with black or white chess pieces from the main menu.When you click on the piece of chess you want to play, you can see in which direction it can be moved. It would be in your best interest to move your pieces by anticipating your opponent's moves.",
+    "tips": "",
+    "developer": "",
+    "similarGames": [
+      {
+        "title": "Chess Fill",
+        "url": "https://www.onlinegames.io/chess-fill/"
+      },
+      {
+        "title": "multiplayer chess",
+        "url": "https://www.onlinegames.io/chess/"
+      }
+    ]
+  },
+  "fullContent": "Home› ChessGrandmaster ChessBy OnlineGames.ioMake Game Full ScreenWe brought the world's most classic board and strategy game online. Grandmaster Chess is a 2D strategy game you can play without needing a concrete chess board and pieces. Here, your opponent is artificial intelligence. So there is no real person in front of you. But don't underestimate it. It will make the smartest moves you will ever see. If you are ready, let the duel begin. You vs AI!How to play Grandmaster Chess?Having basic chess knowledge before starting an online chess game can be helpful. Here, you play chess against artificial intelligence.There are some settings at the top of the screen. You can reset or flip the board, revert your last move, or, by opening the main menu, you can adjust the difficulty level.You can also choose whether you play with black or white chess pieces from the main menu.When you click on the piece of chess you want to play, you can see in which direction it can be moved. It would be in your best interest to move your pieces by anticipating your opponent's moves.How do chess pieces move?While playing Grandmaster Chess, the system automatically shows you which direction the pieces can move. Still, we have added the information below for your general knowledge.Pawn: Pawns can move only one square at a time. Only at the beginning of the game do you have the right to play 2 squares with a pawn.Rook (Castle): The rook can move any quantity of squares down its current row or column. Knight: Knights always move in an 'L' pattern. It can move in any direction as long as it completes the \"L\" shape.Bishop: The bishop can only move diagonally in the direction of the color of the square it is on.Queen: Queen is the freest among other pieces. It can move in any direction and as many squares as it wants. But it can only do this in the same order.King: The king can only make one move vertically, horizontally or diagonally. It can not move in cases where the opponent has a checkmate.ControlsJust use your mouse. Please hover over the chess piece you want to use and move it to the chess tile you want to play with by pressing and holding the left mouse button.Similar GamesIf you are interested in chess games, we are sure you will also like our chess puzzle game Chess Fill. You can also play multiplayer chess against real people by following the link.  Or you may look for other exciting game alternatives on the Board Games and Strategy Games tags on OnlineGames.io.This article was updated on February 28, 20243DBoardBrainChessFreeLogicMousePuzzleStrategy",
+  "extractedAt": "2025-06-10T05:48:52.112Z",
+  "localThumbnail": "Grandmaster Chess_1749534532113.jpg"
+}

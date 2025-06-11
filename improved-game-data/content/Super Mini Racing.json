@@ -1,0 +1,53 @@
+{
+  "url": "https://www.onlinegames.io/super-mini-racing/",
+  "title": "Super Mini Racing",
+  "category": "/t/arcade/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/819/Super-Mini-Racing.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/819/Super-Mini-Racing.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/819/responsive/Super-Mini-Racing-xs.jpg 384w, https://www.onlinegames.io/media/posts/819/responsive/Super-Mini-Racing-sm.jpg 600w, https://www.onlinegames.io/media/posts/819/responsive/Super-Mini-Racing-md.jpg 768w, https://www.onlinegames.io/media/posts/819/responsive/Super-Mini-Racing-lg.jpg 1200w",
+    "alt": "Super Mini Racing Free Online Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2022/unity4/super-mini-racing/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Super Mini Racing"
+      },
+      {
+        "type": "h2",
+        "text": "Score Big!"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "More 2-Player Racing Games"
+      }
+    ],
+    "controls": [
+      "Single Player or Player 1",
+      "Steer: WASD keysRespawn: R",
+      "Player 2",
+      "Steer: Arrow keysRespawn: M"
+    ],
+    "howToPlay": "Select either single-player or 2-player mode.Choose from 10 unique maps and set the difficulty to easy, medium, or hard.Race through 10 challenging levels using your chosen vehicle. Play against bots or challenge a friend in split-screen mode.Use the arrow keys to drive and steer, and WASD keys along with arrow keys for split-screen mode. Press R or M to respawn as needed.Finishing in first place will earn you 1,000 coins and unlock new levels.Perform impressive maneuvers like drifts and airtime to multiply your earnings.Use the coins you earn to purchase new, faster vehicles and become the ultimate racing champion.",
+    "tips": "",
+    "developer": "Super Mini Racing was created by FreezeNova.",
+    "similarGames": []
+  },
+  "fullContent": "Home› RacingSuper Mini RacingBy OnlineGames.ioMake Game Full ScreenA super duper race is about to begin in just a few minutes! Choose your car and take your position behind the wheel for Super Mini Racing—a 3D racing game that offers both single-player and two-player modes. You'll be driving super mini cars across 10 different racetracks, competing to be the winner and claim the prize.ControlsSingle Player or Player 1Steer: WASD keysRespawn: RPlayer 2Steer: Arrow keysRespawn: MHow to Play Super Mini RacingSelect either single-player or 2-player mode.Choose from 10 unique maps and set the difficulty to easy, medium, or hard.Race through 10 challenging levels using your chosen vehicle. Play against bots or challenge a friend in split-screen mode.Use the arrow keys to drive and steer, and WASD keys along with arrow keys for split-screen mode. Press R or M to respawn as needed.Finishing in first place will earn you 1,000 coins and unlock new levels.Perform impressive maneuvers like drifts and airtime to multiply your earnings.Use the coins you earn to purchase new, faster vehicles and become the ultimate racing champion.Score Big!Boost your earnings by executing cool moves like drifts, jumps, and airtime. The crazier the stunt, the higher your score, bringing you closer to purchasing your dream car.In addition to the 1000 coins you earn for winning a race, you can enhance your score through maneuvers. The airborne tracks make it easy to get airtime and perform jumps, and the longer you stay airborne or the farther you jump, the more points you'll score. Drifting while steering will also earn you extra coins.Use your coins to buy faster and better vehicles, helping you become the fastest driver on the track.DeveloperSuper Mini Racing was created by FreezeNova.More 2-Player Racing GamesIf you love the split-screen mode where you race with a friend on the same device, we recommend 2 Player Crazy Racer. Take the race to a retro town and enjoy pushing vintage cars to their speed limits. For more 2-player games, check out our catalog filled with co-op and competitive games that you can play with a friend on the same device.Embed URL:https://www.onlinegames.io/games/2022/unity4/super-mini-racing/index.htmlThis article was updated on September 2, 20242 Player3DArcadeCarCrazyDrivingEmbeddableFreeFunRacingSpeedStuntUnity",
+  "extractedAt": "2025-06-10T05:17:09.193Z",
+  "localThumbnail": "Super Mini Racing_1749532629193.jpg"
+}

@@ -1,0 +1,54 @@
+{
+  "url": "https://www.onlinegames.io/quordle-today/",
+  "title": "Quordle Today",
+  "category": "/t/puzzle/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/606/Quordle-Today.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/606/Quordle-Today.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/606/responsive/Quordle-Today-xs.jpg 384w, https://www.onlinegames.io/media/posts/606/responsive/Quordle-Today-sm.jpg 600w, https://www.onlinegames.io/media/posts/606/responsive/Quordle-Today-md.jpg 768w, https://www.onlinegames.io/media/posts/606/responsive/Quordle-Today-lg.jpg 1200w",
+    "alt": "Quordle Today Free Online Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://quordlewordle.io/game/quordlegame/",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "How to Play Quordle Today"
+      },
+      {
+        "type": "h3",
+        "text": "Set the Number of Letters"
+      },
+      {
+        "type": "h3",
+        "text": "Color Hints"
+      },
+      {
+        "type": "h3",
+        "text": "4 Playing Fields"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Other Word Games"
+      }
+    ],
+    "controls": [
+      "Use your device’s or on-screen virtual keyboard to enter your guesses."
+    ],
+    "howToPlay": "You must find the hidden 4 words in order to achieve success. You will do this by trying to guess the words. You have 9 chances. Start with entering the term you have in mind using your device’s keyboard or the virtual one. Press the Space key when you are done writing. The terms you write must have the number of characters you set initially.\n\nThe stopwatch starts to count the time when you enter the first word into the playing field. You can disable it by tapping on the relevant icon from the top section.If you find guessing the phrases difficult, you may tap on the Give up button on the upper left side of the screen. Then, you can start a new game.As you try to guess the phrases, the letters on the keyboard, which are also divided into 4 sections, may also change their colors. For example, if the 2 hidden terms have the exact letter in the exact place you register, that letter on the keyboard will have two green hints.",
+    "tips": "",
+    "developer": "",
+    "similarGames": []
+  },
+  "fullContent": "Home› WordQuordle TodayBy OnlineGames.ioMake Game Full Screen Quordle Today is a word puzzle game with 9 tries to guess the hidden target words. You can determine how many letters the target word has from 4 to 6. If you set it to 5, you must enter a 5-character word into the lines. The game will give you colored hints as you enter each word to find the target words. It may sound like a complicated puzzle game, but it is an engaging one! 🔡How to Play Quordle TodayYou must find the hidden 4 words in order to achieve success. You will do this by trying to guess the words. You have 9 chances. Start with entering the term you have in mind using your device’s keyboard or the virtual one. Press the Space key when you are done writing. The terms you write must have the number of characters you set initially.The stopwatch starts to count the time when you enter the first word into the playing field. You can disable it by tapping on the relevant icon from the top section.If you find guessing the phrases difficult, you may tap on the Give up button on the upper left side of the screen. Then, you can start a new game.As you try to guess the phrases, the letters on the keyboard, which are also divided into 4 sections, may also change their colors. For example, if the 2 hidden terms have the exact letter in the exact place you register, that letter on the keyboard will have two green hints.Set the Number of LettersThe first thing to do is to determine the number of letters each phrase will have. You can choose between 4, 5 or 6. Set it by clicking on the circle with the number at the top of the screen. You must enter the proper words according to your setting. For example, if you set the character number to 4, you cannot register the word “Arena” as it has 5 letters. Or, you can not enter a phrase with fewer letters than the determined number.Color HintsThe game will give you colorful hints each time you register a phrase into the playing fields. These hints will give you clues about what the 4 hidden terms might be.Gray Hints: When you see gray cues on the fields, this means that the given letter is not in existence in the hidden words.Yellow Hints: Yellow cues mean that the letters in yellow occur in the target words but are placed elsewhere.Green Hints: These are the most favorable cues! As they indicate that you guessed the letters right. The letters that have green cues exist in the hidden words.4 Playing FieldsYou will have 4 playing fields, each with unique hidden words. In total, you must find 4 target phrases by guessing. Whenever you register a phrase, you will see different colored hints in each field. You will have 9 chances to get clues about the target words.ControlsUse your device’s or on-screen virtual keyboard to enter your guesses.Other Word GamesTry Wordmeister if you love playing Quordle Today. Your opponent in the game is a computer. You will try to create phrases by using the letter tiles. The longer the phrases you create, the more points you get!Or, you may look up other word games online on OnlineGames.io for more options. If you want to share your gaming experience with us, please leave a comment in the comment section below!This article was updated on February 28, 20241 Player2DBrainFreeHTML5LogicMobileMousePuzzleWord",
+  "extractedAt": "2025-06-10T05:50:40.550Z",
+  "localThumbnail": "Quordle Today_1749534640550.jpg"
+}

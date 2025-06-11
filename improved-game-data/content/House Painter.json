@@ -1,0 +1,50 @@
+{
+  "url": "https://www.onlinegames.io/house-painter/",
+  "title": "House Painter",
+  "category": "/t/puzzle/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/700/House-Painter.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/700/House-Painter.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/700/responsive/House-Painter-xs.jpg 384w, https://www.onlinegames.io/media/posts/700/responsive/House-Painter-sm.jpg 600w, https://www.onlinegames.io/media/posts/700/responsive/House-Painter-md.jpg 768w, https://www.onlinegames.io/media/posts/700/responsive/House-Painter-lg.jpg 1200w",
+    "alt": "House Painter Online Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2023/construct/238/house-painter/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "How to Play House Painter"
+      },
+      {
+        "type": "h2",
+        "text": "Build Your City"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "More Games Like This"
+      }
+    ],
+    "controls": [
+      "WASD, arrow keys or LMB to move the brush and paint"
+    ],
+    "howToPlay": "With similar gameplay mechanics to Tomb of the Mask, you need to paint all 4 walls of a house on each level. No single spot on the wall should be left blank.You can move the brush using WASD or arrow keys. Windows and wooden panels on the walls and bushes around create tough spots to paint. Use your logic and move the brush around the wall to paint in those places.Let's say there is a spot you can't paint; take a look at the column and row it is located. Find a way to move the brush to that row or column using obstacles on the wall. Then, pass it through the spot to paint it.",
+    "tips": "",
+    "developer": "Zupga made this game.",
+    "similarGames": []
+  },
+  "fullContent": "Home› LogicHouse PainterBy OnlineGames.ioMake Game Full ScreenGrab your painting brushes! We will paint all the houses in this city. House Painter is a web-based city-building game where you paint houses by solving puzzles and place them in your town.How to Play House PainterWith similar gameplay mechanics to Tomb of the Mask, you need to paint all 4 walls of a house on each level. No single spot on the wall should be left blank.You can move the brush using WASD or arrow keys. Windows and wooden panels on the walls and bushes around create tough spots to paint. Use your logic and move the brush around the wall to paint in those places.Let's say there is a spot you can't paint; take a look at the column and row it is located. Find a way to move the brush to that row or column using obstacles on the wall. Then, pass it through the spot to paint it. Build Your CityAt each level, you'll paint more complex shapes of houses. Since each landlord has different preferences, the colors will also change. After finishing a level, head over to the city map. You can build the house in a place you'd like in the city. Organize different colors and shapes of houses for a more visually appealing city. Complete all the levels to create a vibrant neighborhood. You can use your in-game currency to upgrade houses and add windmills.Click on the R icon to clear them all and restart building the city. ControlsWASD, arrow keys or LMB to move the brush and paintDeveloperZupga made this game.More Games Like ThisIf you like to paint houses, decorate them, or organize furniture back and forth, head over to the Organizing Games Online page. You'll find a lot of games like House Painter there. In addition, for those interested in puzzle solving part of House Painter, you can play Chess Fill, a spatial reasoning puzzle with a chess twist. Start exploring now!This article was updated on May 9, 20241 Player2DArcadeBrainColorFreeFunHTML5LogicMobileMouseOrganizingPuzzle",
+  "extractedAt": "2025-06-10T05:46:35.612Z",
+  "localThumbnail": "House Painter_1749534395612.jpg"
+}

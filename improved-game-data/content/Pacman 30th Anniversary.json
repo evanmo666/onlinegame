@@ -1,0 +1,116 @@
+{
+  "url": "https://www.onlinegames.io/google-pacman/",
+  "title": "Pacman 30th Anniversary",
+  "category": "/t/arcade/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/641/Warning.webp",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/641/Warning.webp",
+    "srcset": "https://www.onlinegames.io/media/posts/641/responsive/Warning-xs.webp 384w, https://www.onlinegames.io/media/posts/641/responsive/Warning-sm.webp 600w, https://www.onlinegames.io/media/posts/641/responsive/Warning-md.webp 768w, https://www.onlinegames.io/media/posts/641/responsive/Warning-lg.webp 1200w",
+    "alt": "Come Back to OnlineGames.io",
+    "width": 400,
+    "height": 80,
+    "className": "is-loaded",
+    "parentClass": "game-container-link is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2024/more/tapman/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h3",
+        "text": "Table of Contents"
+      },
+      {
+        "type": "h2",
+        "text": "Pacman 30th Anniversary"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Pac-Man 30th Anniversary"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Pacman 2 Player"
+      },
+      {
+        "type": "h2",
+        "text": "Pac-Man's Fame"
+      },
+      {
+        "type": "h3",
+        "text": "Fun Facts"
+      },
+      {
+        "type": "h3",
+        "text": "Guinness World Records"
+      },
+      {
+        "type": "h3",
+        "text": "World Records Held By Pac-Man"
+      },
+      {
+        "type": "h3",
+        "text": "World Records Held by Fans"
+      },
+      {
+        "type": "h2",
+        "text": "FAQ"
+      },
+      {
+        "type": "h3",
+        "text": "What is Pac-Man Google Doodle?"
+      },
+      {
+        "type": "h3",
+        "text": "How old is Google Pacman?"
+      },
+      {
+        "type": "h3",
+        "text": "When was Google Pacman released?"
+      },
+      {
+        "type": "h3",
+        "text": "Who developed Google Pacman?"
+      },
+      {
+        "type": "h3",
+        "text": "How many levels does Pac-Man Doodle have?"
+      },
+      {
+        "type": "h3",
+        "text": "How does Pac-Man end?"
+      },
+      {
+        "type": "h3",
+        "text": "What is level 256 in Pac-Man?"
+      },
+      {
+        "type": "h3",
+        "text": "Why is Pacman's 256th level glitched?"
+      },
+      {
+        "type": "h3",
+        "text": "How to play 2 player Pac-Man on Google?"
+      },
+      {
+        "type": "h2",
+        "text": "Inserting the Last Coin"
+      }
+    ],
+    "controls": [
+      "Left-Click: Insert CoinArrow Keys: Move PacmanWASD: Move Ms. Pacman",
+      "",
+      ""
+    ],
+    "howToPlay": "For a retro feel of arcade machines, open the link provided above to start the game.You will control a little yellow character in a maze. Guide him through the maze to collect all the dots.Avoid your archenemies: four crazy ghosts named Blinky, Pinky, Inky, and Clyde. Each ghost has different colors and behaviors, but all share the goal of catching you. Eat power pellets (bigger dots) to make the ghosts turn blue, making them defenseless against Pac-Man. When the ghosts turn blue, they will start to run away from you, and Pac-Man will be the one chasing. Gobble ghosts to clear the maze. But be quick; the pellet's effect will fade out soon.Collect all dots in a maze to pass a level.You may see fruits appearing in the maze once in a while. Eating fruits will boost your game score as it affects your health in real life. If a ghost(s) catches him, you have to start over.The game gets trickier as you go, with faster ghosts and shorter energizer effects. Outsmart the ghosts and break records with your scores.",
+    "tips": "",
+    "developer": "",
+    "similarGames": []
+  },
+  "fullContent": "Home› BlogPacman 30th AnniversaryBy OnlineGames.ioMake Game Full Screendocument.addEventListener('DOMContentLoaded', function() {\n        document.getElementById(\"toc-toggle1\").addEventListener(\"click\", touchHandler, false);\n        document.getElementById(\"toc-toggle2\").addEventListener(\"click\", touchHandler, false);\n\n        var tableBox = document.getElementById(\"toc-box\");\n        function touchHandler(e) {\n          tableBox.classList.toggle(\"toc-box-open\");\n        }\n    });Who is not afraid of ghosts? Pac-man is!In the neon glow of 1980s arcades, a little yellow character with the shape of a pizza missing a slice was born. This little guy is scared by ghosts, like every other kid. But when he eats energizers, he threatens all ghosts. The creator of the original game, Toru Itawani, describes the relationship between Pac-Man and ghosts as the ones Tom & Jerry have.The world's most-known game, Pac-Man, is released as a Google Doodle to celebrate the 30th Anniversary of the game's initial release. You can even see the Google logo implemented in the maze on the first level. How cool is that? Google’s special version of the game brought better graphics and HUD, as well as easy access via browser.While Pacman's fame is undeniable, there was a clear need for an ultimate guide that covered everything you needed to know about this iconic character. Keep reading this post to learn how to play, explore fun facts and world records, and find answers to frequently asked questions about the game itself and the Google Doodle version.Table of ContentsPacman 30th AnniversaryHow to Play Pac-Man 30th AnniversaryControlsPacman 2 PlayerPac-Man's FameFun FactsGuinness World RecordsWorld Records Held By Pac-ManWorld Records Held by FansFAQWhat is Pac-Man Google Doodle?How old is Google Pacman?When was Google Pacman released?Who developed Google Pacman?How many levels are in Pac-Man Doodle?How does Pac-Man end?What is level 256 in Pac-Man?Why is Pacman's 256th level glitched?How to play 2 player Pac-Man on Google?Inserting the Last CoinPacman 30th AnniversaryPlay Pacman Doodle How to Play Pac-Man 30th AnniversaryFor a retro feel of arcade machines, open the link provided above to start the game.You will control a little yellow character in a maze. Guide him through the maze to collect all the dots.Avoid your archenemies: four crazy ghosts named Blinky, Pinky, Inky, and Clyde. Each ghost has different colors and behaviors, but all share the goal of catching you. Eat power pellets (bigger dots) to make the ghosts turn blue, making them defenseless against Pac-Man. When the ghosts turn blue, they will start to run away from you, and Pac-Man will be the one chasing. Gobble ghosts to clear the maze. But be quick; the pellet's effect will fade out soon.Collect all dots in a maze to pass a level.You may see fruits appearing in the maze once in a while. Eating fruits will boost your game score as it affects your health in real life. If a ghost(s) catches him, you have to start over.The game gets trickier as you go, with faster ghosts and shorter energizer effects. Outsmart the ghosts and break records with your scores.ControlsLeft-Click: Insert CoinArrow Keys: Move PacmanWASD: Move Ms. Pacman Pacman 2 PlayerPlay Pacman 2 Player Pac-Man's FameThe game is not only the most famous video game of all time, but it is an icon of pop culture. It has brought its fame into sequels, music, and TV Shows. A hit song called \"Pac-Man Fever\" by Buckner & Garcia got into the list of 100 Greatest One Hit Wonders of the 80s.Posters, mugs, t-shirts, and a wide range of objects featuring Pac-Man are sold for millions.Business folks use the term \"Pac-Man defense\" for a hostile takeover move. This term has taken its place in the curriculums of management courses in business schools.A technique used in math and physics is called \"Pacman renormalization.\"The game entered The Strong National Museum of Play's Hall of Fame in 2015.When Google first released the Pacman Doodle, it was played for 500 million hours by visitors, in the first 48 hours. The Google Pacman craze caused businesses to lose 122 million $ in such a short time.Fun FactsThe game was first called \"Puck Man\" in Japan, referring to the character's open mouth and eating habits. However, it changed to \"Pac-Man\" later in North America.The idea for Pac-Man's look came from a pizza with a slice missing. 🍕Ghosts in the game were inspired by Casper the Friendly Ghost and the Japanese cartoon Little Ghost Q-Taro.In 1982, a kid got a letter from President Ronald Reagan for a world-record score. The game holds eleven Guinness World Records, including the most successful coin-operated game record. Keep reading to learn about records held by Pacman.Guinness World RecordsPac-Man is super famous that it has dozens of World Records recognized by Guinness. The game itself acquired 11 Guinness certificates. However, the game opened the way for other records for fans worldwide, such as the highest score or fastest completion. Learn about them below.World Records Held By Pac-ManMost recognizable videogame characterMost collected arcade coin-op machineBest-selling videogame of the second-generation consolesMost successful US-made arcade machineFirst videogame for Android phonesMost profitable arcade cabinetFirst videogame character merchandiseFirst arcade game to use Google's geometric dataHighest-grossing arcade videogameFirst videogame mascotFirst videogame with power-upsWorld Records Held by FansFirst Perfect Score: Billy Mitchell - 3,333,360 PointsLongest standing Record: Shannon Ryan - 3,213,900 pointsSmallest Maze: 500 x 900 micrometersLargest videogame: 4,014,144,000 pixelsMost Popular Pac-Man Song: Pac-Man FeverLargest Arcade Machine: Billboard with a 4.5657 square meters sizeMost Costly Game: Google Pacman DoodleLargest Human Image of Pac-Man: 351 participantsLargest re-enactment of Pac-Man: Pac-Manhattan fan team - 171,029m²First virtual reality (VR) Pac-Man videogameFirst Pac-Man game based on a TV show: Pac-Man and the Ghostly AdventuresFAQWhat is Pac-Man Google Doodle?Pac-Man Google Doodle is a re-make of the retro arcade game Pac-Man to celebrate the 30th Anniversary of the game's initial release in May 1980.How old is Google Pacman?As of 2024, Google Pac-Man is 14 years old while the original Pac-Man is 44 years old.When was Google Pacman released?Google released the game in May 2010 in 30th anniversary of the original game.Who developed Google Pacman?Pacman's 30th Anniversary Doodle was made by Google. The original Pacman game was created by Toru Iwatani in 1979.How many levels does Pac-Man Doodle have?As in original Pacman, there are 256 levels in Pac-Man Doodle, with increasing difficulty.How does Pac-Man end?A level in Pac-Man ends if a ghost catches the character. Then, the player should start over from the beginning. However, no player could reach the end of the final level, known as Map 256.What is level 256 in Pac-Man?Level 256 is the final and hardest level of the game. The map is also known as the split-screen level because, in this stage, the screen splits into two parts. While the left side stays as usual, the right side is filled with random numbers, letters and symbols.In this map, the player needs to collect 244 Pac-dots to beat the level. However, as the right side is filled with a mess of symbols and lacks Pac-dots, it is impossible to reach 244 dots.The most points earned in this kill level is 155,875, which was scored by Marc Cohen on the PS4.Why is Pacman's 256th level glitched?When a player finishes a level, a bonus fruit appears in the screen's bottom right corner. After the 8th level, each time you pass a level, the last icon in the bottom right corner changes to show you which map the player is on.Retro arcade machines could only remember a small amount of information, like a single byte. This meant they could only count up to 255. Each level in the game is given a number from 1 to 255.When you reach Level 256, the g",
+  "extractedAt": "2025-06-10T05:13:49.110Z",
+  "localThumbnail": "Pacman 30th Anniversary_1749532429111.jpg"
+}

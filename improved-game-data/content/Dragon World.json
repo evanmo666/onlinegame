@@ -1,0 +1,50 @@
+{
+  "url": "https://www.onlinegames.io/dragon-world/",
+  "title": "Dragon World",
+  "category": "/t/action/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/10/Dragon-World-Game.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/10/Dragon-World-Game.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/10/responsive/Dragon-World-Game-xs.jpg 384w, https://www.onlinegames.io/media/posts/10/responsive/Dragon-World-Game-sm.jpg 600w, https://www.onlinegames.io/media/posts/10/responsive/Dragon-World-Game-md.jpg 768w, https://www.onlinegames.io/media/posts/10/responsive/Dragon-World-Game-lg.jpg 1200w",
+    "alt": "Dragon World Play",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://unblocked-games.s3.amazonaws.com/games/dragon-world/index2.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "How to play Dragon World?"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Which dragons can I choose in Dragon World?"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "Similar Games"
+      }
+    ],
+    "controls": [
+      "WASD or arrow keys to move the dragonSpace tab to fly upLeft shift for sprintQ to jumpC to fly downR to dodgeShift + left mouse click for breathing fireLeft mouse click to throw fireballsRight mouse click for melee attackT to chatM to show mapEsc, tab for pause menu"
+    ],
+    "howToPlay": "First, you need to create a room or join other players' rooms. Enter a room name and decide if it will be private or not. Choose the maximum number of players that can join. You can have 20 players at most. Choose the modes between explore, DM, TDM, and Batlle Royale. Select a map: Draze Isle, Kutuma Lake or Myst Swamp. Then start the journey with your scary dragon.\n\nCheck your level, experience, total kills, and coins on the main menu. Keep coming back, and remember to collect your daily reward. While playing, keep an eye on your kill feed (displayed on top left, controls (bottom corners), town map (top right).",
+    "tips": "",
+    "developer": "Dragon World is created by FreezeNova.",
+    "similarGames": []
+  },
+  "fullContent": "Home› DragonDragon WorldBy OnlineGames.ioMake Game Full Screen Experience the life of the dragon in the natural world. Spread your wings and fly high over the fantastic landscapes in Dragon World.When it's battle time, prepare to shoot with flames any enemy. Learn how to survive the battle, but before that, let's see the dragons you can choose. How to play Dragon World?First, you need to create a room or join other players' rooms. Enter a room name and decide if it will be private or not. Choose the maximum number of players that can join. You can have 20 players at most. Choose the modes between explore, DM, TDM, and Batlle Royale. Select a map: Draze Isle, Kutuma Lake or Myst Swamp. Then start the journey with your scary dragon. Check your level, experience, total kills, and coins on the main menu. Keep coming back, and remember to collect your daily reward. While playing, keep an eye on your kill feed (displayed on top left, controls (bottom corners), town map (top right).ControlsWASD or arrow keys to move the dragonSpace tab to fly upLeft shift for sprintQ to jumpC to fly downR to dodgeShift + left mouse click for breathing fireLeft mouse click to throw fireballsRight mouse click for melee attackT to chatM to show mapEsc, tab for pause menuWhich dragons can I choose in Dragon World?There are 8 dragons you can choose from in Dragon World. Each has its own great specialties. As you progress in the game and level up, you will be able to try them all. Some might require hard work to acquire them, such as Chivi the Dragonlord or Uldross Lord of Fire. The dragons, by their full appellations, are Soteonth The Warrior, Fyminth The Chosen, Gossalo Eater of Sheep, Piessierth The Eternal One, Marvolth The White One, Zosass The Tiran, Chivi The Dragonlord, Uldross Lord of Fire.DeveloperDragon World is created by FreezeNova.Similar GamesWe have multiple dragon games. Search for dragon or browse our Adventure Games for more games like Dragon World.This article was updated on January 24, 20243DActionAnimalDragonFlyingFreeio GamesMultiplayer",
+  "extractedAt": "2025-06-10T05:05:48.134Z",
+  "localThumbnail": "Dragon World_1749531948135.jpg"
+}

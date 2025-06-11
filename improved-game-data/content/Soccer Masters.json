@@ -1,0 +1,53 @@
+{
+  "url": "https://www.onlinegames.io/soccer-masters/",
+  "title": "Soccer Masters",
+  "category": "/t/arcade/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/874/Soccer-Masters.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/874/Soccer-Masters.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/874/responsive/Soccer-Masters-xs.jpg 384w, https://www.onlinegames.io/media/posts/874/responsive/Soccer-Masters-sm.jpg 600w, https://www.onlinegames.io/media/posts/874/responsive/Soccer-Masters-md.jpg 768w, https://www.onlinegames.io/media/posts/874/responsive/Soccer-Masters-lg.jpg 1200w",
+    "alt": "Soccer Masters Play Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://cloud.onlinegames.io/games/2024/gm/soccer-masters/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Soccer Masters"
+      },
+      {
+        "type": "h2",
+        "text": "Friendly Match Mode"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "More Soccer Games"
+      }
+    ],
+    "controls": [
+      "1 Player",
+      "WASD: MoveV: SupershotB: Shot",
+      "2 Player",
+      "Arrow Keys: MoveK: SupershotL: Shot"
+    ],
+    "howToPlay": "Choose your mode Euro 2020 Tournament or a quick friendly match.In tournament mode, you play a 2x2 match and work cooperatively with your friend to beat the opponent team.You can choose your team from among many Euro 2020 national teams, such as Spain, Ireland, Portugal, Italy, Turkey, and many others.If you win the first match, you'll play in the quarterfinals. That's what we call a fast progression, huh?",
+    "tips": "",
+    "developer": "Soccer Masters was created by MadPuffers.",
+    "similarGames": []
+  },
+  "fullContent": "Home› SoccerSoccer MastersBy OnlineGames.ioMake Game Full ScreenDid you know the first official soccer match was played in 1863? Back then, there were no shin guards, no fancy boots, and definitely no vuvuzelas echoing through the match. Soccer has evolved over time, and now you can bring the magic of this epic game to your fingertips. Soccer Masters is a funny soccer game guaranteed to have you and your friend laughing non-stop! With its cartoonish animations and unpredictable gameplay, every match feels like a highlight reel.Gave away a goal? Your player might cry a river in the middle of the pitch. Score a winner? Cue the victory dance! Choose between 1v1 or 2v2 matches against AI or a friend, and use power-ups for pitch-perfect moves.Controls1 PlayerWASD: MoveV: SupershotB: Shot2 PlayerArrow Keys: MoveK: SupershotL: ShotHow to Play Soccer MastersChoose your mode Euro 2020 Tournament or a quick friendly match.In tournament mode, you play a 2x2 match and work cooperatively with your friend to beat the opponent team.You can choose your team from among many Euro 2020 national teams, such as Spain, Ireland, Portugal, Italy, Turkey, and many others.If you win the first match, you'll play in the quarterfinals. That's what we call a fast progression, huh?Friendly Match ModeIf you choose friendly match mode, you can choose between 1v1,2x2 or 2x2 against AI.Each player has a unique booster. One of them can teleport in the field, while the other can perform super shots.Pick your team and enter the arena. Control your players to jump, shoot and score before the clock runs out.Boosters will replenish every 5 seconds. Remember to use them to outplay your opponents and create epic soccer moments!DeveloperSoccer Masters was created by MadPuffers.More Soccer GamesSoccer Masters is a great football game that takes the intensity of a real match and replaces it with laughters. It's the perfect choice for anyone looking for fun and laughter with friends, or even just to kill time between breaks. However, if you're in the mood for something more serious and realistic, play Soccer Simulator next. Dribble, pass and shoot with precision. Let's see those skills in action!This article was updated on November 19, 20242 Player2DArcadeArenaBallCo-OpCrazyFreeFunFunnySoccerSportsWorld Cup",
+  "extractedAt": "2025-06-10T05:15:33.462Z",
+  "localThumbnail": "Soccer Masters_1749532533463.jpg"
+}

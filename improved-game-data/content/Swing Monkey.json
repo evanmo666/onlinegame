@@ -1,0 +1,63 @@
+{
+  "url": "https://www.onlinegames.io/swing-monkey/",
+  "title": "Swing Monkey",
+  "category": "/new-games/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/512/Swing-Monkey.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/512/Swing-Monkey.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/512/responsive/Swing-Monkey-xs.jpg 384w, https://www.onlinegames.io/media/posts/512/responsive/Swing-Monkey-sm.jpg 600w, https://www.onlinegames.io/media/posts/512/responsive/Swing-Monkey-md.jpg 768w, https://www.onlinegames.io/media/posts/512/responsive/Swing-Monkey-lg.jpg 1200w",
+    "alt": "Swing Monkey Play Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2023/mjs/swing-monkey/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "How to Play Swing Monkey"
+      },
+      {
+        "type": "h3",
+        "text": "Bouncing the Monkey"
+      },
+      {
+        "type": "h3",
+        "text": "Grabbing the Rings"
+      },
+      {
+        "type": "h3",
+        "text": "Soaring in the Air"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "Similar Games"
+      }
+    ],
+    "controls": [
+      "Use the left mouse button to make the monkey swing through the rings."
+    ],
+    "howToPlay": "With Swing Monkey, a delightful swinging game, you'll go on an exciting adventure as you swing through rings to cross a jungle. As you learn the skills of accuracy and momentum, your goal is to lead the monkey to the finish line.When you start the game, the monkey will automatically fall towards the trampoline and start moving through the forest by gaining speed.You need to hold the monkey to the rings using this speed.Afterward, you must use the other rings on the game screen to accelerate the monkey and move forward to reach the finish.",
+    "tips": "",
+    "developer": "Swing Monkey was created by MarketJS.",
+    "similarGames": [
+      {
+        "title": "Flipping Gun Simulator",
+        "url": "https://www.onlinegames.io/flipping-gun-simulator/"
+      }
+    ]
+  },
+  "fullContent": "Home› ArcadeSwing MonkeyBy OnlineGames.ioMake Game Full ScreenLet's get the monkey on the trampoline! Swing Monkey is a fun skill game where you swing the monkey through rings by tapping and holding the mouse button. Your primary mission here is to move the monkey between the rings and get it to the finish line. You will reach the next level as you get the monkey to the finish line.How to Play Swing MonkeyWith Swing Monkey, a delightful swinging game, you'll go on an exciting adventure as you swing through rings to cross a jungle. As you learn the skills of accuracy and momentum, your goal is to lead the monkey to the finish line.When you start the game, the monkey will automatically fall towards the trampoline and start moving through the forest by gaining speed.You need to hold the monkey to the rings using this speed.Afterward, you must use the other rings on the game screen to accelerate the monkey and move forward to reach the finish.Bouncing the MonkeyTrampolines that you can use to bounce off and generate speed are your starting point. Make sure to seize a ring as soon as possible because the trampoline's air time, the momentum's effectiveness you get by bouncing from the trampoline, is limited.Grabbing the RingsThe move that will take you forward is to hold on to the rings and gain momentum. In order to gain momentum, precise grabbing is the key element. Holding on to the rings with a short rope wouldn't make much sense. Because this won't give you much speed. The longer the rope you hold on to the ring, the greater the intensity of the swing.Soaring in the AirIf you swing or bounce high enough, you can fly across much of the course without holding onto any rings. At the beginning of the level, gather as much speed as you can to make navigating the obstacles a pleasure.ControlsUse the left mouse button to make the monkey swing through the rings.DeveloperSwing Monkey was created by MarketJS.Similar GamesTry Flipping Gun Simulator if you enjoy playing Swing Monkey. Flipping Gun Simulator is another skill game you can find on OnlineGames.io. In this online game you try to shoot down to flip the gun in the air. Alternatively, you may look up other arcade games for more gaming options.This article was updated on May 9, 20241 Player2DAnimalArcadeCrazyFreeFunHTML5MobileMouse",
+  "extractedAt": "2025-06-10T06:19:24.897Z",
+  "localThumbnail": "Swing Monkey_1749536364897.jpg"
+}

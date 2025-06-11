@@ -1,0 +1,54 @@
+{
+  "url": "https://www.onlinegames.io/draw-here/",
+  "title": "Draw Here",
+  "category": "/t/puzzle/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/567/Draw-Here.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/567/Draw-Here.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/567/responsive/Draw-Here-xs.jpg 384w, https://www.onlinegames.io/media/posts/567/responsive/Draw-Here-sm.jpg 600w, https://www.onlinegames.io/media/posts/567/responsive/Draw-Here-md.jpg 768w, https://www.onlinegames.io/media/posts/567/responsive/Draw-Here-lg.jpg 1200w",
+    "alt": "Draw Here Free Online Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2021/unity2/draw-here/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "How To Play Draw Here?"
+      },
+      {
+        "type": "h3",
+        "text": "Collect Stars"
+      },
+      {
+        "type": "h3",
+        "text": "Use Your Ink Wisely"
+      },
+      {
+        "type": "h2",
+        "text": "Compatibility"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "More Drawing Games"
+      }
+    ],
+    "controls": [
+      "Tap and hold or use your mouse click to draw."
+    ],
+    "howToPlay": "Aim to clear all the stars in each level.To clear a star, draw an object and make sure it touches the star while falling.You can use the dotted frames as your canvas. You can't draw anything outside of the boxes.You will encounter balls, pulleys and sticks in later levels. Interact with these drawn objects to clear stars in levels.Grey boxes are free of gravity. It means you can draw any shape, and it will stay still without falling. Use the drawings in grey boxes to create a platform for other objects falling on it.",
+    "tips": "",
+    "developer": "",
+    "similarGames": []
+  },
+  "fullContent": "Home› PuzzleDraw HereBy OnlineGames.ioMake Game Full ScreenDraw Here is a physics puzzle game with 100 levels. Draw objects on the canvas to collect all the stars. Use your basic physics knowledge besides drawing skills. Gravity, motion and energy conversion are all in this game. Let's see how many stars you will collect!How To Play Draw Here?Aim to clear all the stars in each level.To clear a star, draw an object and make sure it touches the star while falling.You can use the dotted frames as your canvas. You can't draw anything outside of the boxes.You will encounter balls, pulleys and sticks in later levels. Interact with these drawn objects to clear stars in levels.Grey boxes are free of gravity. It means you can draw any shape, and it will stay still without falling. Use the drawings in grey boxes to create a platform for other objects falling on it.Collect StarsTo pass a level, you should clear all the blue stars. If you complete the drawing but still have a few blue stars left on the screen, you can use the replay button (on the top right) to return to the initial state. When you are stuck with a level, you can claim a hint by tapping the bulb icon on the bottom right.Besides blue stars in the platforms, you will also get a score on how well you managed that specific puzzle.After each level, you will get between 0 and 3 stars, depending on your performance. Keep reading to learn about how to achieve a 3-star performance.  Use Your Ink WiselyResources are not limitless. You can see how much ink is left in the bottle on the top of the screen.Use less ink by drawing smaller objects to complete levels with three stars.You cannot get any stars if you over-scribble and consume all the ink.You can see how many stars you gained in each level in the main menu.CompatibilityYou can play Draw Here on a browser on the following devices:PCLaptopChrome OSMobile (iOS and Android) ControlsTap and hold or use your mouse click to draw. More Drawing GamesIf you enjoy solving physics puzzles, you can try your hand at Draw the Bridge, where you build bridges by drawing to create a proper path for a poor car left on its way.In case you heavily depend on drawing skills more than your physics knowledge, let's get you seated at the board of Skribblio. In this game, you will draw given words and make other online players guess them correctly. Try all our drawing games and decide which is your favorite.Our community is looking forward to hearing from you. Comment down what you like or dislike about Draw Here below.Embed URL:https://www.onlinegames.io/games/2021/unity2/draw-here/index.htmlThis article was updated on February 28, 20241 Player2DBrainDrawingEmbeddableFreeLogicMobilePhysicsPuzzle",
+  "extractedAt": "2025-06-10T05:48:02.255Z",
+  "localThumbnail": "Draw Here_1749534482255.jpg"
+}

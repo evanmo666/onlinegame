@@ -1,0 +1,65 @@
+{
+  "url": "https://www.onlinegames.io/rummy-multiplayer/",
+  "title": "Rummy Multiplayer",
+  "category": "/t/strategy/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/825/Rummy-Multiplayer-Online.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/825/Rummy-Multiplayer-Online.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/825/responsive/Rummy-Multiplayer-Online-xs.jpg 384w, https://www.onlinegames.io/media/posts/825/responsive/Rummy-Multiplayer-Online-sm.jpg 600w, https://www.onlinegames.io/media/posts/825/responsive/Rummy-Multiplayer-Online-md.jpg 768w, https://www.onlinegames.io/media/posts/825/responsive/Rummy-Multiplayer-Online-lg.jpg 1200w",
+    "alt": "Rummy Multiplayer Free Online Card Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://html5.gamedistribution.com/5a3346e1be454327909c196ebb06aaea/?gd_sdk_referrer_url=https://www.onlinegames.io/rummy-multiplayer",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Basic Rummy Rules"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Rummy Multiplayer?"
+      },
+      {
+        "type": "h2",
+        "text": "Sets and Sequences"
+      },
+      {
+        "type": "h2",
+        "text": "Scoring Points in Rummy"
+      },
+      {
+        "type": "h2",
+        "text": "Move of the Daredevils: Going Rummy"
+      },
+      {
+        "type": "h2",
+        "text": "Language"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "Similar Games"
+      }
+    ],
+    "controls": [],
+    "howToPlay": "When it's your turn, take one card from the upper deck or waste pile.The waste card is a face up card discarded by the left player.Form valid sets or sequences and lay a meld down. We will explain how to create sets below.Discard one card from your hand after your move.You can directly discard a card if you don't have any sets or sequences.You can also add cards to other players' melds from the cards in your hand. For example, one player laid off these cards: 6♦️,7♦️,8♦️. You can add 5♦️ or ♦️9 to the sequence. You can also lay off more than one card.Continue playing until one of the players eliminates all of the hand cards.Calculate the score and start over.The player who has a certain number of points (this number can be 100, 150, or 200, depending on the number of players) wins the game.",
+    "tips": "",
+    "developer": "Rummy Multiplayer was created by CodeThisLab.",
+    "similarGames": [
+      {
+        "title": "Rummikub",
+        "url": "https://www.onlinegames.io/rummikub/"
+      }
+    ]
+  },
+  "fullContent": "Home› CardRummy MultiplayerBy OnlineGames.ioMake Game Full ScreenRummy Multiplayer is a card game you can play with friends up to 4 people. You will be dealt a certain number of cards once the game starts. Create valid sets or sequences with all your cards, place them down and be the winner! It is as simple as that! Follow through the tutorial or read the guidelines below to adjust into Rummy!Basic Rummy RulesYou can play Rummy Multiplayer with 2,3 or 4 players.The cards are Ace,2,3,4,5,6,7,8,9, Jack, Queen and King.The game is played with 2 decks of cards.If there are two players, 10 cards will be distributed to each player. If you play with 3 or more people, you will get 7 cards.How to Play Rummy Multiplayer?When it's your turn, take one card from the upper deck or waste pile.The waste card is a face up card discarded by the left player.Form valid sets or sequences and lay a meld down. We will explain how to create sets below.Discard one card from your hand after your move.You can directly discard a card if you don't have any sets or sequences.You can also add cards to other players' melds from the cards in your hand. For example, one player laid off these cards: 6♦️,7♦️,8♦️. You can add 5♦️ or ♦️9 to the sequence. You can also lay off more than one card.Continue playing until one of the players eliminates all of the hand cards.Calculate the score and start over.The player who has a certain number of points (this number can be 100, 150, or 200, depending on the number of players) wins the game.Sets and SequencesYou can form sets consisting of 3 same numbers (or faces) of different suits. For example, all of the sets given below are valid.A♣️,A♦️,A♥️,A♠️3♣️,3♦️,3♥️,3♠️7♠️,7♥️,7♦️,7♣️Q♣️,Q♦️Q♥️You can also form sequences of a single suit. To create a sequence, you need to have at least 3 consecutive cards of the same suit. For instance, these sequences can be formed.J♦️,Q♦️,K♦️,A♦️A♠️,2♠️,3♠️9♥️,10♥️,J♥️4♣️,5♣️,6♣️,7♣️Scoring Points in RummyWhen a player gets rid of all the cards in his hands, the round is over. The sum of the remaining cards' value is the winner's score. So, keeping low-value cards in your hand would be wise.Number cards (2-9) have a value the same as the digit on the card.Ace values 1 point.All face cards (King, Queen and Jack) value 10 points.Move of the Daredevils: Going RummyAs in almost every other card game, Rummy rules reward risky plays.You can double your scores by \"going Rummy\".To do that, wait to lay off any cards until the end. When you are ready, remove all your hand cards in one turn.Be cautious while going Rummy since another player can go Rummy before you!LanguageRummy Multiplayer is available in English, French, Spanish, German, Portuguese, Italian and Russian.DeveloperRummy Multiplayer was created by CodeThisLab.Similar GamesIf you like board games requiring strategy, try Rummikub to flip some tiles. For the ones who want to stick to card games, we have many Solitaire variants free to play. Follow the links and find a game to play on your break.This article was updated on August 21, 20242DBoardCardFreeHTML5MouseMultiplayerSolitaireStrategy",
+  "extractedAt": "2025-06-10T05:57:39.189Z",
+  "localThumbnail": "Rummy Multiplayer_1749535059189.jpg"
+}

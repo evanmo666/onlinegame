@@ -1,0 +1,62 @@
+{
+  "url": "https://www.onlinegames.io/hero-tower/",
+  "title": "Hero Tower",
+  "category": "/t/puzzle/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/896/Hero-Tower.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/896/Hero-Tower.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/896/responsive/Hero-Tower-xs.jpg 384w, https://www.onlinegames.io/media/posts/896/responsive/Hero-Tower-sm.jpg 600w, https://www.onlinegames.io/media/posts/896/responsive/Hero-Tower-md.jpg 768w, https://www.onlinegames.io/media/posts/896/responsive/Hero-Tower-lg.jpg 1200w",
+    "alt": "Hero Tower Play Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://cloud.onlinegames.io/games/2024/unity/hero-tower/index-og.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Hero Tower"
+      },
+      {
+        "type": "h2",
+        "text": "Enemies"
+      },
+      {
+        "type": "h2",
+        "text": "Weapons"
+      },
+      {
+        "type": "h2",
+        "text": "Boosters"
+      },
+      {
+        "type": "h2",
+        "text": "Build Your Empire"
+      },
+      {
+        "type": "h2",
+        "text": "Upgrade Your Hero"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      }
+    ],
+    "controls": [
+      "PC: Hold the left mouse button and drag to move your hero.Mobile: Tap and drag your hero to choose their path."
+    ],
+    "howToPlay": "Start the first level by hitting the battle button. You'll see enemies are placed on different floors of the tower. Assess the strength levels of enemies on each floor.Plan every move—start with weaker enemies to gain strength and resources before taking on tougher opponents.Battle your way to the top of the tower where Princess Luccy awaits. Face off against the boss to secure her freedom.",
+    "tips": "",
+    "developer": "Hero Tower is developed by FreezeNova Games.",
+    "similarGames": []
+  },
+  "fullContent": "Home› HeroHero TowerBy OnlineGames.ioMake Game Full ScreenIf an enemy doesn't kill you, it makes you stronger in Hero Tower! In this free game that blends action, adventure, strategy, and math skills, you're on an epic quest: rescuing the Demacia Kingdom's Princess! As a hero of the kingdom, you will battle your way through enemies in this quest. At each level, you'll enter towers with enemies of distinct strength levels. You will fight each one of them one by one. If your strength exceeds theirs, you'll win the battle and absorb the enemy's strength. You must grow your power by picking the enemies in a strategic order. Win all the battles and save Princess Luccy!ControlsPC: Hold the left mouse button and drag to move your hero.Mobile: Tap and drag your hero to choose their path.How to Play Hero TowerStart the first level by hitting the battle button. You'll see enemies are placed on different floors of the tower. Assess the strength levels of enemies on each floor.Plan every move—start with weaker enemies to gain strength and resources before taking on tougher opponents.Battle your way to the top of the tower where Princess Luccy awaits. Face off against the boss to secure her freedom.EnemiesFace off against diverse enemies, each with distinct traits and attack styles. Some of them are as follows:Goblins: They are very mischievous and greedy, especially for gold and jewelry. They deal damage.Kappas: Anthropomorphic reptiles that live in rivers and streams. They can spit out powerful poisons that reduce energy.Wolf: Canines with long, bushy tails. They can bite a man to death if they're dangerous.Undeath: Beings in mythology, legend, or fiction that are deceased but behave as if they were alive. They deal a lot of damage.WeaponsEquip uour Tower Hero with formidable weapons like the Iron Knife, Jade Sword, and Shurikens to turn the tide of battle.Iron Knife: A special knife forged in the Swar volcano. It causes the stab to bleed continuously.Jade Sword: Forged by the best craftsmen in Jade, this sword causes a huge amount of damage.Mace: A weapon used by the strongest warriors. It both stuns and kills enemies, though it's a bit slow.Shurikens: Consumable throwing weapons that can pierce several enemies. They have a 50% chance of being retrievable after use.BoostersGain advantages with items like Power Bread and the legendary Unbeaten Shield, offering both power and defense.Power Bread: A special bread made by celebrity chef Robinz of Demacia to celebrate Princess Luccy's 20th birthday.Unbeaten Shield: An absolute, unbreakable defense weapon of Demacia. Whoever wields it is invincible, and only heroes are deemed worthy.Build Your EmpireUse coins to create and upgrade castles and towns, strengthening your position and unlocking new opportunities for growth. You can build different kinds of castles and upgrade them in the castle menu. When you upgrade all your buildings to the maximum level, unlock a new world for your next adventures.Upgrade Your HeroChange your Hero's skin using your coins. 24 awesome skins await you in the shop. If the Medieval Age theme is not your thing, you can unlock even Squid Game player or Batman as a hero skin.DeveloperHero Tower is developed by FreezeNova Games.This article was updated on December 13, 20241 Player2DActionBattleCombatFreeHeroMathMobilePuzzleStrategy",
+  "extractedAt": "2025-06-10T05:49:25.546Z",
+  "localThumbnail": "Hero Tower_1749534565547.jpg"
+}

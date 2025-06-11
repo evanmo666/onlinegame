@@ -1,0 +1,53 @@
+{
+  "url": "https://www.onlinegames.io/soccer-random/",
+  "title": "Soccer Random",
+  "category": "/t/arcade/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/933/soccer-random.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/933/soccer-random.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/933/responsive/soccer-random-xs.jpg 384w, https://www.onlinegames.io/media/posts/933/responsive/soccer-random-sm.jpg 600w, https://www.onlinegames.io/media/posts/933/responsive/soccer-random-md.jpg 768w, https://www.onlinegames.io/media/posts/933/responsive/soccer-random-lg.jpg 1200w",
+    "alt": "Soccer Random Free Online Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://cloud.onlinegames.io/games/2024/gm/games2/soccer-random/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Soccer Random"
+      },
+      {
+        "type": "h2",
+        "text": "Game Features"
+      },
+      {
+        "type": "h2",
+        "text": "Who Created Soccer Random?"
+      },
+      {
+        "type": "h2",
+        "text": "More Ragdoll Games"
+      }
+    ],
+    "controls": [
+      "Computer",
+      "Press W to jump and kick (Player 1).Press Up Arrow to jump and kick (Player 2).",
+      "Mobile",
+      "Tap the on-screen button to jump and kick."
+    ],
+    "howToPlay": "The game begins with two ragdoll soccer players on each team. They are constantly swinging. Press the button to make your players jump and attempt to kick the ball. The physics-based movement makes it tricky but fun!Get the ball into the opponent's net before they score on you. First to 5 goals wins the round.Every round, the field, ball, and even the player models may change, adding a new challenge.Keep scoring to win the match and move on to the next chaotic round!",
+    "tips": "",
+    "developer": "",
+    "similarGames": []
+  },
+  "fullContent": "Home› SoccerSoccer RandomBy OnlineGames.ioMake Game Full ScreenSoccer Random is a fun and chaotic two-player soccer game where physics takes over the field! With just one button, you control a team of ragdoll-like players who jump, flip, and kick in unpredictable ways. The objective is to score 5 goals before your opponent. But there's a twist! After each score, the game changes, bringing new fields, weather conditions, and even different types of soccer balls.ControlsComputerPress W to jump and kick (Player 1).Press Up Arrow to jump and kick (Player 2).MobileTap the on-screen button to jump and kick.How to Play Soccer RandomThe game begins with two ragdoll soccer players on each team. They are constantly swinging. Press the button to make your players jump and attempt to kick the ball. The physics-based movement makes it tricky but fun!Get the ball into the opponent's net before they score on you. First to 5 goals wins the round.Every round, the field, ball, and even the player models may change, adding a new challenge.Keep scoring to win the match and move on to the next chaotic round!Game FeaturesPlay on different fields with changing weather and themes.Kick anything from regular soccer balls to beach balls and more!The unpredictable ragdoll movements make every goal attempt unique.Challenge a friend on the same device and see who can handle the chaos better.Who Created Soccer Random?Soccer Random was developed by RHM Interactive, a studio known for its fun and physics-based sports games.More Ragdoll GamesIf you love the wild gameplay of Soccer Random, you might enjoy other physics-based sports games like Basket Random and Soccer Masters. Each one offers unpredictable fun with simple controls! This article was updated on February 24, 20252 Player2DArcadeArenaBallCrazyFreeFunPhysicsPixelSoccerSportsWorld Cup",
+  "extractedAt": "2025-06-10T05:15:11.572Z",
+  "localThumbnail": "Soccer Random_1749532511573.jpg"
+}

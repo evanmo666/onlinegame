@@ -1,0 +1,56 @@
+{
+  "url": "https://www.onlinegames.io/boxing-stars/",
+  "title": "Boxing Stars",
+  "category": "/t/arcade/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/879/online-boxing-stars.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/879/online-boxing-stars.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/879/responsive/online-boxing-stars-xs.jpg 384w, https://www.onlinegames.io/media/posts/879/responsive/online-boxing-stars-sm.jpg 600w, https://www.onlinegames.io/media/posts/879/responsive/online-boxing-stars-md.jpg 768w, https://www.onlinegames.io/media/posts/879/responsive/online-boxing-stars-lg.jpg 1200w",
+    "alt": "Boxing Stars Play Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://cloud.onlinegames.io/games/2024/gm/games7/boxing-stars/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Boxing Stars"
+      },
+      {
+        "type": "h2",
+        "text": "Duel a Friend in Boxing Stars"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "What's Next?"
+      }
+    ],
+    "controls": [
+      "Computers",
+      "Player 1",
+      "Move: Use WASDLeft Punch: Press FRight Punch: Press GBreak a Guard: Press TBlock: Press E",
+      "Player 2",
+      "Move: Use Arrow KeysLeft Punch: Press KRight Punch: Press LBreak a Guard: Press OBlock: Press I",
+      "Mobile Devices",
+      "Move: Use the virtual joystick on the screen.Punch: Tap on the touchscreen to attack."
+    ],
+    "howToPlay": "If you're new to the ring, start with the tutorial. You'll be boxing with a scarecrow and learn to punch and dodge attacks for more intense fights in the arena.When you're ready to rumble, pick your fight - against the CPU or tag in a friend.Use F or left-click to left punch, and G or right-click to right punch. Press both mouse buttons simultaneously or the T key to break the opponent's guard.Defend like a champion. Retreat while tapping E to block those incoming blows. It's like putting up an invisible force field where you say, \"I need to keep my face pretty.\"",
+    "tips": "",
+    "developer": "Zupga developed Boxing Stars.",
+    "similarGames": []
+  },
+  "fullContent": "Home› 2 PlayerBoxing StarsBy OnlineGames.ioMake Game Full ScreenEver been told by your mom that boxing inside is a no-go? Yeah, because who wants to explain how the living room became a demolition derby? Well, fret not; we have provided a solution! Enter the Boxing Stars game, where you and your brother can duke it out in the ring. Here, you play as wobbly boxers. And the only thing at risk is your dignity. No vases will shatter, no furniture will tremble, and most importantly, no tooth will be swallowed.So, go ahead, throw those punches, and let your mom marvel at the peace in her living room. Meanwhile, you two battle it out with the crowd's roar. Start playing Boxing Stars now!ControlsComputersPlayer 1Move: Use WASDLeft Punch: Press FRight Punch: Press GBreak a Guard: Press TBlock: Press EPlayer 2Move: Use Arrow KeysLeft Punch: Press KRight Punch: Press LBreak a Guard: Press OBlock: Press IMobile DevicesMove: Use the virtual joystick on the screen.Punch: Tap on the touchscreen to attack.How to Play Boxing StarsIf you're new to the ring, start with the tutorial. You'll be boxing with a scarecrow and learn to punch and dodge attacks for more intense fights in the arena.When you're ready to rumble, pick your fight - against the CPU or tag in a friend.Use F or left-click to left punch, and G or right-click to right punch. Press both mouse buttons simultaneously or the T key to break the opponent's guard.Defend like a champion. Retreat while tapping E to block those incoming blows. It's like putting up an invisible force field where you say, \"I need to keep my face pretty.\"Duel a Friend in Boxing StarsReady to test the bonds of friendship in the most civilized way possible - by virtually punching each other? Here's what you do:Choose the Two-Player Mode. You're either the blue boxer or the orange one. When the battle beginsPlayer 1, you've got the WASD keys to move, F for a left hook, G for a right, T to shatter their guard like a finely crafted insult, and E to block because even in a fight, defense is key.Player 2, you're on the arrow keys, K for a left punch, L for a right, O to break through their defense, and I to block.There's something uniquely satisfying about knocking out your best mate in a game where the only thing bruised is their ego. Remember, in Boxing Stars, the only thing you'll lose is the match, not your friendship... hopefully. So, glove up, get in the ring, and may the best wobbly boxer win. After all, what's a friendship without a little healthy competition?DeveloperZupga developed Boxing Stars.What's Next?Remember, in this boxing game, the only thing you'll need to worry about is not accidentally hitting the 'quit' button when you're on the ropes. So, if you would like a similar challenge, check out other local 2-player games we have. This article was updated on November 25, 20242 Player3DArcadeArenaCombatCrazyFreeFunMobileSports",
+  "extractedAt": "2025-06-10T05:17:01.824Z",
+  "localThumbnail": "Boxing Stars_1749532621824.jpg"
+}

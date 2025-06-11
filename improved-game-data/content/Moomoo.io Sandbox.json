@@ -1,0 +1,38 @@
+{
+  "url": "https://www.onlinegames.io/moomoo-io-sandbox/",
+  "title": "Moomoo.io Sandbox",
+  "category": "/t/adventure/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/353/Moomoo.io-SandBox-2.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/353/Moomoo.io-SandBox-2.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/353/responsive/Moomoo.io-SandBox-2-xs.jpg 384w, https://www.onlinegames.io/media/posts/353/responsive/Moomoo.io-SandBox-2-sm.jpg 600w, https://www.onlinegames.io/media/posts/353/responsive/Moomoo.io-SandBox-2-md.jpg 768w, https://www.onlinegames.io/media/posts/353/responsive/Moomoo.io-SandBox-2-lg.jpg 1200w",
+    "alt": "Moomoo.io Sandbox Free",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://moomoo.io/",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "Moomoo.io Sandbox Controls"
+      }
+    ],
+    "controls": [
+      "• WASD or arrow keys to move• Number keys to select an item/structure• Left click to attack"
+    ],
+    "howToPlay": "",
+    "tips": "",
+    "developer": "Moomoo.io Sandbox was created by Yendis Entertainment.",
+    "similarGames": []
+  },
+  "fullContent": "Home› SandboxMoomoo.io SandboxBy OnlineGames.ioMake Game Full ScreenIn Moomoo.io Sandbox you will control a mini character, ready to survive the environment, animals and enemies.Create your own strategies and tactics and practice your skills on the server.First you need to choose one server, select your color.Collect resources around the map to build a village. Your Windmills generate gold over time. But make sure to protect them from other players.You will have at your disposal the following items:• Tool hammer - weapons can be upgraped • Aple - restores 20 health when consumed• Wood wall - provides protection for your village• Spikes - damages enemies when they touch them• Windmill - generates gold over timeDeveloperMoomoo.io Sandbox was created by Yendis Entertainment.Moomoo.io Sandbox Controls• WASD or arrow keys to move• Number keys to select an item/structure• Left click to attackThis article was updated on March 12, 20242DAdventureCraftingFreeio GamesMinecraftMultiplayerSandboxSurvival",
+  "extractedAt": "2025-06-10T05:11:08.469Z",
+  "localThumbnail": "Moomoo.io Sandbox_1749532268469.jpg"
+}

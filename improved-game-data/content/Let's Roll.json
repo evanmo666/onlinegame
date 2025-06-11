@@ -1,0 +1,54 @@
+{
+  "url": "https://www.onlinegames.io/lets-roll/",
+  "title": "Let's Roll",
+  "category": "/new-games/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/791/Lets-Roll.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/791/Lets-Roll.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/791/responsive/Lets-Roll-xs.jpg 384w, https://www.onlinegames.io/media/posts/791/responsive/Lets-Roll-sm.jpg 600w, https://www.onlinegames.io/media/posts/791/responsive/Lets-Roll-md.jpg 768w, https://www.onlinegames.io/media/posts/791/responsive/Lets-Roll-lg.jpg 1200w",
+    "alt": "Let's Roll Play Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2024/wix/lets-roll/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Basics of Lets Roll"
+      },
+      {
+        "type": "h3",
+        "text": "Spikey Walls and Accelerator Ramps"
+      },
+      {
+        "type": "h3",
+        "text": "Stage Select"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "What is More?"
+      }
+    ],
+    "controls": [
+      "A/D or Left and Right Arrow Keys: Steer Left or RightW/Upper Arrow/Spacebar Keys: Bounce"
+    ],
+    "howToPlay": "",
+    "tips": "",
+    "developer": "Wix Games developed Let's Roll.",
+    "similarGames": []
+  },
+  "fullContent": "Home› BallLet's RollBy OnlineGames.ioMake Game Full ScreenLet's start rolling down! Let's Roll is a 3D arcade game where you steer a moving ball through various platforms with obstacles on them. However, if the ball falls into a gap or touches any spiky object, it will shatter into a million pieces!To prevent this from happening, you must maneuver the ball well and overcome obstacles as it moves forward in this crazy game. Fans of \"Slope\" will love \"Let's Roll\"!ControlsA/D or Left and Right Arrow Keys: Steer Left or RightW/Upper Arrow/Spacebar Keys: BounceBasics of Lets RollTry to cover the miles without crashing any objects on the platforms or falling into the gaps in this arcade game.The ball will automatically start to move when you click on the “Play” button.Then, all you need to do is move your ball from left to right and make it jump when encountering a hindrance.If it hits a spiky object or any other object, you need to restart from the beginning of the last checkpoint you pass.Strive to understand the dynamics of the obstacles and overcome them easily!Spikey Walls and Accelerator RampsOn the way, you will encounter many kinds of obstacles such as spikey walls, accelerator ramps and wide gaps to pass. Keep in mind that the ball should not get in contact with any of the spiky objects.The accelerator ramps will help you jump forward and pass wide gaps. However, you need to control the ball well, as it will get very fast when using the ramps. Speed ​​can easily cause the ball to go off course.Stage SelectDon’t forget that you can select a specific stage and replay it to collect more coins in this crazy game. This way, you can earn more coins and unlock new balls. All you need to do is enter the menu and tap the “Stage Select” button. Next, you are free to choose the stage you want to play again. You can also think of these stages as checkpoints that you pass.DeveloperWix Games developed Let's Roll.What is More?Crazy Ball Adventures may also be of interest to you. In the game, you will try to guide a ball on the tracks full of obstacles. Make the ball reach the finish line without dropping it into the open sea!You may look up other online ball games on OnlineGames.io for further gaming options. Additionally, please share your gaming experiences with us in the comment section below!This article was updated on January 28, 20251 PlayerArcadeBallFreeFunParkourSkillUnity",
+  "extractedAt": "2025-06-10T06:06:28.771Z",
+  "localThumbnail": "Let's Roll_1749535588773.jpg"
+}

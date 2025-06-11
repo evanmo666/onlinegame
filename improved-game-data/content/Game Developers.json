@@ -1,0 +1,56 @@
+{
+  "url": "https://www.onlinegames.io/game-developers/",
+  "title": "Game Developers",
+  "category": "/t/action/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/903/Game-Developers.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/903/Game-Developers.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/903/responsive/Game-Developers-xs.jpg 384w, https://www.onlinegames.io/media/posts/903/responsive/Game-Developers-sm.jpg 600w, https://www.onlinegames.io/media/posts/903/responsive/Game-Developers-md.jpg 768w, https://www.onlinegames.io/media/posts/903/responsive/Game-Developers-lg.jpg 1200w",
+    "alt": "Submint your game to OnlineGames.io",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": null,
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Submit Your Game to OnlineGames.io"
+      },
+      {
+        "type": "h2",
+        "text": "Why Submit Your Game to OnlineGames.io?"
+      },
+      {
+        "type": "h2",
+        "text": "How to Submit Your Game"
+      },
+      {
+        "type": "h2",
+        "text": "Licensing Options"
+      },
+      {
+        "type": "h2",
+        "text": "Game Engine & Browser Support"
+      },
+      {
+        "type": "h2",
+        "text": "Game Submission Tips"
+      },
+      {
+        "type": "h3",
+        "text": "Ready to Submit?"
+      }
+    ],
+    "controls": [],
+    "howToPlay": "",
+    "tips": "Provide Clear Game Descriptions: A brief but informative game description helps our team evaluate your game quickly. Include key features, objectives, and any unique gameplay elements that set your game apart.Test Your Game Thoroughly: Before submitting, ensure your game runs without glitches or errors. Games that are polished and well-tested stand out to players and provide a better overall experience.Consider Browser Compatibility: Since OnlineGames.io is a browser-based platform, make sure your game is optimized for web play. The smoother the game runs, the better it will perform.",
+    "developer": "",
+    "similarGames": []
+  },
+  "fullContent": "Home› BlogGame DevelopersBy OnlineGames.ioLoading…Submit Your Game to OnlineGames.ioAt OnlineGames.io, we’re excited to showcase the best and most innovative games available, and we want you to be a part of it! Our platform reaches a wide audience, offering a great opportunity for developers to share their work with players around the world. Whether you’re an indie developer or part of a large studio, submitting your game to our platform is easy and straightforward.Why Submit Your Game to OnlineGames.io?Submitting your game to OnlineGames.io means more than just listing it on a site—it’s a chance to get your game in front of a dedicated gaming community. We focus on offering a free and seamless gaming experience for users worldwide. In this, we’re committed to helping developers gain exposure and maximize their reach.How to Submit Your GameTo submit your game, simply fill out the form above. The process is quick and includes providing your game’s URL, a brief description, and your licensing options. We ask that you also include your email and company details to help us keep in touch and ensure smooth communication.Email: We’ll use this to communicate with you about your game submission.Company Name: Let us know who you are.Game URL: The link to your game, so we can access and review it. Our QA specialists and game curators will test the game.Game Description: A brief overview of your game to help us understand what it’s about. Game control info is appreciated in this section.  Licensing Options: Choose the licensing option that best fits your needs.Licensing OptionsWhen submitting your game, you’ll be asked to select a licensing option that works for you. We offer several different models, allowing you to choose the level of control you want over your game. Here are the licensing options available:Sell Site-Lock License: This option allows you to sell a site-lock license for your game. The game can be locked to specific websites, ensuring that only certain platforms like OnlineGames.io can feature it. It’s a great way to protect your intellectual property while still making it available to players.Sell Exclusive License: With an exclusive license, your game is sold to one platform or buyer only, making it an exclusive offering. This option is ideal for developers who want to partner with a single platform and ensure their game is the primary offering on that site.Revenue Share: Opt for a revenue-sharing model where you earn a percentage of the revenue generated from your game on our platform. This option is perfect if you’re looking for passive income and want your game to reach a wide audience without requiring a direct upfront payment.Other: If you have a different licensing model in mind, please select this option and briefly explain it. We’re open to discussing custom licensing options based on your unique needs.Game Engine & Browser SupportWe aim to provide the best possible experience for players, which is why we prioritize games that are compatible with a wide range of devices and browsers. When submitting your game, make sure to indicate which game engine you used and which browsers your game supports. Here are some of the most commonly used game engines that are well-supported on our platform:Unity: Known for its versatility, Unity supports both 2D and 3D games and is compatible with most modern browsers. You can check out Unity games on our platform by following the link.Unreal Engine: Unreal Engine games offer high-quality graphics and can be optimized for web browsers with WebAssembly.HTML5: Ideal for quick deployment across all modern browsers, HTML5 games run seamlessly without requiring additional plugins. Mobile support makes HTML5 games popular on the platform.Godot: A free and open-source engine with growing support for web-based games.Construct: Another great engine for 2D games, especially if you’re looking for a no-code solution.Cocos2d: A popular open-source engine for building 2D games, known for its simplicity and performance across browsers.Phaser: A powerful 2D game framework that works well with HTML5, offering great flexibility for building web-based games.GameMaker Studio 2: Well-suited for 2D games, GameMaker Studio 2 supports both desktop and web deployment with easy-to-use tools for game design.Defold: A lightweight engine designed for 2D games, which supports web browsers and various platforms, known for fast loading times and efficient performance.GDevelop: An open-source, no-code game engine for creating 2D games, designed for rapid development and web publishing.Make sure your game runs smoothly in the latest versions of popular browsers like Google Chrome, Mozilla Firefox, and Microsoft Edge to maximize reach and accessibility. Games that offer great compatibility across multiple platforms, including desktops, laptops, and mobile devices, tend to perform better on our platform.Game Submission TipsProvide Clear Game Descriptions: A brief but informative game description helps our team evaluate your game quickly. Include key features, objectives, and any unique gameplay elements that set your game apart.Test Your Game Thoroughly: Before submitting, ensure your game runs without glitches or errors. Games that are polished and well-tested stand out to players and provide a better overall experience.Consider Browser Compatibility: Since OnlineGames.io is a browser-based platform, make sure your game is optimized for web play. The smoother the game runs, the better it will perform.Ready to Submit?Once you’ve filled out the form and selected the right licensing option, submit your game, and we’ll review it as quickly as possible. If we have any questions or need further information, we’ll reach out to you. We look forward to showcasing your game on OnlineGames.io!This article was updated on December 24, 2024Blog",
+  "extractedAt": "2025-06-10T05:06:26.406Z",
+  "localThumbnail": "Game Developers_1749531986407.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://www.onlinegames.io/neon-racer/",
+  "title": "Neon Racer",
+  "category": "/t/racing/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/173/Neon-Racer-2.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/173/Neon-Racer-2.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/173/responsive/Neon-Racer-2-xs.jpg 384w, https://www.onlinegames.io/media/posts/173/responsive/Neon-Racer-2-sm.jpg 600w, https://www.onlinegames.io/media/posts/173/responsive/Neon-Racer-2-md.jpg 768w, https://www.onlinegames.io/media/posts/173/responsive/Neon-Racer-2-lg.jpg 1200w",
+    "alt": "Neon Racer Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2021/4/neon-racer/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Neon Racer Controls"
+      }
+    ],
+    "controls": [
+      "A/D or left/right arrows to control bikeW or up arrow to jump"
+    ],
+    "howToPlay": "",
+    "tips": "",
+    "developer": "",
+    "similarGames": []
+  },
+  "fullContent": "Home› DrivingNeon RacerBy OnlineGames.ioMake Game Full ScreenNeon Racer is the perfect game you are addicted to adrenaline. We have prepared 30 levels and modern neon visuals that will give you the ultimate racer experience.Complete the levels  by overcoming the obstacles, collecting diamonds and without crushing the bike. Change the speed depending on what's coming next on your way.You have the opportunity to buy different types of motorbikes with the collected diamonds. Neon Racer ControlsA/D or left/right arrows to control bikeW or up arrow to jumpThis article was updated on February 13, 20241 Player2DBikeDrivingFreeHTML5MobilePhysicsRacingTrial",
+  "extractedAt": "2025-06-10T05:38:19.714Z",
+  "localThumbnail": "Neon Racer_1749533899714.jpg"
+}

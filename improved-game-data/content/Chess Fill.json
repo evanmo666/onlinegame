@@ -1,0 +1,50 @@
+{
+  "url": "https://www.onlinegames.io/chess-fill/",
+  "title": "Chess Fill",
+  "category": "/t/puzzle/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/433/Chess-Fill.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/433/Chess-Fill.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/433/responsive/Chess-Fill-xs.jpg 384w, https://www.onlinegames.io/media/posts/433/responsive/Chess-Fill-sm.jpg 600w, https://www.onlinegames.io/media/posts/433/responsive/Chess-Fill-md.jpg 768w, https://www.onlinegames.io/media/posts/433/responsive/Chess-Fill-lg.jpg 1200w",
+    "alt": "Chess Fill Play Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://html5.gamedistribution.com/169fb99eaca444bfb5d8cd329e680d2e/?gd_sdk_referrer_url=https://www.onlinegames.io/chess-fill",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "A Brand New Way of Playing Chess"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Chess Fill?"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "You May Also Like"
+      }
+    ],
+    "controls": [
+      "Use your mouse to tap on the chess piece you want to move and move it to the desired place by pressing the left click."
+    ],
+    "howToPlay": "Our goal in Chess Fill is to paint the entire chessboard. However, this can only happen with moving the pieces. As you level up, the type of chess piece you encounter will also change. You can only carry out the painting process here according to the direction the piece given to you can play. Therefore, you must move the pieces strategically to paint the board entirely. Be sure to color every square on the chessboard without leaving any white space.",
+    "tips": "",
+    "developer": "Chess Fill was created by MathNook.",
+    "similarGames": []
+  },
+  "fullContent": "Home› ChessChess FillBy OnlineGames.ioMake Game Full ScreenA Brand New Way of Playing ChessHow do you feel about chess? It demands mental acuity and focus. Some may find it dull, while others are deeply passionate about it. But we are sure you will love this! Chess Fill is a very simple and enjoyable strategy game. There are 70 unique chess puzzles. You may encounter different chess pieces at different levels. You can move the pieces given to you on the chessboard only like in chess. Unlike the classic one, this is a somewhat colorful chess game. Let's see how far you can go!How to Play Chess Fill?Our goal in Chess Fill is to paint the entire chessboard. However, this can only happen with moving the pieces. As you level up, the type of chess piece you encounter will also change. You can only carry out the painting process here according to the direction the piece given to you can play. Therefore, you must move the pieces strategically to paint the board entirely. Be sure to color every square on the chessboard without leaving any white space.ControlsUse your mouse to tap on the chess piece you want to move and move it to the desired place by pressing the left click.DeveloperChess Fill was created by MathNook.You May Also LikeIf you like playing Chess Fill, we suggest you also try playing Grandmaster Chess, in which you are playing chess against AI. Or, you may look for free online board games and puzzle games on OnlineGames.io by following the links.This article was updated on February 28, 20241 Player2DBlockBoardBrainChessCozyFreeLogicMousePuzzleStrategy",
+  "extractedAt": "2025-06-10T05:48:35.614Z",
+  "localThumbnail": "Chess Fill_1749534515614.jpg"
+}

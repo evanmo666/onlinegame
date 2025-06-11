@@ -1,0 +1,57 @@
+{
+  "url": "https://www.onlinegames.io/get-on-top/",
+  "title": "Get On Top",
+  "category": "/t/action/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/697/Get-on-Top.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/697/Get-on-Top.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/697/responsive/Get-on-Top-xs.jpg 384w, https://www.onlinegames.io/media/posts/697/responsive/Get-on-Top-sm.jpg 600w, https://www.onlinegames.io/media/posts/697/responsive/Get-on-Top-md.jpg 768w, https://www.onlinegames.io/media/posts/697/responsive/Get-on-Top-lg.jpg 1200w",
+    "alt": "Get on Top Online Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2024/code/6/get-on-top/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Get On Top?"
+      },
+      {
+        "type": "h2",
+        "text": "Attack But Remember to Defend"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "Technology"
+      },
+      {
+        "type": "h2",
+        "text": "What is Next?"
+      }
+    ],
+    "controls": [
+      "Computers",
+      "Left Player: A, D, W keys to control stickmanRight Player: Left, right and up arrows to control stickman",
+      "Mobile Devices",
+      "Use the relevant arrow buttons on the screen."
+    ],
+    "howToPlay": "Two game modes to choose: 1 Player against AI and 2 players The goal is to take control of the ragdoll and make it jump over the opponent. You win the round if the opponent's head hits the ground.Score a point in 11 rounds to be the winner of the game.",
+    "tips": "",
+    "developer": "Neplin Game Studio made this game.",
+    "similarGames": []
+  },
+  "fullContent": "Home› 2 PlayerGet On TopBy OnlineGames.ioMake Game Full ScreenRemember those days when you and your brother used to wrestle for hours until one of you cried and complained to Mom? It was a real duel, wasn't it? You would flip over together like a human ball, with arms and legs flying in the air. So, we've brought sibling wrestling to the virtual realm. When Mom gets sick of your fights and forbids wrestling in the house, you can take your duel to the Get On Top game and resume your challenge in a less physical way.You read that right: Get on Top is a 2-player stickman game where players combat with a friend, trying to get on top and make the opponent's head touch the ground. ControlsComputersLeft Player: A, D, W keys to control stickmanRight Player: Left, right and up arrows to control stickmanMobile DevicesUse the relevant arrow buttons on the screen.How to Play Get On Top?Two game modes to choose: 1 Player against AI and 2 players The goal is to take control of the ragdoll and make it jump over the opponent. You win the round if the opponent's head hits the ground.Score a point in 11 rounds to be the winner of the game.Attack But Remember to DefendIf you get zoned to attack your opponent, things may not go as you desire. Get On Top is a game with interesting physics; you may flip and hit your head to the ground while trying to attack your rival. So, defense is also crucial. Try to keep your head and neck away from the floor. Move leftward and rightward to adjust the head skillfully in each position. Use your body mass as an advantage and shift it strategically. Take down your opponent! DeveloperNeplin Game Studio made this game.TechnologyConstruct 3What is Next?Did you know that rough play can actually help us safely explore and better understand our own aggression? It's true! On this basis, are you ready to take on the next exciting challenge? Head over to Boxing Random, another 2-player fighting game where you can seek revenge from your opponent.Embed URL:https://www.onlinegames.io/games/2024/code/6/get-on-top/index.htmlThis article was updated on August 7, 20242 Player2DActionArcadeBattleCombatCrazyEmbeddableFreeFunHTML5PhysicsStickman",
+  "extractedAt": "2025-06-10T04:12:07.437Z",
+  "localThumbnail": "Get On Top_1749528727437.jpg"
+}

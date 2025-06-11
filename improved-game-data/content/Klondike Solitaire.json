@@ -1,0 +1,42 @@
+{
+  "url": "https://www.onlinegames.io/klondike-solitaire/",
+  "title": "Klondike Solitaire",
+  "category": "/new-games/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/428/Klondike-Solitaire.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/428/Klondike-Solitaire.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/428/responsive/Klondike-Solitaire-xs.jpg 384w, https://www.onlinegames.io/media/posts/428/responsive/Klondike-Solitaire-sm.jpg 600w, https://www.onlinegames.io/media/posts/428/responsive/Klondike-Solitaire-md.jpg 768w, https://www.onlinegames.io/media/posts/428/responsive/Klondike-Solitaire-lg.jpg 1200w",
+    "alt": "Klondike Solitaire Play Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://html5.gamedistribution.com/77cce9cb419f4f06814d668821199476/?gd_sdk_referrer_url=https://www.onlinegames.io/klondike-solitaire",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "How to Play?"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Other Games Like Klondike Solitaire"
+      }
+    ],
+    "controls": [
+      "All you need to play Klondike Solitaire is a mouse. Take cards from the stock with the left-click of your mouse, or move them to the desired location by pressing and holding them."
+    ],
+    "howToPlay": "In Klondike Solitaire, you must build four piles of cards in ascending order using the same suit.You should sort the card order as Ace, 2, 3, 4, 5, 6, 7, 8, 9, Jack, Queen and King, respectively.You can see seven piles of cards on the top row, which can also be used to build those piles.You can place a card from the top row onto another card with the opposite color and one lower in value.For example, you can put a 9 of clubs on top of a 10 of hearts. You move these piles as one unit.The rest of the cards are called the \"stock.\" You can reveal the top three cards from the stock and use them just like cards from the top row.Any cards you do not use from the stock go into the \"waste pile,\" with the front side facing up.You can also play the top card from the waste pile.When you run out of cards in the stock, you turn over the waste pile and use those cards as the stock.If you can not make any more moves, the game is over.",
+    "tips": "",
+    "developer": "",
+    "similarGames": []
+  },
+  "fullContent": "Home› CardKlondike SolitaireBy OnlineGames.ioMake Game Full ScreenYou know the card games, right? Klondike Solitaire is one of the most classic and popular of these games. This is a single-player card game played with a standard 52-card deck. And it has the reputation of the game with the lowest success rate. It is even called a game of patience in many places. Because it improves the patience of the player. Basically, it is a game of strategy and patience. You can play this game online for free on your computer, Chromebook or tablet.How to Play?In Klondike Solitaire, you must build four piles of cards in ascending order using the same suit.You should sort the card order as Ace, 2, 3, 4, 5, 6, 7, 8, 9, Jack, Queen and King, respectively.You can see seven piles of cards on the top row, which can also be used to build those piles.You can place a card from the top row onto another card with the opposite color and one lower in value.For example, you can put a 9 of clubs on top of a 10 of hearts. You move these piles as one unit.The rest of the cards are called the \"stock.\" You can reveal the top three cards from the stock and use them just like cards from the top row.Any cards you do not use from the stock go into the \"waste pile,\" with the front side facing up.You can also play the top card from the waste pile.When you run out of cards in the stock, you turn over the waste pile and use those cards as the stock.If you can not make any more moves, the game is over.ControlsAll you need to play Klondike Solitaire is a mouse. Take cards from the stock with the left-click of your mouse, or move them to the desired location by pressing and holding them.Other Games Like Klondike SolitaireIf you love playing Klondike Solitaire, you should definitely try Microsoft Solitaire Collection, gathering the 5 best solitaire card games under one roof. Or you may look for Board Games tag on OnlineGames.io for more free card game options.This article was updated on February 15, 20251 Player2DBoardCardFreeLogicMobileMouseSolitaire",
+  "extractedAt": "2025-06-10T06:22:49.021Z",
+  "localThumbnail": "Klondike Solitaire_1749536569021.jpg"
+}

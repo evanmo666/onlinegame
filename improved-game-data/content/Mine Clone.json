@@ -1,0 +1,54 @@
+{
+  "url": "https://www.onlinegames.io/mine-clone/",
+  "title": "Mine Clone",
+  "category": "/t/adventure/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/659/Mine-Clone.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/659/Mine-Clone.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/659/responsive/Mine-Clone-xs.jpg 384w, https://www.onlinegames.io/media/posts/659/responsive/Mine-Clone-sm.jpg 600w, https://www.onlinegames.io/media/posts/659/responsive/Mine-Clone-md.jpg 768w, https://www.onlinegames.io/media/posts/659/responsive/Mine-Clone-lg.jpg 1200w",
+    "alt": "Mine Clone Online Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2022/unity/mine-clone/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "How to Play Mine Clone"
+      },
+      {
+        "type": "h3",
+        "text": "View Your Inventory"
+      },
+      {
+        "type": "h3",
+        "text": "First Break, Then Place"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "More Games Like This"
+      }
+    ],
+    "controls": [
+      "WASD/Arrow Keys: MoveSpacebar: Jump1-9 Number Keys: Switch BlocksLeft-Click: RemoveRight-Click: BuildE Key: InventoryESC: Pause"
+    ],
+    "howToPlay": "Before starting to build anything, first design the building plan in your mind. How many floors will the thing you build have? Will there be a garden? What about the pool?Then, go to the highest place on the map and take a look around. Find the best place to build your dream environment.When you find the place, you are now ready to get to work!The best part of this game is its many block options with varying materials and textures. And you can use them unlimitedly.If you are ready, begin to give your virtual world shape!",
+    "tips": "",
+    "developer": "Mine Clone was developed by FreezeNova.",
+    "similarGames": []
+  },
+  "fullContent": "Home› MinecraftMine CloneBy OnlineGames.ioMake Game Full ScreenMine Clone is a 3D block game where you can build a home or a deluxe castle without limits. You have many block options, and they are unlimited in number. Use your imagination and build your dream world with the help of the blocks. Turn your dreams into reality in one of the most captivating Minecraft games!How to Play Mine CloneBefore starting to build anything, first design the building plan in your mind. How many floors will the thing you build have? Will there be a garden? What about the pool?Then, go to the highest place on the map and take a look around. Find the best place to build your dream environment.When you find the place, you are now ready to get to work!The best part of this game is its many block options with varying materials and textures. And you can use them unlimitedly.If you are ready, begin to give your virtual world shape!View Your InventoryTo see your options, open your inventory by using the E key. A window will open, and you will see the blocks. There are 21 blocks, and each has a different material. Some of stone, some of wood and sand. There is this watery block that you can use to create a pool or lake. There is also one full of books for bookworms. The other 5 blocks consist of grasses, mushrooms and flowers. They are all at your disposal if you want to build a garden!First Break, Then PlaceYou must clear the area from unnecessary things before implementing your building plan. You have to place your structure on a flat surface. To do that, clear away the trees and hills to make the place available for building. Create an area according to the size and length of your construction. If you want to make a pool or garden additionally, you should also take these into consideration.ControlsWASD/Arrow Keys: MoveSpacebar: Jump1-9 Number Keys: Switch BlocksLeft-Click: RemoveRight-Click: BuildE Key: InventoryESC: PauseDeveloperMine Clone was developed by FreezeNova.More Games Like ThisIf you like playing Mine Clone, you may also try Minecraft Classic. The game allows you to dig, carve and build whatever you desire. It offers lots of block options, and you can use them without thinking about whether the blocks will be enough!For further options, you may look up other adventure games online. If you have any suggestions or wishlists, please don't hesitate to contact us! This website constantly tries to create the highest quality online game content according to its player's wishes.This article was updated on February 26, 20241 PlayerAdventureBlockCraftingFreeMinecraftPixelSandboxSimulatorUnity",
+  "extractedAt": "2025-06-10T05:09:06.883Z",
+  "localThumbnail": "Mine Clone_1749532146884.jpg"
+}

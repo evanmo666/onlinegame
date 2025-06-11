@@ -1,0 +1,42 @@
+{
+  "url": "https://www.onlinegames.io/void-city-io/",
+  "title": "Void City io",
+  "category": "/t/arcade/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/17/Void-City.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/17/Void-City.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/17/responsive/Void-City-xs.jpg 384w, https://www.onlinegames.io/media/posts/17/responsive/Void-City-sm.jpg 600w, https://www.onlinegames.io/media/posts/17/responsive/Void-City-md.jpg 768w, https://www.onlinegames.io/media/posts/17/responsive/Void-City-lg.jpg 1200w",
+    "alt": "Void City io Free",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://unblocked-games.s3.amazonaws.com/games/void-city/index2.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Features"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      }
+    ],
+    "controls": [
+      "WASD or arrow keys to moveTAB or P to pause"
+    ],
+    "howToPlay": "",
+    "tips": "",
+    "developer": "Void City io is created by FreezeNova.",
+    "similarGames": []
+  },
+  "fullContent": "Home› io GamesVoid City ioBy OnlineGames.ioMake Game Full ScreenVoid City io is a game where you control a moving hole, making sure you get bigger and bigger then other opponents.How you do that ? By absorbing cars, buildings, humans and even other black holes that are smaller than you. Keep in mind that you must gain a good score in a certain amount of time. Eat everything that you see in your way and become the biggest black hole in the city. Features• Your void dimensions rise with every human you absorb in it• Endless and addictive gameplayControlsWASD or arrow keys to moveTAB or P to pauseDeveloperVoid City io is created by FreezeNova.This article was updated on January 24, 20243DArcadeCrazyDestroyFreeio GamesPhysics",
+  "extractedAt": "2025-06-10T05:17:41.091Z",
+  "localThumbnail": "Void City io_1749532661091.jpg"
+}

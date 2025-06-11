@@ -1,0 +1,58 @@
+{
+  "url": "https://www.onlinegames.io/gummy-blocks/",
+  "title": "Gummy Blocks",
+  "category": "/t/arcade/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/568/Gummy-Blocks.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/568/Gummy-Blocks.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/568/responsive/Gummy-Blocks-xs.jpg 384w, https://www.onlinegames.io/media/posts/568/responsive/Gummy-Blocks-sm.jpg 600w, https://www.onlinegames.io/media/posts/568/responsive/Gummy-Blocks-md.jpg 768w, https://www.onlinegames.io/media/posts/568/responsive/Gummy-Blocks-lg.jpg 1200w",
+    "alt": "Gummy Blocks Free Online Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2023/code/gummy-blocks/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "How to Play Gummy Blocks"
+      },
+      {
+        "type": "h3",
+        "text": "Game Rules of Gummy Blocks"
+      },
+      {
+        "type": "h3",
+        "text": "How is my score calculated in Gummy Blocks?"
+      },
+      {
+        "type": "h3",
+        "text": "Are Tetris and Gummy Blocks the same?"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "You May Also Like"
+      }
+    ],
+    "controls": [
+      "You can move the candies in the desired direction by tapping and holding the left mouse button while moving the candies."
+    ],
+    "howToPlay": "This game necessitates strategic thought in order to put the blocks mindfully. The goal of this game is to go forward by arranging candies with different shapes at the bottom of the screen in the most acceptable way, leaving no gap in the grids, similar to Tetris in the 1980s.",
+    "tips": "",
+    "developer": "Gummy Blocks was created by Codethislab.",
+    "similarGames": []
+  },
+  "fullContent": "Home› PuzzleGummy BlocksBy OnlineGames.ioMake Game Full ScreenGummy Blocks is a puzzle game where you must position sweets in the form of blocks in the playing area. Make sure to put each candy somewhere. If you manage to fill a row or column entirely with the specified candies, that row or column will be thoroughly cleaned and opened to fill with cute blocks again. Play the game and get into the Tetris spirit!How to Play Gummy BlocksThis game necessitates strategic thought in order to put the blocks mindfully. The goal of this game is to go forward by arranging candies with different shapes at the bottom of the screen in the most acceptable way, leaving no gap in the grids, similar to Tetris in the 1980s.Game Rules of Gummy BlocksSadly, there isn't a way for you to change the direction of the candies that have been handed to you. The shapes on the screen must be as seamlessly integrated into the playing field as you can to fill the grids.You have to use all of the blocks provided to you before the game gives you fresh ones. Keeping in mind the forms of the other blocks in your hand, place each one of them one by one on the grids.You can gain significant points if you are able to demolish multiple lines at once.You can not remove a candy after you have placed it.How is my score calculated in Gummy Blocks?You earn points for each block you place according to how many grids it occupies. And each row or column you remove earns you 10 points.Are Tetris and Gummy Blocks the same?While Tetris served as an inspiration for the Gummy Blocks game, there are some distinctions between the two.In Tetris, for instance, the blocks fall from top to bottom, and the subsequent block may appear at the border of the screen; in Gummy Blocks, on the other hand, the candies remain still below.Additionally, until you utilize all of the available sweets, you won't be able to view new ones.ControlsYou can move the candies in the desired direction by tapping and holding the left mouse button while moving the candies.DeveloperGummy Blocks was created by Codethislab.You May Also LikeIf you enjoy playing Gummy Blocks, you should also give Blocky Blast a chance. In this puzzle game, your goal is to destroy all identical-colored cubes on the grid. Tap on them to completely eliminate the neighboring cubes that match in color. Remove cubes one after another until the level's objective is completed. But keep in mind that you only have a few moves available.Or, you may look for other puzzle games on OnlineGames.io for more game options. Save this page to your bookmarks so you can simply return!This article was updated on May 9, 20241 Player2DArcadeBlockBrainColorCuteFreeFunHTML5KidsMobileMousePuzzleStrategy",
+  "extractedAt": "2025-06-10T05:19:18.192Z",
+  "localThumbnail": "Gummy Blocks_1749532758193.jpg"
+}

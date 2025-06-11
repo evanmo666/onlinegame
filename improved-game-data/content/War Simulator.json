@@ -1,0 +1,66 @@
+{
+  "url": "https://www.onlinegames.io/war-simulator/",
+  "title": "War Simulator",
+  "category": "/t/strategy/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/821/War-Simulator.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/821/War-Simulator.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/821/responsive/War-Simulator-xs.jpg 384w, https://www.onlinegames.io/media/posts/821/responsive/War-Simulator-sm.jpg 600w, https://www.onlinegames.io/media/posts/821/responsive/War-Simulator-md.jpg 768w, https://www.onlinegames.io/media/posts/821/responsive/War-Simulator-lg.jpg 1200w",
+    "alt": "War Simulator Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2021/unity2/war-simulator/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play War Simulator"
+      },
+      {
+        "type": "h3",
+        "text": "Understanding Soldier Stats"
+      },
+      {
+        "type": "h2",
+        "text": "Meet the Warriors"
+      },
+      {
+        "type": "h3",
+        "text": "Dwarves"
+      },
+      {
+        "type": "h3",
+        "text": "Spearmen"
+      },
+      {
+        "type": "h3",
+        "text": "Archers"
+      },
+      {
+        "type": "h2",
+        "text": "Strategic Tips"
+      },
+      {
+        "type": "h2",
+        "text": "More War Games Online"
+      }
+    ],
+    "controls": [
+      "Left Click to place warriors on the battlefield.Hold right click to look aroundScroll to zoom in/out to the scene"
+    ],
+    "howToPlay": "War Simulator features 10 challenging levels, with 4 set in dense forests and the remaining 6 in deserts.Each level presents unique terrain and enemy formations, requiring careful analysis and strategic planning.Position your warriors wisely, utilizing the terrain to your advantage.Once your units are in place, click the \"Start Battle\" button to watch the battle unfold in real-time.You can also speed up the action to 1.5X or 2X to see the outcome sooner.",
+    "tips": "Understanding the strengths and weaknesses of each unit is essential to winning in War Simulator. Position your dwarves to absorb the brunt of the enemy's attack, use spearmen to outpace foes, and let your archers rain down arrows from a safe distance. Balance is key—deploying your units with a diverse approach will help you dominate the battlefield.",
+    "developer": "",
+    "similarGames": []
+  },
+  "fullContent": "Home› WarWar SimulatorBy OnlineGames.ioMake Game Full ScreenA medieval war strategist commanding an army of diverse units such as archers, spearmen, and dwarves - that's who you get to be on War Simulator! Deploy your warriors with a strategic formation and conquer new lands in this online game! Use your wits to outmaneuver your enemies and secure victory!ControlsLeft Click to place warriors on the battlefield.Hold right click to look aroundScroll to zoom in/out to the sceneHow to Play War SimulatorWar Simulator features 10 challenging levels, with 4 set in dense forests and the remaining 6 in deserts.Each level presents unique terrain and enemy formations, requiring careful analysis and strategic planning.Position your warriors wisely, utilizing the terrain to your advantage.Once your units are in place, click the \"Start Battle\" button to watch the battle unfold in real-time.You can also speed up the action to 1.5X or 2X to see the outcome sooner.Understanding Soldier StatsIn order to master War Simulator, it's crucial to understand the stats of your warriors. These stats will guide you in placing them effectively on the battlefield:Attack Power: The amount of damage a warrior can inflict on opponents.Health Points (HP): The amount of damage a warrior can sustain before being defeated.Agility: The speed at which a warrior moves and reacts during combat.Energy: The stamina available for actions like running and performing special attacks.Meet the WarriorsDwarvesAttack Power: 3.5Health Points: 80Agility: 1.7Energy: 4Dwarves are excellent in close combat, making them ideal for the front lines. With high HP, they can withstand significant damage, acting as the backbone of your defense. However, their lower agility means they are slower to react, so positioning them strategically is key.SpearmenAttack Power: 4Health Points: 60Agility: 2.5Energy: 5Spearmen are fast and agile, perfect for both the front and second lines. Their higher agility allows them to outmaneuver opponents, but their lower HP makes them less resilient to enemy attacks. Despite this, their balanced attack power and speed make them versatile mid-level soldiers.ArchersAttack Power: 3Health Points: 20Agility: 20Energy: 5Archers excel at ranged combat and should always be placed at the back of your formation. Their high agility allows them to fire rapidly and move quickly, but their low HP makes them vulnerable in close combat. Use them to weaken enemies from a distance before engaging with your frontline units.Strategic TipsUnderstanding the strengths and weaknesses of each unit is essential to winning in War Simulator. Position your dwarves to absorb the brunt of the enemy's attack, use spearmen to outpace foes, and let your archers rain down arrows from a safe distance. Balance is key—deploying your units with a diverse approach will help you dominate the battlefield.More War Games OnlineIf you'd like to play more strategy-driven war games online, OnlineGames.io got your back. Explore all the titles and start playing your next favorite game! We meticoulously test our games to be good quality and hiccup-free. Enjoy the quality content that's just a click away from you!Embed URL:https://www.onlinegames.io/games/2021/unity2/war-simulator/index.htmlThis article was updated on August 27, 20241 Player3DActionArenaArmyBattleEmbeddableFreeSimulatorStrategyUnityWar",
+  "extractedAt": "2025-06-10T05:57:48.480Z",
+  "localThumbnail": "War Simulator_1749535068480.jpg"
+}

@@ -1,0 +1,58 @@
+{
+  "url": "https://www.onlinegames.io/battleship-war/",
+  "title": "Battleship War",
+  "category": "/t/shooting/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/560/Battleship-War.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/560/Battleship-War.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/560/responsive/Battleship-War-xs.jpg 384w, https://www.onlinegames.io/media/posts/560/responsive/Battleship-War-sm.jpg 600w, https://www.onlinegames.io/media/posts/560/responsive/Battleship-War-md.jpg 768w, https://www.onlinegames.io/media/posts/560/responsive/Battleship-War-lg.jpg 1200w",
+    "alt": "Battleship War Free Online Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2023/code/battleship-war/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "How to Play Battleship War"
+      },
+      {
+        "type": "h3",
+        "text": "Classic Mode"
+      },
+      {
+        "type": "h3",
+        "text": "Advanced Mode"
+      },
+      {
+        "type": "h3",
+        "text": "A Tip for Battleship War"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "What is More?"
+      }
+    ],
+    "controls": [
+      "Use your mouse to launch missiles and destroy your opponent's fleet."
+    ],
+    "howToPlay": "Opening the game, a strategy panel will appear in front of you, with the coordinates visible. Drag the arrow to a certain place on the panel, and a missile will be launched by clicking. When you fire a shot and hit a ship in your opponent's fleet, you will see an explosion on the screen and debris left behind. This game will give you the excitement of the classic Admiral Sunk game!",
+    "tips": "",
+    "developer": "Battleship War was created by codethislab.",
+    "similarGames": []
+  },
+  "fullContent": "Home› StrategyBattleship WarBy OnlineGames.ioMake Game Full ScreenBattleship War is an online board game in which you strive to locate your opponent's fleet and sink it deep into the ocean. Your adversary will also try to determine the location of your fleet and will launch missiles. Keep your fleet hidden well while you destroy your opponent's fleet!How to Play Battleship WarOpening the game, a strategy panel will appear in front of you, with the coordinates visible. Drag the arrow to a certain place on the panel, and a missile will be launched by clicking. When you fire a shot and hit a ship in your opponent's fleet, you will see an explosion on the screen and debris left behind. This game will give you the excitement of the classic Admiral Sunk game!Classic ModeYou need to carefully and tactically position your naval fleet in the grid area provided to you.The better your ships are disguised, the more difficult it will be for your opponent to find them!You can change the direction of your ships by pressing the direction change button on the right, or you can press the button at the top to have the game position your ships randomly from the menu.Advanced ModeThe game's course is the same in advanced mode as it is in Classic mode. Differently, you can use two power-ups with the points you gather. Because the plane is half the price and can hit five squares at once, it is a better power-up to use early in the game than the sonar.A Tip for Battleship WarTrace the opponent's ship's position using the wreckage and eliminate the whole hull of the ship. You can do this by estimating the length and width of the ships in the opposing fleet and shooting the relevant locations in the sea.ControlsUse your mouse to launch missiles and destroy your opponent's fleet.DeveloperBattleship War was created by codethislab.What is More?If you are a fan of Battleship War, you may try War of Ships IO. It's a 3D pirate game in which you manage your ship while avoiding collisions with others! Survival in this arena is determined by your ability to navigate and eliminate other ships strategically.Or, you may look for other boat games on OnlineGames.io for further options. Please contact us if you have any recommendations or requests for new games!This article was updated on February 28, 20242DArenaBoardBoatBrainFreeHTML5LogicMobileMouseShootingStrategyWar",
+  "extractedAt": "2025-06-10T05:43:02.523Z",
+  "localThumbnail": "Battleship War_1749534182524.jpg"
+}

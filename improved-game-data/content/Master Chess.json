@@ -1,0 +1,63 @@
+{
+  "url": "https://www.onlinegames.io/master-chess/",
+  "title": "Master Chess",
+  "category": "/t/2-player/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/558/Master-Chess.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/558/Master-Chess.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/558/responsive/Master-Chess-xs.jpg 384w, https://www.onlinegames.io/media/posts/558/responsive/Master-Chess-sm.jpg 600w, https://www.onlinegames.io/media/posts/558/responsive/Master-Chess-md.jpg 768w, https://www.onlinegames.io/media/posts/558/responsive/Master-Chess-lg.jpg 1200w",
+    "alt": "Master Chess Free Online Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2023/code/master-chess/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "How to Play Master Chess"
+      },
+      {
+        "type": "h3",
+        "text": "Basics of the Master Chess"
+      },
+      {
+        "type": "h3",
+        "text": "What is the objective of the chess game?"
+      },
+      {
+        "type": "h3",
+        "text": "How do I checkmate my opponent's King piece?"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "Similar Board Games"
+      }
+    ],
+    "controls": [
+      "Use your mouse click to move your chess pieces."
+    ],
+    "howToPlay": "Choose whether to play with a friend or against artificial intelligence, select the difficulty level, and let the game begin! That's all there is to it. At the bottom of the screen, where you choose the game mode, you will find star ratings. The most challenging level belongs to the three-star rating.",
+    "tips": "",
+    "developer": "Master Chess was created by codethislab.",
+    "similarGames": [
+      {
+        "title": "Grandmaster Chess",
+        "url": "https://www.onlinegames.io/grandmaster-chess/"
+      }
+    ]
+  },
+  "fullContent": "Home› ChessMaster ChessBy OnlineGames.ioMake Game Full ScreenMaster Chess is an online board game in which you must utilize your strategic abilities and chess knowledge to win. You can play the game with a companion or against the computer. It is all up to you. Enjoy the fun of the classic board game on the digital platform!How to Play Master ChessChoose whether to play with a friend or against artificial intelligence, select the difficulty level, and let the game begin! That's all there is to it. At the bottom of the screen, where you choose the game mode, you will find star ratings. The most challenging level belongs to the three-star rating.Basics of the Master ChessIt is to the advantage of every player to know the basic chess rules in order to play this classic board game. But, there are indicators in the game where you can see in which direction you can move the chess pieces when you click on them.The board is an 8x8 board, numbered 8 from bottom to top and A to H from left to right.Player 1 and the player playing against the AI ​​always take the white pieces.The time spent by players making moves is recorded in the lower right corner and upper left corner of the screen.The score equivalent to this recorded time is deducted from the 5000 stars initially awarded to the player.What is the objective of the chess game?In chess, the goal is to checkmate the opposing King. Checkmate occurs when a king is attacked without the ability to move to a safer square.How do I checkmate my opponent's King piece?Generally speaking, there is more than one way to checkmate your opponent's King piece. The secret is to carefully corner the King of your adversary. You can push them in the direction of the last corner after you have moved their King to one of the board's edges.ControlsUse your mouse click to move your chess pieces.DeveloperMaster Chess was created by codethislab.Similar Board GamesIf you like playing Master Chess, you may also try Grandmaster Chess. It is a 2D strategy game that can be played without the requirement for a physical chess board and pieces. Your opponent here is artificial intelligence. But don't underestimate it. It will make the most intelligent maneuvers you've ever seen!For further options, you may look up other chess games and strategy games on OnlineGames.io. You can find dozens of games with rich content that you can access with just one click!This article was updated on March 7, 20252 Player3DBoardBrainChessFreeLogicMouseStrategy",
+  "extractedAt": "2025-06-10T05:36:24.542Z",
+  "localThumbnail": "Master Chess_1749533784543.jpg"
+}

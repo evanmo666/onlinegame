@@ -1,0 +1,46 @@
+{
+  "url": "https://www.onlinegames.io/counter-craft/",
+  "title": "Counter Craft",
+  "category": "/t/shooting/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/856/counter-craft.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/856/counter-craft.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/856/responsive/counter-craft-xs.jpg 384w, https://www.onlinegames.io/media/posts/856/responsive/counter-craft-sm.jpg 600w, https://www.onlinegames.io/media/posts/856/responsive/counter-craft-md.jpg 768w, https://www.onlinegames.io/media/posts/856/responsive/counter-craft-lg.jpg 1200w",
+    "alt": "Counter Craft Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://cloud.onlinegames.io/games/2024/gm/games6/counter-craft/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Counter Craft"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "Discover More Zombie Games"
+      }
+    ],
+    "controls": [
+      "Move: WASD or Arrow KeysShoot: Left-ClickAim: Right-ClickJump: SpaceRun: Left-ShiftSlow Motion: TReload: RGrenade: GMelee: VEmpty Hand: HPause: TabSwitch Weapons: Mouse ScrollCrouch: CTRL"
+    ],
+    "howToPlay": "You'll start at an abandoned street occupied by Minecraft zombies. It's a neighborhood you don't want to be in, but missions are missions, right? You'll be armed with only a pistol gun at the first level.The game controls are easy to adjust, just like in any other online shooter game: Move by WASD or arrow keys, and aim and shoot zombies with mouse buttons. So, if you get it all right, it's time to clear these city streets of zombie blockheads.Just like Counter-Strike, aiming is key, but don't let these cube-shaped creatures get too close; you have a health bar (displayed at the bottom) to protect from attacks!We know that success brings more work, not more time. So, as you clear levels, you will be tasked with eliminating more zombies.The good thing is that you will have more advanced weapons than a regular pistol. Switch between weapons with a quick scroll of your mouse, and don't forget to reload often! Good luck!",
+    "tips": "",
+    "developer": "Counter Craft was crafted by the talented team at G55.",
+    "similarGames": []
+  },
+  "fullContent": "Home› GunCounter CraftBy OnlineGames.ioMake Game Full ScreenCounter Craft is an online third-person shooter game that's the perfect mashup of Counter-Strike and Minecraft. The map design is straight out of Counter-Strike, but the zombies? They look like they've escaped from Minecraft world, all voxelated and ready to bite. The moment they spot you, they'll chase you like it's Black Friday, and you're holding the last TV in your arms. But you're not running to the checkout this time. You will wipe them off the streets before they turn you into zombie chow.ControlsMove: WASD or Arrow KeysShoot: Left-ClickAim: Right-ClickJump: SpaceRun: Left-ShiftSlow Motion: TReload: RGrenade: GMelee: VEmpty Hand: HPause: TabSwitch Weapons: Mouse ScrollCrouch: CTRLHow to Play Counter CraftYou'll start at an abandoned street occupied by Minecraft zombies. It's a neighborhood you don't want to be in, but missions are missions, right? You'll be armed with only a pistol gun at the first level.The game controls are easy to adjust, just like in any other online shooter game: Move by WASD or arrow keys, and aim and shoot zombies with mouse buttons. So, if you get it all right, it's time to clear these city streets of zombie blockheads.Just like Counter-Strike, aiming is key, but don't let these cube-shaped creatures get too close; you have a health bar (displayed at the bottom) to protect from attacks!We know that success brings more work, not more time. So, as you clear levels, you will be tasked with eliminating more zombies.The good thing is that you will have more advanced weapons than a regular pistol. Switch between weapons with a quick scroll of your mouse, and don't forget to reload often! Good luck!DeveloperCounter Craft was crafted by the talented team at G55.Discover More Zombie GamesIf you love the Counter-Strike-meets-Minecraft vibe of Counter Craft, then you need to try Pixel Survival. For more online shooting games, head over to the tag and take your pick. And remember, the comment section is open—share your best zombie-slaying stories with us!This article was updated on October 23, 20241 Player3DActionBattleBlockFreeGunShootingSurvivalUnityWeapon",
+  "extractedAt": "2025-06-10T05:42:46.165Z",
+  "localThumbnail": "Counter Craft_1749534166166.jpg"
+}

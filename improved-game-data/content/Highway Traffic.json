@@ -1,0 +1,55 @@
+{
+  "url": "https://www.onlinegames.io/highway-traffic/",
+  "title": "Highway Traffic",
+  "category": "/t/car/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/32/Highway-Traffic-Controls.webp",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/32/Highway-Traffic-Controls.webp",
+    "srcset": "https://www.onlinegames.io/media/posts/32/responsive/Highway-Traffic-Controls-xs.webp 384w, https://www.onlinegames.io/media/posts/32/responsive/Highway-Traffic-Controls-sm.webp 600w, https://www.onlinegames.io/media/posts/32/responsive/Highway-Traffic-Controls-md.webp 768w, https://www.onlinegames.io/media/posts/32/responsive/Highway-Traffic-Controls-lg.webp 1200w",
+    "alt": "Highway Traffic Controls",
+    "width": 750,
+    "height": 224,
+    "className": "is-loaded",
+    "parentClass": "post__image post__image--center is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2022/unity/highway-traffic/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Road Options"
+      },
+      {
+        "type": "h2",
+        "text": "Game Modes"
+      },
+      {
+        "type": "h2",
+        "text": "Display Features"
+      },
+      {
+        "type": "h2",
+        "text": "Similar Games"
+      }
+    ],
+    "controls": [
+      "W or up arrow: accelerateA/D, or left/right arrow: steer the carSpace bar: use handbrakeLeft shift or F: use car boost"
+    ],
+    "howToPlay": "",
+    "tips": "",
+    "developer": "",
+    "similarGames": [
+      {
+        "title": "Highway Racer Pro",
+        "url": "https://www.onlinegames.io/highway-racer-pro/"
+      }
+    ]
+  },
+  "fullContent": "Home› CarHighway TrafficBy OnlineGames.ioMake Game Full ScreenHighway Traffic game is centered around driving down the highway, dodging other cars, and avoiding accidents. It gets tricky because other vehicles are slowing down, speeding up or stopping abruptly, so you always have to keep your attention and be ready to make a quick maneuver. The longer you go without hitting other cars, the more points you collect and the more upgrades you can get. Highway Traffic gets challenging very quickly, so you must build up crazy driving skills to reach higher levels! ControlsW or up arrow: accelerateA/D, or left/right arrow: steer the carSpace bar: use handbrakeLeft shift or F: use car boostRoad OptionsYou can choose various car models and styles and set weather options to increase the challenge in Highway Traffic. Enjoy the sunny road, brighten the night with your headlights or slide on a wet road on a rainy day.Game ModesHighway Traffic also has several modes to make the game even more fun and complex. It comes with 4 modes, each having its own significant challenges. One way: The cars are driving in one direction without any concern for oncoming traffic.Two-way: This allows vehicles to travel in either direction. Riskier than the one-way but brings more points and coins if you drive on the wrong way.Time attack: As the name says, your time is limited in this mode. Survive the traffic without making any accidents until the time is up. Be prepared; it gets pretty wild quickly.Speed Bomb: You need to be careful how you drive the bus. When you drive slower than the lower limit or collide with other cars, the bomb might bring the end of the game. The bus explodes.Display FeaturesWhile playing, you can check your progress on the display screen. Score, speed, distance, camera, high speed, and combos will be on for you to keep track.Similar GamesIf you liked playing this car game, try Highway Racer Pro, a traffic game that's just right out of the oven! With improved graphics and garage options, you'll keep the fun alive!Embed URL:https://www.onlinegames.io/games/2022/unity/highway-traffic/index.htmlThis article was updated on August 14, 20241 Player3DCarCrashCrazyDrivingEmbeddableEndlessFreePoliceRacingSpeedTrafficUnity",
+  "extractedAt": "2025-06-10T05:20:15.136Z",
+  "localThumbnail": "Highway Traffic_1749532815136.jpg"
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://www.onlinegames.io/spend-bill-gates-money/",
+  "title": "Spend Bill Gates Money",
+  "category": "/new-games/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/653/Spend-Bill-Gates-Money.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/653/Spend-Bill-Gates-Money.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/653/responsive/Spend-Bill-Gates-Money-xs.jpg 384w, https://www.onlinegames.io/media/posts/653/responsive/Spend-Bill-Gates-Money-sm.jpg 600w, https://www.onlinegames.io/media/posts/653/responsive/Spend-Bill-Gates-Money-md.jpg 768w, https://www.onlinegames.io/media/posts/653/responsive/Spend-Bill-Gates-Money-lg.jpg 1200w",
+    "alt": "Spend Bill Gates Money Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": null,
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Receipt"
+      },
+      {
+        "type": "h3",
+        "text": ""
+      },
+      {
+        "type": "h2",
+        "text": "$123,945,320,001.00"
+      },
+      {
+        "type": "h2",
+        "text": "What is Spend Bill Gates Money?"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Spend Bill Gates Money?"
+      },
+      {
+        "type": "h2",
+        "text": "Fun Facts about How Bill Gates Spends Money"
+      },
+      {
+        "type": "h2",
+        "text": "Who created Spend Bill Gates Money?"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Before You Go"
+      }
+    ],
+    "controls": [
+      "Left-click or tap to add an item to the cart."
+    ],
+    "howToPlay": "No, shopaholics! We will not teach you how to spend money in this game. The choices are all yours!To play Spend Bill Gates Money, start the timer and simply add the items you like to your cart and watch your wallet shrink. Or see that number at the top slightly change (it is so high that we could not even read it properly)There are dozens of items to choose from. You can either be a penny-pincher or break the bank and live like a king.Remember to grab a receipt at the end! You never know when you'll need it. Just hit the Print Receipt button at the end of the page, and voila! You'll have a detailed bill to show off to your friends.So, go ahead and spoil yourself with shopping therapy. You deserve it!",
+    "tips": "",
+    "developer": "",
+    "similarGames": []
+  },
+  "fullContent": "Home› FunnySpend Bill Gates MoneyBy OnlineGames.ioconst items1 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/big-mac-2.webp', name: 'Big Mac', price: 2 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/flip-flops-3.webp', name: 'Flip Flop', price: 3 }\n            ];\n\n            const items2 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/coca-cola-pack-5.webp', name: 'Coca Cola Pack', price: 5 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/movie-ticket-12.webp', name: 'Movie Ticket', price: 12 },\n            ];\n\n            const items3 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/book-15.webp', name: 'Book', price: 15 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/lobster-dinner-45.webp', name: 'Lobster Dinner', price: 45 },\n            ];\n\n            const items4 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/video-game-60.webp', name: 'Video Game', price: 60 },\n            ];\n\n            const items5 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/amazon-echo-99.webp', name: 'Amazon Echo', price: 99 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/year-of-netflix-100.webp', name: 'Year of Netflix', price: 100 },\n            ];\n\n            const items6 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/air-jordans-125.webp', name: 'Air Jordans', price: 125 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/airpods-199.webp', name: 'Airpods', price: 199 },\n            ];\n\n            const items7 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/wine.webp', name: 'Buy some wine for Epstein', price: 520 },\n            ];\n\n            const items8 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/smartphone-699.webp', name: 'Smartphone', price: 699 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/bike-800.webp', name: 'Bike', price: 800 },\n            ];\n\n            const items9 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/kitten-1500.webp', name: 'Kitten', price: 1500 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/puppy-1500.webp', name: 'Puppy', price: 1500 },\n            ];\n\n            const items10 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/auto-rickshaw-2300.webp', name: 'Auto Rickshaw', price: 2300 },\n            ];\n\n            const items11 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/horse-2500.webp', name: 'Horse', price: 2500 },\n            ];\n\n            const items12 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/acre-of-farmland-3000.webp', name: 'Acre of Farmland', price: 3000 },\n            ]\n\n            const items13 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/designer-handbag-5500.webp', name: 'Designer Handbag', price: 5500 },\n            ]\n\n            const items14 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/hot-tub-6000.webp', name: 'Hot Tub', price: 6000 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/luxury-wine-7000.webp', name: 'Luxury Wine', price: 7000 },\n            ];\n\n            const items15 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/diamond-ring-10k.webp', name: 'Diamond Ring', price: 10000 },\n            ];\n\n            const items16 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/macbook.webp', name: 'Macbook', price: 749.99 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/nonleth.webp', name: 'Non Lethal Self Defense Gun', price: 299.99 },\n            ];\n\n            const items17 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/hermesbag.webp', name: 'Hermès Bag Charm', price: 875 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/gaia.webp', name: 'Cult Gaia Mini Nala', price: 398 },\n            ];\n\n            const items18 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/console.webp', name: 'Gaming Console', price: 299 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/glasses.webp', name: 'Celine Triomphe', price: 510 },\n            ];\n\n            const items19 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/drone.webp', name: 'Drone', price: 350 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/yslcard.webp', name: 'YSL Credit Card Case', price: 375 },\n            ];\n\n            const items20 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/chloe.webp', name: 'Chloé Woody Logo Slide Sandal', price: 490 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/isabelcap.webp', name: 'Isabel Marant Tyron Baseball Cap', price: 220 },\n            ];\n\n            const items21 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/ysl-bo.webp', name: 'Yves Saint Laurent Black Opium', price: 155 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/soleil.webp', name: 'Porcelain Soleil d’Hermes', price: 550 },\n            ];\n\n            const items22 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/chanel.webp', name: 'Chanel Case', price: 650 },\n            ];\n\n            const items23 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/roboclean.webp', name: 'Robot Vacuum Cleaner', price: 899 },\n            ];\n\n            const items24 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/yeezys.webp', name: 'Adidas Yeezy Boost 350 V2 Granite', price: 350 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/vrp.webp', name: 'Vintage Record Player', price: 250 },\n            ];\n\n            const items25 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/dre.webp', name: 'Beats by Dre, Signed by Dre', price: 500 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/jacket.webp', name: 'Premium Leather Jacket', price: 350 },\n            ];\n\n            const items26 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/espresso.webp', name: 'Espresso Machine', price: 700 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/google-home.webp', name: 'Google Home', price: 99 },\n            ];\n\n            const items27 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/hajj.webp', name: 'Hajj Tour Package', price: 7500 },\n            ];\n\n            const items28 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-bill-gates-money/guitar.webp', name: 'Gibson Guitar', price: 2200 },\n            ];\n\n            const items29 = [\n                { img: 'https://www.",
+  "extractedAt": "2025-06-10T06:12:29.424Z",
+  "localThumbnail": "Spend Bill Gates Money_1749535949424.jpg"
+}

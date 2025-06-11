@@ -1,0 +1,62 @@
+{
+  "url": "https://www.onlinegames.io/solitaire-classic/",
+  "title": "Solitaire Classic",
+  "category": "/t/strategy/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/550/Solitaire-Classic.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/550/Solitaire-Classic.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/550/responsive/Solitaire-Classic-xs.jpg 384w, https://www.onlinegames.io/media/posts/550/responsive/Solitaire-Classic-sm.jpg 600w, https://www.onlinegames.io/media/posts/550/responsive/Solitaire-Classic-md.jpg 768w, https://www.onlinegames.io/media/posts/550/responsive/Solitaire-Classic-lg.jpg 1200w",
+    "alt": "Solitaire Classic Free Online Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://html5.gamedistribution.com/6972e9b65057498899dea0491f410d57/?gd_sdk_referrer_url=https://www.onlinegames.io/solitaire-classic",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "How to Play Solitaire Classic"
+      },
+      {
+        "type": "h3",
+        "text": "Basics of Solitaire Classic"
+      },
+      {
+        "type": "h3",
+        "text": "Customize the Theme"
+      },
+      {
+        "type": "h3",
+        "text": "Boosters That You Can Use"
+      },
+      {
+        "type": "h3",
+        "text": "Hint and Undo Options"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "What is More?"
+      }
+    ],
+    "controls": [
+      "Click and drag cards to the desired column."
+    ],
+    "howToPlay": "This game aims to place all the cards on the table in the four foundations above. Before creating these four foundations, you must line up the cards below according to a particular rule. Later, when you complete the stacks, you can position these in the four foundations.",
+    "tips": "",
+    "developer": "Solitaire Classic was created by Albayoo.",
+    "similarGames": []
+  },
+  "fullContent": "Home› SolitaireSolitaire ClassicBy OnlineGames.ioMake Game Full ScreenSolitaire Classic is a single player card game where you try to remove all the cards on the table by sorting them according to the rules. There are many solitaire card games out there, but this one is customizable. The game has a basic gameplay that people of all ages can play. Master these basics and enjoy the game.How to Play Solitaire ClassicThis game aims to place all the cards on the table in the four foundations above. Before creating these four foundations, you must line up the cards below according to a particular rule. Later, when you complete the stacks, you can position these in the four foundations.Basics of Solitaire ClassicThe rule of the game is to create four stacks, starting with King and ending with Ace. You must create a stack of cards from different suits and colors. You can not put cards of the same color or the same suit under each other.The order of the cards must be one number lower than the number value of the card above. The order should be K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2 and Ace.Only the top card in each column will be faced up. Others are faced down. Only these face-up cards can be moved.As long as they maintain the same order, the stacked cards can be moved to another column.You will see a deck in the upper right corner of the game. By clicking here, you can take a card to the playing field. If you have drawn a suitable card, drop it by dragging it directly to the relevant column.Customize the ThemeYou have many options to tailor your game the way you want. You can change the backdrop, card front and card back design by clicking on the Theme tab at the bottom of the game screen. There are gorgeous designs, especially for the card back. We recommend you take a look!Boosters That You Can UseThere are two features that can help you in the game. If you tap the two-way arrow icon, the Card Shuffle, you will shuffle the hidden cards. Or, you can eliminate a hidden card by using the wand icon, the Magic Wand. These boosters are arranged one under the other at the bottom right of the screen. But remember that you have the right to use these advantages a few times.Hint and Undo OptionsIf you want to get hints about what move you should make while playing the game, you can use the \"Hint\" option at the bottom of the screen. Likewise, you are free to use the \"Undo\" option to take back your move.ControlsClick and drag cards to the desired column.DeveloperSolitaire Classic was created by Albayoo.What is More?You may try Klondike Solitaire if you are a fan of Solitaire games. The game involves using a conventional 52-card deck for single-player play. Plus, it's known for being the least successful game. It is even referred to as a game of patience in several locations. Look up the card games on OnlineGames.io for further options.This article was updated on February 28, 20241 Player2DBoardCardFreeHTML5LogicMobileMouseSolitaireStrategy",
+  "extractedAt": "2025-06-10T05:56:39.977Z",
+  "localThumbnail": "Solitaire Classic_1749534999977.jpg"
+}

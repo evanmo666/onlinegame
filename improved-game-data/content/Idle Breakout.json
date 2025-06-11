@@ -1,0 +1,65 @@
+{
+  "url": "https://www.onlinegames.io/idle-breakout/",
+  "title": "Idle Breakout",
+  "category": "/t/arcade/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/692/50th-level-of-Idle-Breakout-Game.webp",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/692/50th-level-of-Idle-Breakout-Game.webp",
+    "srcset": "https://www.onlinegames.io/media/posts/692/responsive/50th-level-of-Idle-Breakout-Game-xs.webp 384w, https://www.onlinegames.io/media/posts/692/responsive/50th-level-of-Idle-Breakout-Game-sm.webp 600w, https://www.onlinegames.io/media/posts/692/responsive/50th-level-of-Idle-Breakout-Game-md.webp 768w, https://www.onlinegames.io/media/posts/692/responsive/50th-level-of-Idle-Breakout-Game-lg.webp 1200w",
+    "alt": "50th Level of Idle Breakout Game",
+    "width": 465,
+    "height": 350,
+    "className": "is-loaded",
+    "parentClass": "post__image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2024/more/idle-breakout/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "How to Play Idle Breakout"
+      },
+      {
+        "type": "h2",
+        "text": "Balls"
+      },
+      {
+        "type": "h2",
+        "text": "Achievements"
+      },
+      {
+        "type": "h2",
+        "text": "Power-Ups"
+      },
+      {
+        "type": "h2",
+        "text": "Save Progress in Idle Breakout"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "What to Play Next?"
+      }
+    ],
+    "controls": [
+      "Computers",
+      "Left-click on bricks to break",
+      "Mobile and Tablet",
+      "Tap on bricks to break"
+    ],
+    "howToPlay": "Start destroying blocks by clicking on them. When you have enough coins, buy a basic ball from the top left.Upgrade balls, use power-ups and pass as many levels as you can. The number on the brick indicates how many times it needs to be hit to break. As you pass more and more levels, you will see much higher numbers on bricks. So you should increase the clicking power, as well.",
+    "tips": "",
+    "developer": "Kodiqi made Idle Breakout.",
+    "similarGames": []
+  },
+  "fullContent": "Home› IdleIdle BreakoutBy OnlineGames.ioIdle Breakout is a free online clicker game with arcade mechanics. The aim is to break all the bricks in a room. With hundreds of levels, this brick-breaker game provides endless gameplay. Click on the bricks or employ balls. Upgrade balls' power and speed, use lasers, and get all the ribbons! When you pass all the levels, proceed to the next prestige to be an ultimate brickbreaker! How to Play Idle BreakoutStart destroying blocks by clicking on them. When you have enough coins, buy a basic ball from the top left.Upgrade balls, use power-ups and pass as many levels as you can. The number on the brick indicates how many times it needs to be hit to break. As you pass more and more levels, you will see much higher numbers on bricks. So you should increase the clicking power, as well.BallsIn the game, you can acquire balls using your coins. Whenever you get the first ball of each type, a new type of ball unlocks. In addition, you can improve your balls' speed range and power. Max them up in the Upgrades section. Learn about the types of balls below.Basic: Very slow and ineffective alone. Upgrade the speed and power of the ball and employ a number of them to get results from the basic ballPlasma: Much faster than the basic ball, it will cause splash damage to bricks. You should improve its range.Sniper: Bounces of Walls towards the nearest brick. Fast and powerful.Scatter Ball: $10000 to unlock the first one. Creates additional single-hit balls. Very effective in cleaning the rooms.Cannon Ball: Smashes through bricks and vital after 2nd and 3rd prestige. Poison Ball: The last ball to unlock. When a poison ball hits a brick, the brick becomes infected and takes double the damage from any other ball.AchievementsThe achievement section will guide you on what to aim for in the game. There are 12 of them that you can acquire.1 million total damage with basic ball1 million total damage with plasma1 million total damage with sniper1 million total damage with cannonball1 million total damage with poison ballUse all power-ups.Prestige 5 times.Have 10 of each ball.Break 1.000 black bricks.Reach level 250Unlock all 4 lasers.Break 1 million bricks.Power-UpsYou have 5 power-ups that you can use throughout the game. Except for the x2 Gold power-up, they all boost the brick-breaking performance for 30 seconds. Access them in the upgrades section as well.Cashed Up: Earn double the money.Click Frenzy: Clicks spawn scatter balls or do x10 damage.Demon Core: Deals waves of damage. Very effective and lets you pass a few levels at once.Snow Ball: Gains power and speed with every bounce.2X Gold: Can only be used on a gold brickSave Progress in Idle BreakoutYou haven't played Idle Breakout for hours, only to lose your progress when you close the tab. Your progress is saved in your browser cache, so you can continue where you left off next time and enjoy some passive income in the game.By any chance, if you'd like to save the progress locally and delete your browser history, head over to the settings section and click export to back up your progress. Copy the code given in the pop-up. Import by pasting the same code the next time you enter the game. ControlsComputersLeft-click on bricks to breakMobile and TabletTap on bricks to breakDeveloperKodiqi made Idle Breakout.What to Play Next?Check out our newest release if you enjoy playing idle games like this. Spacebar Clicker is a game in which you employ boomer moms and booster monkeys to press the spacebar. It's absolutely absurd and a fun way to waste some time while waiting for a meeting to end or a bus to arrive at your stop. We hope you have fun playing the games we offer. If you have any inquiries, do not hesitate to contact us!This article was updated on March 29, 20241 Player2DArcadeBallClickerDestroyFreeHTML5IdleMobileMouse",
+  "extractedAt": "2025-06-10T05:14:04.338Z",
+  "localThumbnail": "Idle Breakout_1749532444338.jpg"
+}

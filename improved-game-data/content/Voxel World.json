@@ -1,0 +1,83 @@
+{
+  "url": "https://www.onlinegames.io/voxel-world/",
+  "title": "Voxel World",
+  "category": "/t/adventure/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/937/voxel-world.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/937/voxel-world.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/937/responsive/voxel-world-xs.jpg 384w, https://www.onlinegames.io/media/posts/937/responsive/voxel-world-sm.jpg 600w, https://www.onlinegames.io/media/posts/937/responsive/voxel-world-md.jpg 768w, https://www.onlinegames.io/media/posts/937/responsive/voxel-world-lg.jpg 1200w",
+    "alt": "Voxel World Play For Free",
+    "width": 256,
+    "height": 256,
+    "className": "",
+    "parentClass": "post__featured-image"
+  },
+  "gameFrame": "https://cloud.onlinegames.io/games/2025/unity/voxel-world/index-og.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h3",
+        "text": "Table of Contents"
+      },
+      {
+        "type": "h2",
+        "text": "What is Voxel World?"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Essential Commands"
+      },
+      {
+        "type": "h2",
+        "text": "Key Features"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Voxel World"
+      },
+      {
+        "type": "h3",
+        "text": "Moving and Exploring"
+      },
+      {
+        "type": "h3",
+        "text": "Building and Destroying Blocks"
+      },
+      {
+        "type": "h3",
+        "text": "Accessing Your Inventory"
+      },
+      {
+        "type": "h3",
+        "text": "Making the World Feel Alive"
+      },
+      {
+        "type": "h3",
+        "text": "Writing Commands"
+      },
+      {
+        "type": "h2",
+        "text": "Build, Create, and Explore!"
+      }
+    ],
+    "controls": [
+      "Movement:",
+      "W/A/S/D – Move in all directionsMouse – Look aroundLeft Shift – Run/fly fasterC – CrouchF – Toggle Flight ModeQ/E – Ascend/descend in Flight Mode",
+      "Building & Actions:",
+      "Left Click – Destroy blocksRight Click – Place blocksB – Enter Build ModeX – Place bricksR – Rotate bricksM – Levitate bricksG – Throw objectsY – Summon a deer0 – Throw a ball",
+      "Other Functions:",
+      "Tab – Open inventoryEsc – Close menusL – Toggle torchF8 – Show FPSEsc: Show/hide the consoleF2: Show/hide debug window~ + S: Quick Save~ + L: Load Game"
+    ],
+    "howToPlay": "You’ve just entered Voxel World, and an endless sandbox stretches before you. There are no quests, no limits. Just you, your creativity, and an entire world waiting to be shaped. So, where do you begin? Let’s walk through the basics step by step.",
+    "tips": "",
+    "developer": "",
+    "similarGames": []
+  },
+  "fullContent": "Home› MinecraftVoxel WorldBy OnlineGames.ioMake Game Full ScreenTable of ContentsWhat is Voxel World?ControlsEssential CommandsKey FeaturesHow to Play Voxel WorldMoving and ExploringBuilding and Destroying BlocksAccessing Your InventoryMaking the World Feel AliveWriting CommandsBuild, Create, and Explore!With over 200 million copies sold, Minecraft is one of the most successful games ever. This proves that sandbox creativity is here to stay. Every day, millions of players craft, explore, and shape virtual landscapes, but what if you can play a Minecraft game for free on your browser without downloading? And you have even more control? Voxel World offers you just what you've been looking for.What is Voxel World?Voxel World is a limitless sandbox where you hold the power to shape the world around you! Build towering castles, carve out deep caves, or design sprawling cities. Every block is a new opportunity and you have the full set of blocks. With a complete creative toolkit at your disposal, you can craft, explore, and modify the terrain in ways never seen before.But Voxel World is about building your own world and beyond that the game gives you total freedom. Want to fly through the skies? Activate Flight Mode and soar over your creations. Need to get somewhere fast? Use Teleportation Commands to zip across the map instantly. Feeling adventurous? Summon wild animals, experiment with physics, and even manipulate time to create the perfect atmosphere for your world.With full command of controls, dynamic tools, and endless possibilities, Voxel World is more than an online minecraft game. It’s a canvas for your creativity. Whether you're a master builder or just getting started, there’s no limit to what you can create. Start crafting today and build the world of your dreams!ControlsMovement:W/A/S/D – Move in all directionsMouse – Look aroundLeft Shift – Run/fly fasterC – CrouchF – Toggle Flight ModeQ/E – Ascend/descend in Flight ModeBuilding & Actions:Left Click – Destroy blocksRight Click – Place blocksB – Enter Build ModeX – Place bricksR – Rotate bricksM – Levitate bricksG – Throw objectsY – Summon a deer0 – Throw a ballOther Functions:Tab – Open inventoryEsc – Close menusL – Toggle torchF8 – Show FPSEsc: Show/hide the consoleF2: Show/hide debug window~ + S: Quick Save~ + L: Load GameEssential CommandsActivate the console by pressing ~ or Esc, then type:/help – View all available commands./teleport x y z – Instantly move to a specific location./save [filename] – Save your world progress./load [filename] – Load a saved world./stuck – Escape if you’re stuck in terrain./time hhmm – Change the time of day.Key FeaturesBuild Anything – From simple houses to sprawling cities, place and rotate blocks with ease.Explore Freely – Roam across an infinite world and shape it as you like.Flight Mode – Soar above your creations and get a bird’s-eye view.Advanced Commands – Use console commands to teleport, adjust the time, or customize inventory settings.Interactive Elements – Throw objects, summon creatures, and tweak the world around you.Save & Load – Store your progress and jump back into your creations anytime.How to Play Voxel WorldYou’ve just entered Voxel World, and an endless sandbox stretches before you. There are no quests, no limits. Just you, your creativity, and an entire world waiting to be shaped. So, where do you begin? Let’s walk through the basics step by step.Moving and ExploringAs soon as you spawn, take a moment to look around. You’re in an open, voxel-based world, where every block can be placed, removed, or modified. Use the W, A, S, and D keys to move in different directions. Move the mouse to look around, and if you want to move faster, hold Shift.If you're feeling adventurous, Press F to enable Flight Mode. While flying, use Q and E to go up and down. This is perfect for getting a bird’s-eye view of your world or placing blocks in hard-to-reach spots.Building and Destroying BlocksNow, it’s time to start creating! Look at the ground and click the left mouse button to break a block. Need more space? Keep clicking to dig deeper. To place a new block, equip the block from inventory and use the right mouse button to place it.For more advanced building, press B to enter Build Mode. Here, you can place blocks with precision. If a block isn’t quite right, press R to rotate it or M to levitate it into position. These tools allow you to construct anything from a small hut to a massive fortress.Accessing Your InventoryTo open your inventory, press Tab. Here, you’ll find different block types and objects to help shape your world. Select an item by pressing the number keys (1-9) to quickly equip it. Experiment with different materials to make your structures stand out.Making the World Feel AliveYour world doesn’t have to be empty! If you want some company, press Y to summon a deer. Want to have some fun? Press 0 to throw a ball and see how it interacts with the environment.Writing CommandsIf you want to move across great distances instantly, use the teleport command. Open the console by pressing ~ (tilde) or Esc, then type:/teleport x y zReplace x, y, z with specific coordinates, and you’ll appear in a new location.Want to change the atmosphere? Adjust the time of day with:/time 1200 (for noon) or /time 2300 (for nighttime).Once you've built something amazing, don’t forget to save your world! Type:/save myworldReplace myworld with any name you like. When you return, simply load your saved world with:/load myworldBuild, Create, and Explore!Voxel World is all about endless creativity. Whether you’re crafting a masterpiece, testing game mechanics, or simply exploring, there’s always something new to try. Play now and bring your voxel dreams to life! If you'd like to see your alternatives, browse Minecraft games online and explore them all! And don't forget to share your creations with us in the comments section below.Embed URL:https://cloud.onlinegames.io/games/2025/unity/voxel-world/index-og.htmlThis article was updated on February 15, 20253DAdventureBlockCraftingEmbeddableFreeMinecraftPixelSandboxSimulator",
+  "extractedAt": "2025-06-10T05:10:28.350Z",
+  "localThumbnail": "Voxel World_1749532228350.jpg"
+}

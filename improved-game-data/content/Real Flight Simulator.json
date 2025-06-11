@@ -1,0 +1,27 @@
+{
+  "url": "https://www.onlinegames.io/real-flight-simulator/",
+  "title": "Real Flight Simulator",
+  "category": "/t/3d/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/342/Real-Flight-Simulator-Controls.webp",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/342/Real-Flight-Simulator-Controls.webp",
+    "srcset": "https://www.onlinegames.io/media/posts/342/responsive/Real-Flight-Simulator-Controls-xs.webp 384w, https://www.onlinegames.io/media/posts/342/responsive/Real-Flight-Simulator-Controls-sm.webp 600w, https://www.onlinegames.io/media/posts/342/responsive/Real-Flight-Simulator-Controls-md.webp 768w, https://www.onlinegames.io/media/posts/342/responsive/Real-Flight-Simulator-Controls-lg.webp 1200w",
+    "alt": "Real Flight Simulator Controls",
+    "width": 750,
+    "height": 224,
+    "className": "is-loaded",
+    "parentClass": "post__image post__image--center is-loaded"
+  },
+  "gameFrame": "https://cloud.onlinegames.io/games/2023/unity2/real-flight-simulator/index.html",
+  "content": {
+    "headings": [],
+    "controls": [],
+    "howToPlay": "",
+    "tips": "",
+    "developer": "",
+    "similarGames": []
+  },
+  "fullContent": "Home› AirplaneReal Flight SimulatorBy OnlineGames.ioReal Flight Simulator is a realistic game that gives you the ultimate flight experience.There is the possibility to choose the aircraft you want and start to control the plane.You will become an expert in controlling the planes, reaching the heights and exploring skies.You will be able to test the following aircrafts:• A-10• A-29• F-35• KC-10 • M-262Follow the instructions to make the aircraft fly:1. Turn on the aircraft lights (Press Z) - optional, may cause lag issues2. Lower flaps and slats if available (Press X)3. Start-up the engines and wait for the startup sequence to complete (Press C)4. Throttle up the engines (Press and hold R or V to increase engine power)5. Release parking brakes (Press B)6. Rotate once takeoff speed is reached - above 150 knots (Press Down arrow)7. Raise landing gear above 100ft (Press M)8. Continue with normal flight...Real Flight Simulator controls:AD to rollWS to pitchQE to yaw RF for Engine Throttle (Power)1 to change weapon2 to lock targetSpace to fireEscape or F2 to main menuH to hide controls infoEmbed URL:https://cloud.onlinegames.io/games/2023/unity2/real-flight-simulator/index.htmlThis article was updated on April 16, 20251 Player3DAirplaneEmbeddableFlyingFreeSimulatorUnity",
+  "extractedAt": "2025-06-10T05:59:09.782Z",
+  "localThumbnail": "Real Flight Simulator_1749535149782.jpg"
+}

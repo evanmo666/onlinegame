@@ -1,0 +1,63 @@
+{
+  "url": "https://www.onlinegames.io/cube-worlds/",
+  "title": "Cube Worlds",
+  "category": "/t/adventure/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/986/Cube-Worlds-Controls.webp",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/986/Cube-Worlds-Controls.webp",
+    "srcset": "https://www.onlinegames.io/media/posts/986/responsive/Cube-Worlds-Controls-xs.webp 384w, https://www.onlinegames.io/media/posts/986/responsive/Cube-Worlds-Controls-sm.webp 600w, https://www.onlinegames.io/media/posts/986/responsive/Cube-Worlds-Controls-md.webp 768w, https://www.onlinegames.io/media/posts/986/responsive/Cube-Worlds-Controls-lg.webp 1200w",
+    "alt": "Cube Worlds Keyboard Controls",
+    "width": 750,
+    "height": 224,
+    "className": "is-loaded",
+    "parentClass": "post__image post__image--center is-loaded"
+  },
+  "gameFrame": "https://cloud.onlinegames.io/games/2025/html/cube-worlds/index-og.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Cube Worlds"
+      },
+      {
+        "type": "h2",
+        "text": "Want More Freedom? Take Flight."
+      },
+      {
+        "type": "h2",
+        "text": "Game Features"
+      },
+      {
+        "type": "h2",
+        "text": "Similar Minecraft Games for Builders and Dreamers"
+      }
+    ],
+    "controls": [
+      "Move: W / A / S / DJump: SPACEDestroy: Left ClickPlace: Right ClickInventory: BSet spawn: EnterRespawn: RToggle fog: FSpeed boost: Left SHIFTHalf speed: Left CTRLFly: Z (Fly Up: Q / Fly Down: E)NoClip: XThird Person: F5Zoom scroll: CHide GUI: F1Smooth camera: F8Drop block: GHotbar switch: Left ALTShow axis lines: F7Auto-rotate: F6Hide FPS: F3"
+    ],
+    "howToPlay": "You start in a blocky world with nothing but your imagination. First things first. Hit B to open your inventory and check out all the block options. You can scroll through the list, pick your favorites, and assign them to your hotbar. Need some lava for drama? Want to build a glowing tower with torches? It's all there.\n\nOnce you've got your blocks ready, look around for a cool spot. Maybe a high hill, a flat field, or somewhere you can carve out a secret base. Right-click to place, left-click to destroy. That's it. You're building now.\n\nMovement is simple, too. Walk around with the usual WASD setup, jump over obstacles with the spacebar, and if you ever get too far from home, hit Return to set a spawn point so you can get back with R later.",
+    "tips": "",
+    "developer": "",
+    "similarGames": [
+      {
+        "title": "Paper Minecraft",
+        "url": "https://www.onlinegames.io/paper-minecraft/"
+      },
+      {
+        "title": "Minecraft Classic Online",
+        "url": "https://www.onlinegames.io/minecraft-classic/"
+      },
+      {
+        "title": "MiniBlox",
+        "url": "https://www.onlinegames.io/miniblox-io/"
+      }
+    ]
+  },
+  "fullContent": "Home› MinecraftCube WorldsBy OnlineGames.ioMake Game Full ScreenRemember those endless summer afternoons building castles and digging tunnels in Minecraft Classic? Cube Worlds brings back that exact feeling, but even more casual. It's the kind of block game you can fire up when you're between classes, stuck inside on a rainy day, or just in the mood to zone out and make something awesome. There's no survival pressure, no mobs creeping up behind you. It's just you, your blocks, and a wide open sandbox world that's waiting to be shaped.Whether you're laying down pixel-perfect cities or trying to recreate your dream treehouse from fourth grade, this game's got you covered. The map is hue, terrain goes on forever, and you've got over 250 different blocks to work with: grass, stone, glass, lava, flowers, beds, torches, rails... You name it. And since nothing's trying to eat you, you've got all the time in the world to just chill and build a Minecraft castle. ControlsMove: W / A / S / DJump: SPACEDestroy: Left ClickPlace: Right ClickInventory: BSet spawn: EnterRespawn: RToggle fog: FSpeed boost: Left SHIFTHalf speed: Left CTRLFly: Z (Fly Up: Q / Fly Down: E)NoClip: XThird Person: F5Zoom scroll: CHide GUI: F1Smooth camera: F8Drop block: GHotbar switch: Left ALTShow axis lines: F7Auto-rotate: F6Hide FPS: F3How to Play Cube WorldsYou start in a blocky world with nothing but your imagination. First things first. Hit B to open your inventory and check out all the block options. You can scroll through the list, pick your favorites, and assign them to your hotbar. Need some lava for drama? Want to build a glowing tower with torches? It's all there.Once you've got your blocks ready, look around for a cool spot. Maybe a high hill, a flat field, or somewhere you can carve out a secret base. Right-click to place, left-click to destroy. That's it. You're building now.Movement is simple, too. Walk around with the usual WASD setup, jump over obstacles with the spacebar, and if you ever get too far from home, hit Return to set a spawn point so you can get back with R later.Want More Freedom? Take Flight.One of the coolest things here is the flying mode. Press Z and you're airborne. You can float around your builds, scout out new areas, or just admire your creations from above. And if you want even more freedom, NoClip mode (X) lets you pass through blocks, perfect for checking out cave interiors or building inside mountains.Flying too fast? Hold Ctrl to slow things down for precision. Need to cover ground quickly? Shift gives you a boost. It's like creative mode in Minecraft, but even smoother.Game Features255+ block types from classic grass and stone to decorative pieces like ladders, glass, and bedsFull creative mode with flying, NoClip, camera controls, and moreSmooth controls and fast performance in-browserGreat for short breaks or long build sessionsMinecraft peaceful modeSimilar Minecraft Games for Builders and DreamersIf Cube Worlds has you hooked on building blocks and shaping your own little world, there are a few other crafting games you should definitely check out. Paper Minecraft is a great pick if you want that Minecraft feel but much faster loading and smooth gameplay of 2D graphics. It’s built with Scratch, but don’t let that fool you, it has depth (not literally :D). You can explore, craft, and build just like in the original, but with its own style. It’s especially fun if you enjoy checking out example worlds, explore them while gathering resources. Second, Minecraft Classic Online brings the nostalgia. It’s the old-school version of Minecraft, exactly how it looked back in the early days. You can play it right in your browser, and it’s perfect when you want to relive those early sandbox vibes without worrying about updates or fancy graphics. Another option is MiniBlox which is more about community and action. It has multiplayer rooms where you can hang out with friends or strangers, and the different game modes add variety. Whether you're into PvP, parkour, or just building weird stuff with others, MiniBlox gives you that Minecraft-inspired experience with a bit more social flavor.Each of these building games brings something different to the table, but they all share that same core idea: giving you the freedom to build, dig, and imagine whatever you want. So start playing now!This article was updated on April 16, 20251 Player3DAdventureBlockCraftingFreeMinecraftSandboxSimulator",
+  "extractedAt": "2025-06-10T04:17:35.267Z",
+  "localThumbnail": "Cube Worlds_1749529055267.jpg"
+}

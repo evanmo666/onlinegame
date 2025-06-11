@@ -1,0 +1,66 @@
+{
+  "url": "https://www.onlinegames.io/classic-minesweeper/",
+  "title": "Classic Minesweeper",
+  "category": "/t/puzzle/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/776/Classic-Mine-Sweeper.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/776/Classic-Mine-Sweeper.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/776/responsive/Classic-Mine-Sweeper-xs.jpg 384w, https://www.onlinegames.io/media/posts/776/responsive/Classic-Mine-Sweeper-sm.jpg 600w, https://www.onlinegames.io/media/posts/776/responsive/Classic-Mine-Sweeper-md.jpg 768w, https://www.onlinegames.io/media/posts/776/responsive/Classic-Mine-Sweeper-lg.jpg 1200w",
+    "alt": "Classic Minesweeper Play Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2024/more/classic-minesweeper/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "About Classic Minesweeper"
+      },
+      {
+        "type": "h3",
+        "text": "Easy, Medium or Hard?"
+      },
+      {
+        "type": "h3",
+        "text": "Understanding the Numbers"
+      },
+      {
+        "type": "h2",
+        "text": "The game does not open. What can I do?"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "Similar Online Games"
+      }
+    ],
+    "controls": [
+      "Desktops and Laptops",
+      "Left-Click: UncoverHold the Left Mouse Button: Mark a Flag",
+      "Mobile Devices",
+      "Use the touchscreen to uncover tiles and hold onto a tile to mark a flag."
+    ],
+    "howToPlay": "",
+    "tips": "",
+    "developer": "RavalMatic developed Classic Minesweeper.",
+    "similarGames": [
+      {
+        "title": "Tetris",
+        "url": "https://www.onlinegames.io/tetris/"
+      }
+    ]
+  },
+  "fullContent": "Home› PuzzleClassic MinesweeperBy OnlineGames.ioMake Game Full ScreenClassic Minesweeper is a 2D puzzle game where you try to uncover tiles without letting any mine explode. You seem to know this game from somewhere, right? Yes! This game is the modern version of the classic Microsoft Minesweeper of the 90s.Your job? To uncover all the cells that have no mine under them within the shortest time. Consider the numbers on the cells so as not to cause any explosion in this board game! Additionally, keep in mind that you can set the difficulty level as you wish.ControlsDesktops and LaptopsLeft-Click: UncoverHold the Left Mouse Button: Mark a FlagMobile DevicesUse the touchscreen to uncover tiles and hold onto a tile to mark a flag.About Classic MinesweeperThis arcade game will remind you of the Microsoft Minesweeper that your older sister and brother played when they were young.Classic Minesweeper is the modern take on this popular game of the 90s. Your main objective is to uncover all the tiles that have no mines.If you touch any of the mines, it will explode. And this explosion will defuse all the mines on the board.Before starting to uncover the tiles, set your desired difficulty level from the menu. There are three level modes to choose from: Easy, Medium and Hard.Easy, Medium or Hard?Each of the three modes has a unique difficulty. In the Easy mode, you will see a board with 81 cells and 20 mines. On the other hand, the Medium mode has a 10x12 mode with 40 mines.Finally, you will deal with 80 mines on a 12x14 board. Keep practicing the game before you play in the Hard mode because you have a 50% chance of not detonating any bombs.Understanding the NumbersSome of the tiles on the board have numbers under them, while others have mines. The numbers indicate that there are a number of mines near those tiles. You can use them to uncover the cells strategically.If you think that there is definitely a mine under a specific cell, you can mark that cell with a flag. You will win the game when you successfully uncover all the cells without defusing any mine.The game does not open. What can I do?Please make sure you disable your adblocker. You can also try opening the game in an incognito tab. If you still need help, check out the support guide.DeveloperRavalMatic developed Classic Minesweeper.Similar Online GamesTetris may also draw your attention. It is one of the other popular games of the 90s era. In the game, you will try to put the falling shapes side by side with the perfect angle without leaving a gap between them.For further options, look up other online puzzle games on OnlineGames.io. If you have suggestions or a wishlist, please contact us! We would be very happy to hear from you.This article was updated on June 13, 20241 Player2DBrainFreeHTML5LogicMobilePuzzle",
+  "extractedAt": "2025-06-10T05:50:05.143Z",
+  "localThumbnail": "Classic Minesweeper_1749534605144.jpg"
+}

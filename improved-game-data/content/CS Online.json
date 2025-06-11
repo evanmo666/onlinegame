@@ -1,0 +1,46 @@
+{
+  "url": "https://www.onlinegames.io/cs-online/",
+  "title": "CS Online",
+  "category": "/t/action/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/434/Cs-Online-Keyboard-Controls.webp",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/434/Cs-Online-Keyboard-Controls.webp",
+    "srcset": "https://www.onlinegames.io/media/posts/434/responsive/Cs-Online-Keyboard-Controls-xs.webp 384w, https://www.onlinegames.io/media/posts/434/responsive/Cs-Online-Keyboard-Controls-sm.webp 600w, https://www.onlinegames.io/media/posts/434/responsive/Cs-Online-Keyboard-Controls-md.webp 768w, https://www.onlinegames.io/media/posts/434/responsive/Cs-Online-Keyboard-Controls-lg.webp 1200w",
+    "alt": "CS Online Keyboard Controls",
+    "width": 750,
+    "height": 224,
+    "className": "is-loaded",
+    "parentClass": "post__image post__image--center is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2023/unity2/cs-online/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "How to Play CS Online?"
+      },
+      {
+        "type": "h2",
+        "text": "Weapons"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "What to Play Next?"
+      }
+    ],
+    "controls": [
+      "WASD/ Arrow Keys: MoveLeft mouse button: Shoot Right mouse button: Aim R: Reload C: Crouch Space bar: Jump Hold shift: Run P: Pause 1-9 key: Change weapon T: Open chatEnter: Send messageTab: Open the menu"
+    ],
+    "howToPlay": "Launch the game and join one of the available rooms. If you prefer, you can also create a room of your own. Choose the map you'd like to play in (available maps are Sanctum, Yarimar, Sumerra).Select the weapon policy such as \"all weapons,\" \"crazy mode,\" and \"all no RPG.\"Select the game mode (Free for All, Team Deathmatch).Set the maximum number of players.Move your mouse to look around and shoot using left click.If you need further instructions about controls of the game, have a look at the controls section below. If not, hit the button and dive into action!",
+    "tips": "",
+    "developer": "",
+    "similarGames": []
+  },
+  "fullContent": "Home› ShootingCS OnlineBy OnlineGames.ioEveryone knows the famous Counter Strike game, 2000's online battle arena with online players. CS Online, inspired by Counter-Strike, is a multiplayer shooting game where terrorists and counter-terrorists combat and kill each other with multiple weapon options. It is the online and free version of the original game, and you can access the CS Online on your web browser without downloading or purchasing anything. All you need to do is join an available room and start to play!Since this is a multiplayer online game, you can start the game by first creating your profile and then joining an available room. When you press the \"start\" button from the menu, the rooms will appear in a list. From here, you can see which map the game is played on and in which mode it is played. Choose the one that appeals to you and start playing. Or create your very own room.How to Play CS Online?Launch the game and join one of the available rooms. If you prefer, you can also create a room of your own. Choose the map you'd like to play in (available maps are Sanctum, Yarimar, Sumerra).Select the weapon policy such as \"all weapons,\" \"crazy mode,\" and \"all no RPG.\"Select the game mode (Free for All, Team Deathmatch).Set the maximum number of players.Move your mouse to look around and shoot using left click.If you need further instructions about controls of the game, have a look at the controls section below. If not, hit the button and dive into action!WeaponsThe weapons you can access by pressing the numbers between 1 and 9 in the game are listed below.Ballistic KnifeDeagleMP5KA4STW-25M87TBlaser R93RPGM79M67ControlsWASD/ Arrow Keys: MoveLeft mouse button: Shoot Right mouse button: Aim R: Reload C: Crouch Space bar: Jump Hold shift: Run P: Pause 1-9 key: Change weapon T: Open chatEnter: Send messageTab: Open the menuWhat to Play Next?If you enjoy games similar to Counter-Strike, we have tons of free shooting games io on OnlineGames.io. Crazy Strike Force: Try this game for another great battle experience with fantastic visuals.Bullet Force: The most popular shooting game on OnlineGames.io. Intense action in this game is loved by thousands. Bullet Force is definitely a must-play.   Mini Nova Shooters: For the ones who are fond of action but want to play without hiccups on mobile or budget-friendly devicesEmbed URL:https://www.onlinegames.io/games/2023/unity2/cs-online/index.htmlThis article was updated on January 24, 20243DActionBattleBattle RoyaleEmbeddableFirst Person ShooterFreeGunMultiplayerShootingUnityWarWeapon",
+  "extractedAt": "2025-06-10T04:13:39.184Z",
+  "localThumbnail": "CS Online_1749528819184.jpg"
+}

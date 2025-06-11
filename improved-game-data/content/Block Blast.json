@@ -1,0 +1,54 @@
+{
+  "url": "https://www.onlinegames.io/block-blast/",
+  "title": "Block Blast",
+  "category": "/t/arcade/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/876/block-blast.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/876/block-blast.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/876/responsive/block-blast-xs.jpg 384w, https://www.onlinegames.io/media/posts/876/responsive/block-blast-sm.jpg 600w, https://www.onlinegames.io/media/posts/876/responsive/block-blast-md.jpg 768w, https://www.onlinegames.io/media/posts/876/responsive/block-blast-lg.jpg 1200w",
+    "alt": "Block Blast Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://cloud.onlinegames.io/games/2024/unity3/block-blast/index-og.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Block Blast Online"
+      },
+      {
+        "type": "h2",
+        "text": "Classic Mode"
+      },
+      {
+        "type": "h2",
+        "text": "Adventure Mode"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "Explore Online Block Games"
+      }
+    ],
+    "controls": [
+      "Drag and drop blocks into the grid."
+    ],
+    "howToPlay": "Block Blast offers two distinct modes, each with a twist on the core mechanic of fitting blocks into an 8x8 grid:",
+    "tips": "",
+    "developer": "Block Blast Unblocked game was created by FreezeNova.",
+    "similarGames": []
+  },
+  "fullContent": "Home› PuzzleBlock BlastBy OnlineGames.ioMake Game Full ScreenTetris is all fun and games, but the pressure of dropping blocks quickly? Oh, it's not what we love in a chill puzzle game, right? So, we've created Block Blast Online, offering endless Tetris fun without any time limits. Take it easy, and place the blocks in the grids in peace. No mechanics will rush you. Just fill a row or a column in the grid to clear the blocks. It's puzzle-solving at your own pace!Block Blast is a 2D puzzle game where you stack blocks neatly in an 8x8 grid. You can play it on your browser for free on OnlineGames.io.ControlsDrag and drop blocks into the grid.How to Play Block Blast OnlineBlock Blast offers two distinct modes, each with a twist on the core mechanic of fitting blocks into an 8x8 grid:Classic ModeYou begin with a clean slate - an empty 8x8 grid, and at the bottom, three blocks beckon to be placed. These blocks come in shapes reminiscent of Tetris: I, L, T, Z, S, and a few chunky surprises as you advance.Drag and drop these blocks onto the grid. After every three moves, a new trio of blocks awaits your command.Your mission is to create full vertical or horizontal lines without any gaps. Once a line is complete, it vanishes, clearing space for more blocks. Keep this dance going until the board is too cluttered for any more moves.Adventure ModeHere, the grid might not be so forgiving. Levels start with pre-placed blocks, setting the stage for your strategic maneuvers.Each level presents unique goals. Perhaps you need to clear a certain number of tiles, or maybe you're on a gem hunt. As levels escalate, so does the objectives' complexity, with more blocks already on the grid to navigate around.Every cleared line nets you 10 points, but the real fun begins with combos and streaks. Chain together line clears for bonus points, turning each move into a potential score multiplier.In both modes, the essence of Block Blast remains a puzzle game where your wits and planning determine how long you can keep the blocks dancing on the grid.DeveloperBlock Blast Unblocked game was created by FreezeNova.Explore Online Block GamesDive into a world where blocks aren't just for building but for battling, solving, and creating! We've got a treasure trove of block games online for every puzzle enthusiast. You can reminisce about the good old days with timeless games like Bloxorz, where you'll tilt the world to fit a rectangular block into a square hole. It's simplicity meets strategy. Or perhaps you can enter a Candy Crush-like adventure in Gummy Blocks with glossy, candy-colored pieces that you'll be eager to align.Embed URL:https://cloud.onlinegames.io/games/2024/unity3/block-blast/index-og.htmlThis article was updated on November 29, 20241 Player2DArcadeBlockBrainColorCozyEmbeddableFreeFunLogicPuzzle",
+  "extractedAt": "2025-06-10T05:14:40.881Z",
+  "localThumbnail": "Block Blast_1749532480882.jpg"
+}

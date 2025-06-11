@@ -1,0 +1,57 @@
+{
+  "url": "https://www.onlinegames.io/cross-the-road/",
+  "title": "Cross the Road",
+  "category": "/new-games/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/734/Cross-the-Road.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/734/Cross-the-Road.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/734/responsive/Cross-the-Road-xs.jpg 384w, https://www.onlinegames.io/media/posts/734/responsive/Cross-the-Road-sm.jpg 600w, https://www.onlinegames.io/media/posts/734/responsive/Cross-the-Road-md.jpg 768w, https://www.onlinegames.io/media/posts/734/responsive/Cross-the-Road-lg.jpg 1200w",
+    "alt": "Cross the Road Play Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2023/unity/cross-the-road/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Basics of Cross The Road"
+      },
+      {
+        "type": "h3",
+        "text": "Stay Away from the Jellyfishes"
+      },
+      {
+        "type": "h3",
+        "text": "Unlock Turtle and Koala"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "What's More?"
+      }
+    ],
+    "controls": [
+      "Desktops and Laptops",
+      "WASD / Arrow Keys / LMB: Move the Frog",
+      "Mobile Devices",
+      "Tap on the screen in the direction you want to move the frog."
+    ],
+    "howToPlay": "",
+    "tips": "",
+    "developer": "FreezeNova developed this arcade game.",
+    "similarGames": []
+  },
+  "fullContent": "Home› AvoidCross the RoadBy OnlineGames.ioMake Game Full ScreenHelp the adorable frog cross the path! Cross The Road is a 3D arcade game inspired by Crossy Road. In the game, you guide a green frog on a vast dirt road. While trying to cross it to the other side of the path, you will encounter many obstacles.In this skill game, make sure your animal crosses the road safely! Additionally, do not forget to collect the coins on the road, as the coins will enable you to unlock new kinds of animals.ControlsDesktops and LaptopsWASD / Arrow Keys / LMB: Move the FrogMobile DevicesTap on the screen in the direction you want to move the frog.Basics of Cross The RoadThe main objective of this arcade game is to help the frog go as far as possible by overcoming obstacles.Many jellyfish, wooden logs, rivers and flying arrows are on the path.You should make the animal maneuver in such a way that it does not come into contact with any of these.Otherwise, it loses one of its three lives. If all three lives are lost, you must start from the beginning. Take the frog the longest way it can!Additionally, you can't keep the animal in a place for too long because it will be exposed to fog in a short time.The mist will cause the frog to suffocate and take its life in no time.Stay Away from the JellyfishesIf the frog gets in contact with the jellyfish, it will be burnt by them. So, you must avoid the jellies no matter what. But of course, they are not the only obstacles you must avoid.There will be flying arrows which will take the frog's life immediately. It should not be crushed under rolling wooden logs, either. Additionally, it should use lotus leaves while crossing rivers. If it falls into water it will drown.Unlock Turtle and KoalaAs you collect coins on the path and earn coins by opening the chests, you can unlock various animals from the Shop section. Click on the store icon to see all the animals that you can unlock.Piggy, Doggy, Goaty, Turtle, Koala, Sheep and Duck are there. Acquire whichever you want to cross the road with and set off!Piggy (Cost: 100 Coins)Doggy (Cost: 200 Coins)Goaty (Cost: 300 Coins)Turtle (Cost: 400 Coins)Koala (Cost: 500 Coins)Sheep (Cost: 600 Coins)Duck (Cost: 700 Coins)DeveloperFreezeNova developed this arcade game.What's More?If you enjoy playing with animals, you may also try Swing Monkey. You will direct a little monkey by swinging it. You must help it move between the rings and get to the finish line!Look for the animal games online on OnlineGames.io for additional options. Please share your gaming experiences with us in the comment section below! We would be very happy to hear from you.Embed URL:https://www.onlinegames.io/games/2023/unity/cross-the-road/index.htmlThis article was updated on August 7, 20241 PlayerAnimalArcadeAvoidCrazyEmbeddableFreeHTML5MobileMouseUnity",
+  "extractedAt": "2025-06-10T06:10:26.031Z",
+  "localThumbnail": "Cross the Road_1749535826032.jpg"
+}

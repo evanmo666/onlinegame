@@ -1,0 +1,52 @@
+{
+  "url": "https://www.onlinegames.io/spend-elon-musk-money/",
+  "title": "Spend Elon Musk Money",
+  "category": "/new-games/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/625/Spend-Elon-Musk-Money-Game.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/625/Spend-Elon-Musk-Money-Game.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/625/responsive/Spend-Elon-Musk-Money-Game-xs.jpg 384w, https://www.onlinegames.io/media/posts/625/responsive/Spend-Elon-Musk-Money-Game-sm.jpg 600w, https://www.onlinegames.io/media/posts/625/responsive/Spend-Elon-Musk-Money-Game-md.jpg 768w, https://www.onlinegames.io/media/posts/625/responsive/Spend-Elon-Musk-Money-Game-lg.jpg 1200w",
+    "alt": "Spend Elon Musk Money Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": null,
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Receipt"
+      },
+      {
+        "type": "h3",
+        "text": ""
+      },
+      {
+        "type": "h2",
+        "text": "$241,645,320,001.00"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Spend Elon Musk Money"
+      },
+      {
+        "type": "h2",
+        "text": "Discover The Luxury at It's Finest"
+      },
+      {
+        "type": "h2",
+        "text": "Don't Forget to Take Your Receipt"
+      }
+    ],
+    "controls": [],
+    "howToPlay": "You will see many items here on this page, from a tall latte from Starbucks to the Mona Lisa painting. Add the ones you like to your cart. As you add them to your cart, you'll see your money is slightly decreasing on the top of the screen.Over 60 items, ranging from a one-dollar coke to 2 billion dollars worth of events, waiting to be discovered. Either go thrifty and explore how many Starbucks you can order for your family, friends, or all the people you have met until today. Or, spend money like it's going out of fashion. Consume all on the luxury.",
+    "tips": "",
+    "developer": "",
+    "similarGames": []
+  },
+  "fullContent": "Home› FunnySpend Elon Musk MoneyBy OnlineGames.ioconst items1 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/1dollar-min.webp', name: 'Bet Joe Rogan 1 dollar', price: 1 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/78-min.webp', name: 'Coca Cola', price: 1 }\n            ];\n\n            const items2 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/79-min.webp', name: 'Starbucks Coffee', price: 5 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/80-min.webp', name: 'Pizza', price: 10 },\n            ];\n\n            const items3 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/81-min.webp', name: 'Rubick`s Cube', price: 15 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/82-min.webp', name: 'Leather Wallet', price: 20 },\n            ];\n\n            const items4 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/83-min.webp', name: 'Perfume', price: 40 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/84-min.webp', name: 'Skateboard', price: 50 },\n            ];\n\n            const items5 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/85-min.webp', name: 'Alexa Echo Dot', price: 60 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/86-min.webp', name: 'Smartwatch', price: 75 },\n            ];\n\n            const items6 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/87-min.webp', name: 'Luxury Fountain Pen', price: 80 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/88-min.webp', name: 'Halloween Costume', price: 100 },\n            ];\n\n            const items7 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/89-min.webp', name: 'Sneakers', price: 120 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/90-min.webp', name: 'Ray-Ban Aviator Sunglasses', price: 170 },\n            ];\n\n            const items8 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/97-min.webp', name: 'PlayStation 5 Console', price: 499 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/98-min.webp', name: 'Bicycle', price: 590 },\n            ];\n\n            const items9 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/1-min.webp', name: 'VR Theater System', price: 1019 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/2-min.webp', name: 'Oribe Collector Set', price: 285 },\n            ];\n\n            const items10 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/3-min.webp', name: 'Dyson Pure Cool Fan and Air Purifier', price: 439 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/4-min.webp', name: 'Car Audio Kit', price: 1449.85 },\n            ];\n\n            const items11 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/99-min.webp', name: 'Luxury Handbag', price: 990 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/91-min.webp', name: 'Leather Jacket', price: 180 },\n            ];\n\n            const items12 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/92-min.webp', name: 'AirPods Pro', price: 250 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/93-min.webp', name: 'Gaming Chair', price: 270 },\n            ]\n\n            const items13 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/94-min.webp', name: 'Xbox One X Console', price: 300 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/95-min.webp', name: '4k Smart TV', price: 400 },\n            ]\n\n            const items14 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/96-min.webp', name: 'Espresso Coffee Machine', price: 450 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/5-min.webp', name: 'Designer MALOUF Italian Sheets', price: 899 },\n            ];\n\n            const items15 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/6-min.webp', name: 'Indoor Outdoor Security Camera', price: 902.30 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/7-min.webp', name: 'La Mer Moisture Cream', price: 534 },\n            ];\n\n            const items16 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/8-min.webp', name: 'Macbook', price: 749.99 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/9-min.webp', name: 'Non Lethal Self Defense Gun', price: 299.99 },\n            ];\n\n            const items17 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/10-min.webp', name: 'Hermès Milo Lambskin Grigri Rodeo Gorse Bag Charm MM', price: 875 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/11-min.webp', name: 'Cult Gaia Mini Nala Metallic Leather Fan Clutch', price: 398 },\n            ];\n\n            const items18 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/12-min.webp', name: 'Burberry Giant Icon Check Cashmere Scarf', price: 520 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/13-min.webp', name: 'Prada Nylon Re-Nylon Headband Black', price: 495 },\n            ];\n\n            const items19 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/14-min.webp', name: 'Celine Triomphe 54mm Cat Eye Sunglasses', price: 510 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/15-min.webp', name: 'Saint Laurent Monogram Quilted Credit Card Case', price: 375 },\n            ];\n\n            const items20 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/16-min.webp', name: 'Chloé Woody Logo Slide Sandal', price: 490 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/17-min.webp', name: 'Isabel Marant Tyron Denim Baseball Cap', price: 220 },\n            ];\n\n            const items21 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/18-min.webp', name: 'Yves Saint Laurent Black Opium Eau de Parfum', price: 155 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/19-min.webp', name: 'Porcelain Soleil d’Hermes Breakfast Cup And Saucer (Set Of 2)', price: 550 },\n            ];\n\n            const items22 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/20-min.webp', name: 'Maison Margiela Replica Beach Vibes Scented Candle', price: 70 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/21-min.webp', name: 'Chanel Lambskin Quilted Airpods Pro Case', price: 650 },\n            ];\n\n            const items23 = [\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/22-min.webp', name: 'Premium Leather Jacket', price: 350 },\n                { img: 'https://www.onlinegames.io/games/2024/more/spend-elon-musk-money/23-min.webp', name: 'Smart Fitness Watch', price: 199 },\n            ",
+  "extractedAt": "2025-06-10T06:13:43.608Z",
+  "localThumbnail": "Spend Elon Musk Money_1749536023608.jpg"
+}

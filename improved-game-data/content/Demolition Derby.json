@@ -1,0 +1,56 @@
+{
+  "url": "https://www.onlinegames.io/demolition-derby/",
+  "title": "Demolition Derby",
+  "category": "/new-games/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/367/Demolition-Derby-Game.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/367/Demolition-Derby-Game.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/367/responsive/Demolition-Derby-Game-xs.jpg 384w, https://www.onlinegames.io/media/posts/367/responsive/Demolition-Derby-Game-sm.jpg 600w, https://www.onlinegames.io/media/posts/367/responsive/Demolition-Derby-Game-md.jpg 768w, https://www.onlinegames.io/media/posts/367/responsive/Demolition-Derby-Game-lg.jpg 1200w",
+    "alt": "Demolition Derby Free",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2023/unity/demolition-derby/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Demolition Derby Modes"
+      },
+      {
+        "type": "h2",
+        "text": "Career Mode"
+      },
+      {
+        "type": "h2",
+        "text": "Challenge Mode"
+      },
+      {
+        "type": "h2",
+        "text": "Survival Mode"
+      },
+      {
+        "type": "h2",
+        "text": "Which cars can I drive in Demolition Derby?"
+      },
+      {
+        "type": "h2",
+        "text": "How can I use power-ups in Demolition Derby?"
+      },
+      {
+        "type": "h2",
+        "text": "How to play Demolition Derby?"
+      }
+    ],
+    "controls": [],
+    "howToPlay": "WASD or arrow keys: MoveSpace: Handbrake",
+    "tips": "",
+    "developer": "",
+    "similarGames": []
+  },
+  "fullContent": "Home› DrivingDemolition DerbyBy OnlineGames.ioMake Game Full Screen Join the brutal crash battle of Demolition Derby, where you compete against other drivers in the arena. To increase your chances of winning, explore the game modes and garage to select the best car for the race.Demolition Derby ModesThere are 3 modes available on Demolition Derby:Career ModeCareer mode has 16 levels that will make you a demolition master at the end. Practice well enough before challenges. Enjoy every moment of career mode.Challenge ModeThe challenge mode has 16 levels waiting for you to complete them. Have fun destroying more and more vehicles at each level.Survival ModeSurvival mode will take your survival skills to a test. You will find out the best way to survive in any circumstance. There are 8 levels in Survival Mode that you can enjoy. Try to keep the car’s health at a certain level to pass any level. Be prepared. Bomb diffuses, and waves will welcome you at each level. Which cars can I drive in Demolition Derby?Demolition Derby has 9 different cars. Pick one among them to your liking and collect all the coins until you buy that one. Available cars are as follows: Hazor, Bull, Ronnie, Walter, Tom Leonardo, Alan Flitch, Marvin, and Flitch. Before buying a new car, remember to look at the car’s features. The most important features you can see in the garage are as follows: Top speedAccelerationAttackHealthHow can I use power-ups in Demolition Derby?There are 4 types of power-ups in Demolition Derby:  Health power-up will rise your car’s health. Weapon power-up will help you destroy the enemy faster. Shield power-up protects the car’s health. Skull power-up decreases the cars’ health, and it is better to avoid this power-up. How to play Demolition Derby?WASD or arrow keys: MoveSpace: HandbrakeThis article was updated on December 20, 20233DArenaArmorCarCrashDestroyDrivingFreeSimulatorTankTrafficUnity",
+  "extractedAt": "2025-06-10T06:27:38.124Z",
+  "localThumbnail": "Demolition Derby_1749536858124.jpg"
+}

@@ -1,0 +1,54 @@
+{
+  "url": "https://www.onlinegames.io/viola-the-bird/",
+  "title": "Viola the Bird",
+  "category": "/new-games/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/823/Viola-the-Bird.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/823/Viola-the-Bird.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/823/responsive/Viola-the-Bird-xs.jpg 384w, https://www.onlinegames.io/media/posts/823/responsive/Viola-the-Bird-sm.jpg 600w, https://www.onlinegames.io/media/posts/823/responsive/Viola-the-Bird-md.jpg 768w, https://www.onlinegames.io/media/posts/823/responsive/Viola-the-Bird-lg.jpg 1200w",
+    "alt": "Viola the Bird Online Music Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": null,
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play"
+      },
+      {
+        "type": "h2",
+        "text": "Maestro! Songs You Can Play in Viola the Bird"
+      },
+      {
+        "type": "h2",
+        "text": "Fun Facts"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "Release Date"
+      }
+    ],
+    "controls": [
+      "Mouse: Drag slowly and steadily left and right to play"
+    ],
+    "howToPlay": "You'll help Viola the Bird strum her cello-inspired instrument.In the tutorial, you'll be guided on how you can play Beethoven's Ode to Joy.Just click and drag with your mouse left and right to play the notes.Make your moves slow and steady for smooth tunes.Then try another song or go freestyle and make your own music.  Every move you make creates unique sounds, so feel free to get creative and see what melodies you can create!",
+    "tips": "",
+    "developer": "Viola the Bird was created by David Li and Google Arts & Culture.",
+    "similarGames": []
+  },
+  "fullContent": "Home› MusicViola the BirdBy OnlineGames.ioMake Game Full ScreenJam with the world's first bird-tuoso! Meet Viola the Bird, a feathered musician (okay, she's actually an ostrich!). She loves plucking strings and playing cellos. In this online music game created by David Li and Google collaboratively, you'll help Viola play famous classical songs on her cello.She might sometimes flub a note or two—but hey, it's in her bird instincts! 😄 Viola always says that her goal is to go from chirping in the wild to rocking out in the Broadway Concerts. So, help her spread her wings, pluck those strings! Whether you're into composing or just love making noise, Viola the Bird will give you the fun and sounds you've been looking for! The game is like an experimental lab for music, and it is definitely a must-play!ControlsMouse: Drag slowly and steadily left and right to playHow to PlayYou'll help Viola the Bird strum her cello-inspired instrument.In the tutorial, you'll be guided on how you can play Beethoven's Ode to Joy.Just click and drag with your mouse left and right to play the notes.Make your moves slow and steady for smooth tunes.Then try another song or go freestyle and make your own music.  Every move you make creates unique sounds, so feel free to get creative and see what melodies you can create!Maestro! Songs You Can Play in Viola the BirdViola the Bird isn't just about random chirps and tweets; you can play some seriously epic songs! Here's a list of songs you can perform in the game:Beethoven: Ode to JoyPachelbel: Canon in DHolst: Theme from JupiterSchubert: Ave MariaIrish Traditional: Londonderry AirJ.S. Bach: Air on the G String, Cello Suite No. 1 PreludeMozart: Eine Kleine NachtmusikRossini: William Tell OvertureMaurice Ravel: PavaneEdward Elgar: Salut d'amourJohann Strauss II: The Blue DanubeClaude Debussy: La fille aux cheveux de linVivaldi: Winter LargoDvořák: New World SymphonyTraditional: Amazing GraceAnd if you're feeling creative, you can go freestyle by pressing the button at the top of your screen! Experiment with different notes to create your own masterpiece. Ostrichs, unfortunately, cannot fly, but you can let your imagination fly!Fun FactsViola the Bird was created by David Li, the same genius who brought Blob Opera and Elastic Man. If you'd like to play those games for free and enjoy fluid visuals and strange sounds, follow the links!Musicians from all over the world teamed up to help Viola play, making this one smart and stylish bird.The music came from cellists and violinists Ashok Klouda, Dave Larkin, Elizabeth Goble, Peter Wilson, Zhivko Georgiev, and music arrangers Charles Mauleverer and Martin Batchelar. Together, they taught a neural network to chirp out some seriously cool string sounds! That's the wonder of machine learning! How cool is that?DeveloperViola the Bird was created by David Li and Google Arts & Culture.Release DateJuly 2023This article was updated on August 15, 20241 Player3DAnimalCrazyCuteFreeFunFunnyMouseMusic",
+  "extractedAt": "2025-06-10T06:07:05.967Z",
+  "localThumbnail": "Viola the Bird_1749535625968.jpg"
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.onlinegames.io/galactic-driver/",
+  "title": "Galactic Driver",
+  "category": "/t/racing/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/815/Galactic-Driver.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/815/Galactic-Driver.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/815/responsive/Galactic-Driver-xs.jpg 384w, https://www.onlinegames.io/media/posts/815/responsive/Galactic-Driver-sm.jpg 600w, https://www.onlinegames.io/media/posts/815/responsive/Galactic-Driver-md.jpg 768w, https://www.onlinegames.io/media/posts/815/responsive/Galactic-Driver-lg.jpg 1200w",
+    "alt": "Galactic Driver Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2022/construct/65/galactic-driver/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Galactic Driver"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "Explore More Games"
+      }
+    ],
+    "controls": [
+      "Left Arrow: Move backwardRight Arrow: Move forwardUp Arrow/Space: Jump the car"
+    ],
+    "howToPlay": "Start with level one and drive your car using WASD or arrow keys.Arrive at the finish line without exploding the car.If you bump a little or have a minor accident, you can still complete the level, but you should check the car health at the top right of your screen.If the health level decreases to zero, the car explodes, and you need to start over at that level.Collect diamonds on the road to upgrade the car or unlock a new one.The last bit of advice is that if the car flips over, jump the car and try to balance it in mid-air to get back on the tires.There are 30 levels with increasing difficulty, introducing new obstacles in Galactic Driver. If you ever finish them all, we'd like to hear from you in the comments. Which level was your favorite? And which parts drove you insane?",
+    "tips": "",
+    "developer": "FreezeNova created Galactic Driver.",
+    "similarGames": []
+  },
+  "fullContent": "Home› DrivingGalactic DriverBy OnlineGames.ioMake Game Full ScreenA driving game that everyone can enjoy, from younger kids to adults looking for a pastime. Straight out of a science fiction setting, Galactic Driver comes with controls so easy, that you'll feel like a pro from the start. The level-based gameplay is designed to keep you engaged.The main goal is to drive your car through an obstacle course and reach the finish line before the car explodes. Even though controls and mechanics are straightforward, finding the sweet balance between speed and accuracy requires some mastering. This is because, to overcome some obstacles you need to speed while for some of them, you need to act in a slow and controlled manner. Not knowing what obstacle is next adds an extra layer of excitement to the game. And lastly, the galactic city setting is the icing on the cake!Now let's get to the controls, move on to how to play and finish up with similar games.ControlsLeft Arrow: Move backwardRight Arrow: Move forwardUp Arrow/Space: Jump the carHow to Play Galactic DriverStart with level one and drive your car using WASD or arrow keys.Arrive at the finish line without exploding the car.If you bump a little or have a minor accident, you can still complete the level, but you should check the car health at the top right of your screen.If the health level decreases to zero, the car explodes, and you need to start over at that level.Collect diamonds on the road to upgrade the car or unlock a new one.The last bit of advice is that if the car flips over, jump the car and try to balance it in mid-air to get back on the tires.There are 30 levels with increasing difficulty, introducing new obstacles in Galactic Driver. If you ever finish them all, we'd like to hear from you in the comments. Which level was your favorite? And which parts drove you insane?DeveloperFreezeNova created Galactic Driver.Explore More GamesWhen you don't want anyone to interfere with your game (even AI bots), your only need is some alone time playing a simple single-player game like Galactic Driver. If you'd like to keep the solo gamer spirit going, we have wonderful 1-player games for free on OnlineGames.io. If you need a little more guidance on what to play, you can solve the quiz to have the answers. This article was updated on August 6, 20241 Player2DCarDrivingFreeHTML5PhysicsRacingSpeedStunt",
+  "extractedAt": "2025-06-10T05:40:27.775Z",
+  "localThumbnail": "Galactic Driver_1749534027775.jpg"
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://www.onlinegames.io/basketball-stars/",
+  "title": "Basketball Stars",
+  "category": "/t/2-player/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/380/Basketball-Stars-Game.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/380/Basketball-Stars-Game.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/380/responsive/Basketball-Stars-Game-xs.jpg 384w, https://www.onlinegames.io/media/posts/380/responsive/Basketball-Stars-Game-sm.jpg 600w, https://www.onlinegames.io/media/posts/380/responsive/Basketball-Stars-Game-md.jpg 768w, https://www.onlinegames.io/media/posts/380/responsive/Basketball-Stars-Game-lg.jpg 1200w",
+    "alt": "Basketball Stars Play For Free",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2024/gm/basketball-stars/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "How to play Basketball Stars?"
+      },
+      {
+        "type": "h2",
+        "text": "Features"
+      },
+      {
+        "type": "h2",
+        "text": "How to dunk in Basketball Stars?"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "Similar Games"
+      }
+    ],
+    "controls": [],
+    "howToPlay": "Player 1\n\nWASD: MoveX: Shoot or StealS: Pump or BlockDouble A or Double D: DashK: Super shot\n\nPlayer 2\n\nArrow keys: MoveL: Shoot or StealDown Arrow: Pump or BlockLeft/Right Arrow Twice: DashZ: Super shot",
+    "tips": "",
+    "developer": "Basketball Stars was created by MadPuffers.",
+    "similarGames": [
+      {
+        "title": "Head Basketball",
+        "url": "https://www.onlinegames.io/head-basketball/"
+      }
+    ]
+  },
+  "fullContent": "Home› BasketballBasketball StarsBy OnlineGames.ioMake Game Full ScreenBasketball Stars is a free online basketball game that you can enjoy on your browser. Start strong, and show your skills with three-pointers. Get the rebounds, and do not give your opponent any breathing room. Be a legend on the court! Basketball Stars allow you to enjoy the game on your own or with friends. You have the choice to join a thrilling tournament where the competition is intense, or you can simply pick your team and jump into a fast and exciting match.How to play Basketball Stars?Player 1WASD: MoveX: Shoot or StealS: Pump or BlockDouble A or Double D: DashK: Super shotPlayer 2Arrow keys: MoveL: Shoot or StealDown Arrow: Pump or BlockLeft/Right Arrow Twice: DashZ: Super shotFeaturesFour game modes are available: Tournament, random match, training, and quick matchPlay one-to-one or two-to-two with your friend or against CPUA wide range of players and the best teams of NBA LeagueHow to dunk in Basketball Stars?In order to dunk in Basketball Stars, take the ball and run to the hoop. When you are close enough, jump by pressing W or Up Arrow, then press X or L to shoot while jumping. DeveloperBasketball Stars was created by MadPuffers.Similar GamesIf you are into sports games, you can carry on playing Head Basketball on OnlineGames.io.This article was updated on June 28, 20242 Player2DArenaBallBasketballCo-OpFreeMultiplayerPhysicsSports",
+  "extractedAt": "2025-06-10T05:35:58.812Z",
+  "localThumbnail": "Basketball Stars_1749533758812.jpg"
+}

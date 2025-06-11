@@ -1,0 +1,50 @@
+{
+  "url": "https://www.onlinegames.io/drift-city/",
+  "title": "Drift City",
+  "category": "/t/car/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/837/Drift-City.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/837/Drift-City.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/837/responsive/Drift-City-xs.jpg 384w, https://www.onlinegames.io/media/posts/837/responsive/Drift-City-sm.jpg 600w, https://www.onlinegames.io/media/posts/837/responsive/Drift-City-md.jpg 768w, https://www.onlinegames.io/media/posts/837/responsive/Drift-City-lg.jpg 1200w",
+    "alt": "Drift City Play Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://cloud.onlinegames.io/games/2024/gm/games2/drift-city/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Drift City"
+      },
+      {
+        "type": "h2",
+        "text": "Tuning Cards"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "More Drift Games"
+      }
+    ],
+    "controls": [
+      "Steer: WASD or Arrow KeysBrake: Space KeyChange Camera Angle: C KeyTelemetry: Y Key"
+    ],
+    "howToPlay": "Start by selecting a car from the garage and customize it. Your options will be limited with the initial 25,000 coins and 5 tuning cards at your account.Spend them as you like in garage to get ready for the missions.Then, pick a game mode to rack up your coins and unlock new vehicles or upgrade your car even further:Crash Mode: Destroy all the marked bricks on the road before time runs out. 7 levels of difficulty are available with handsome rewards.Career Mode: Take on seasonal challenges like Classic Drift, Perfect Drift, and Flag Capture to earn stars and advance through three seasons. There are main missions and additional ones in each challenge that will reward you with coins or tuning cards. Some of the missions are as follows: Get 250 drift points without interruption, max 3 crashes, capture 6 flags and more. The time limit shortens as you progress across seasons.Free Run: Explore any of the four unique city maps: Port City, Snow City, Province, and Business City. Explore at your own pace. You can also complete the missions available on each map to multiply your earnings.",
+    "tips": "",
+    "developer": "Drift City was developed by MeyaGames.",
+    "similarGames": []
+  },
+  "fullContent": "Home› DriftDrift CityBy OnlineGames.ioMake Game Full ScreenIf you'd like to learn drifting techniques, improve them, or test your drifting skills by completing missions, you're in the right spot. Drift City is a browser-based driving game that'll challenge you with diverse missions then reward you with coins and customization cards.ControlsSteer: WASD or Arrow KeysBrake: Space KeyChange Camera Angle: C KeyTelemetry: Y KeyHow to Play Drift CityStart by selecting a car from the garage and customize it. Your options will be limited with the initial 25,000 coins and 5 tuning cards at your account.Spend them as you like in garage to get ready for the missions.Then, pick a game mode to rack up your coins and unlock new vehicles or upgrade your car even further:Crash Mode: Destroy all the marked bricks on the road before time runs out. 7 levels of difficulty are available with handsome rewards.Career Mode: Take on seasonal challenges like Classic Drift, Perfect Drift, and Flag Capture to earn stars and advance through three seasons. There are main missions and additional ones in each challenge that will reward you with coins or tuning cards. Some of the missions are as follows: Get 250 drift points without interruption, max 3 crashes, capture 6 flags and more. The time limit shortens as you progress across seasons.Free Run: Explore any of the four unique city maps: Port City, Snow City, Province, and Business City. Explore at your own pace. You can also complete the missions available on each map to multiply your earnings.Tuning CardsEarn tuning cards from loot boxes and daily rewards to upgrade and customize your vehicle.You can polish your car's look in the customization section and improve performance in the upgrade section.Customization Section: Install spoilers, add tinting to windows, change the colors of your car, swap rims, add neon lights or a colorful smoke. Each purchase requires one tuning card.Upgrade Section: Improve your car's engine, turbine, mass and tires up to  5th level. You can use your coins instead of tuning cards to upgrade the car parts.DeveloperDrift City was developed by MeyaGames.More Drift GamesIf you like the concept and gameplay of Drift City, next play Burnout Racers and enjoy a wide array of tuning options plus multiplayer rooms.OnlineGames.io is the perfect place to inhale the smell of burning tires! Let the drift begin!This article was updated on October 7, 20241 Player3DCarCrashCrazyDriftDrivingFreeRacingSimulatorSpeedStuntUnity",
+  "extractedAt": "2025-06-10T05:23:28.806Z",
+  "localThumbnail": "Drift City_1749533008806.jpg"
+}

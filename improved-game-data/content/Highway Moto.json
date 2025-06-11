@@ -1,0 +1,46 @@
+{
+  "url": "https://www.onlinegames.io/highway-moto/",
+  "title": "Highway Moto",
+  "category": "/new-games/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/851/highway-moto.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/851/highway-moto.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/851/responsive/highway-moto-xs.jpg 384w, https://www.onlinegames.io/media/posts/851/responsive/highway-moto-sm.jpg 600w, https://www.onlinegames.io/media/posts/851/responsive/highway-moto-md.jpg 768w, https://www.onlinegames.io/media/posts/851/responsive/highway-moto-lg.jpg 1200w",
+    "alt": "Highway Moto Play Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://cloud.onlinegames.io/games/2024/unity/highway-moto/index-og.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Highway Moto"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "Game Features"
+      }
+    ],
+    "controls": [
+      "Gas: W or Up ArrowSteer: A/D or Left/Right Arrow KeysHonk: SpacebarWheelie: Left-ShiftPause: Esc"
+    ],
+    "howToPlay": "Highway Moto puts you in the driver's seat of a powerful motorbike.Just like food delivery guys racing against time and traffic, open your way out in the rush hour of a highway.Start by accelerating with the W key or up arrow, and steer left or right using the A/D keys or arrow keys to avoid any crashes.If things get too slow, perform a wheelie with the Left-Shift key.The traffic will not be too intense at first, but when you reach a certain distance and speed, it'll all be crazy.You can use the spacebar to honk and clear the road ahead of slower vehicles. But remember, as in real life, some drivers don't care about horns and keep going.Lane-splitting is your best friend in this bike game. Take advantage of the narrow width of your bike to weave through traffic. But there will be some vehicles (especially trucks) suddenly changing lanes. So keep your defensive as well.  Just remember you must be sharp to master the traffic and make it out alive! One wrong move, and it's game over!",
+    "tips": "",
+    "developer": "Highway Moto is developed by FreezeNova. You can also play other traffic games crafted by FreezeNova on OnlineGames.io. One such game is Highway Racer Pro. Give it a chance, and let us and other players know what you think about the game in the comment section below.",
+    "similarGames": []
+  },
+  "fullContent": "Home› BikeHighway MotoBy OnlineGames.ioMake Game Full ScreenHighway Moto is a racing game where you weave through busy highway traffic at high speeds on your fancy bike! Dodge cars, buses, and trucks, split between lanes, and perform sharp maneuvers to show your riding skills. This road adventure offers great 3D graphics crafted in Unity, 3 game modes and 4 bikes to choose from. Now, hit the road and make it to your destination unscathed!ControlsGas: W or Up ArrowSteer: A/D or Left/Right Arrow KeysHonk: SpacebarWheelie: Left-ShiftPause: EscHow to Play Highway MotoHighway Moto puts you in the driver's seat of a powerful motorbike.Just like food delivery guys racing against time and traffic, open your way out in the rush hour of a highway.Start by accelerating with the W key or up arrow, and steer left or right using the A/D keys or arrow keys to avoid any crashes.If things get too slow, perform a wheelie with the Left-Shift key.The traffic will not be too intense at first, but when you reach a certain distance and speed, it'll all be crazy.You can use the spacebar to honk and clear the road ahead of slower vehicles. But remember, as in real life, some drivers don't care about horns and keep going.Lane-splitting is your best friend in this bike game. Take advantage of the narrow width of your bike to weave through traffic. But there will be some vehicles (especially trucks) suddenly changing lanes. So keep your defensive as well.  Just remember you must be sharp to master the traffic and make it out alive! One wrong move, and it's game over!DeveloperHighway Moto is developed by FreezeNova. You can also play other traffic games crafted by FreezeNova on OnlineGames.io. One such game is Highway Racer Pro. Give it a chance, and let us and other players know what you think about the game in the comment section below.  Game FeaturesThree game modes: Traffic Time for near misses, Traffic Ride for the longest distance score, and Free Ride to cruise on a traffic-free highway.Well-crafted realistic graphics and controls give you an even more immersive feeling.Upgrade system where you start with a basic bike and unlock more advanced models as you progress.Embed URL:https://cloud.onlinegames.io/games/2024/unity/highway-moto/index-og.htmlThis article was updated on October 28, 20241 Player3DBikeDrivingEmbeddableEndlessFreeTrafficUnity",
+  "extractedAt": "2025-06-10T06:06:19.814Z",
+  "localThumbnail": "Highway Moto_1749535579815.jpg"
+}

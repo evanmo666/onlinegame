@@ -1,0 +1,51 @@
+{
+  "url": "https://www.onlinegames.io/geometry-arrow/",
+  "title": "Geometry Arrow",
+  "category": "/t/action/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/1005/Geometry-Arrow.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/1005/Geometry-Arrow.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/1005/responsive/Geometry-Arrow-xs.jpg 384w, https://www.onlinegames.io/media/posts/1005/responsive/Geometry-Arrow-sm.jpg 600w, https://www.onlinegames.io/media/posts/1005/responsive/Geometry-Arrow-md.jpg 768w, https://www.onlinegames.io/media/posts/1005/responsive/Geometry-Arrow-lg.jpg 1200w",
+    "alt": "Geometry Arrow Play Online",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://html5.gamedistribution.com/9ee26ba4405c456094c70af7dc31a524/?gd_sdk_referrer_url=https://www.onlinegames.io/geometry-arrow/",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "How to Play Geometry Arrow"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "Similar Games"
+      }
+    ],
+    "controls": [
+      "PC: Left mouse button or Spacebar: hold to ascend, release to descendMobile: Touch anywhere on the screen: press to lift, let go to drop"
+    ],
+    "howToPlay": "From the moment your arrow appears at the left edge, it's all about timing. Press and hold (or tap and hold) to gently rise. Release when you need to fall.Early levels ease you in, introducing one hazard at a time, like simple spikes, sawblades, and split ramps.You'll learn that a quick tap clears a small spike while a longer hold soars over tall spikes.Pay attention to the beat: each level's music isn't just background noise. A rising drumroll often hints at a tall barrier ahead, and a sudden bass drop might mean you need to let go and dive under a low overhang.As you progress, obstacles compound. You'll navigate narrow corridors of spikes by tapping so fast your arrow darts in rapid zig-zags to slip past.You'll see your progress in the bar at the top. Don't trust if you're near the end because of one little mistake, and you're back at the beginning. No checkpoints.",
+    "tips": "",
+    "developer": "Geometry Arrow is distributed by Playgama. It's perfect for fans of quick-play Geometry Dash games.",
+    "similarGames": [
+      {
+        "title": "Space Waves",
+        "url": "https://www.onlinegames.io/space-waves/"
+      }
+    ]
+  },
+  "fullContent": "Home› AvoidGeometry ArrowBy OnlineGames.ioMake Game Full ScreenWhen you hit start, you don't just fire the arrow; you become itself. Race through a dark, hidden tunnel in Geometry Arrow. It’s a super sleek, rhythm-driven platformer game like Geometry Dash online that puts your reflexes to the test. You guide a simple white arrow through a maze of sharp angles and spikes. You'll be rising and falling with a single tap. Across 12 difficult levels plus a hidden bonus stage, each set to its own upbeat music, you'll race against geometry itself. With clean, minimal graphics and instantly graspable controls, Geometry Arrow is a free browser game you can play online whenever you need a quick thrill on the go. Just a friendly reminder: take a breather when the rage becomes too intense. Trust me, you'll need it.ControlsPC: Left mouse button or Spacebar: hold to ascend, release to descendMobile: Touch anywhere on the screen: press to lift, let go to dropHow to Play Geometry ArrowFrom the moment your arrow appears at the left edge, it's all about timing. Press and hold (or tap and hold) to gently rise. Release when you need to fall.Early levels ease you in, introducing one hazard at a time, like simple spikes, sawblades, and split ramps.You'll learn that a quick tap clears a small spike while a longer hold soars over tall spikes.Pay attention to the beat: each level's music isn't just background noise. A rising drumroll often hints at a tall barrier ahead, and a sudden bass drop might mean you need to let go and dive under a low overhang.As you progress, obstacles compound. You'll navigate narrow corridors of spikes by tapping so fast your arrow darts in rapid zig-zags to slip past.You'll see your progress in the bar at the top. Don't trust if you're near the end because of one little mistake, and you're back at the beginning. No checkpoints.DeveloperGeometry Arrow is distributed by Playgama. It's perfect for fans of quick-play Geometry Dash games.Similar GamesIf you love the minimalist challenge and rhythm-based jumps in Geometry Arrow, give Space Waves a try. In Space Waves, you guide a glowing orb through neon tunnels, timing your moves to electronic beats as obstacles surge and recede. It shares the same one-tap control scheme and pulse-pounding soundtrack but with more colorful visuals.This article was updated on May 16, 20251 Player2DActionArcadeAvoidCrazyFreeMobileMouseSkill",
+  "extractedAt": "2025-06-10T04:10:34.421Z",
+  "localThumbnail": "Geometry Arrow_1749528634422.jpg"
+}

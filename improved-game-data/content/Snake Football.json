@@ -1,0 +1,64 @@
+{
+  "url": "https://www.onlinegames.io/snake-football/",
+  "title": "Snake Football",
+  "category": "/t/arcade/",
+  "thumbnail": "https://www.onlinegames.io/media/posts/706/Snake-Football.jpg",
+  "thumbnailDetails": {
+    "src": "https://www.onlinegames.io/media/posts/706/Snake-Football.jpg",
+    "srcset": "https://www.onlinegames.io/media/posts/706/responsive/Snake-Football-xs.jpg 384w, https://www.onlinegames.io/media/posts/706/responsive/Snake-Football-sm.jpg 600w, https://www.onlinegames.io/media/posts/706/responsive/Snake-Football-md.jpg 768w, https://www.onlinegames.io/media/posts/706/responsive/Snake-Football-lg.jpg 1200w",
+    "alt": "Snake Football Online Game",
+    "width": 256,
+    "height": 256,
+    "className": "is-loaded",
+    "parentClass": "post__featured-image is-loaded"
+  },
+  "gameFrame": "https://www.onlinegames.io/games/2023/construct/200/snake-football/index.html",
+  "content": {
+    "headings": [
+      {
+        "type": "h2",
+        "text": "About Snake Football"
+      },
+      {
+        "type": "h3",
+        "text": "Four Unique Football Fields"
+      },
+      {
+        "type": "h3",
+        "text": "Duel with a Friend Snake"
+      },
+      {
+        "type": "h2",
+        "text": "Controls"
+      },
+      {
+        "type": "h2",
+        "text": "Developer"
+      },
+      {
+        "type": "h2",
+        "text": "Similar Online Games"
+      }
+    ],
+    "controls": [
+      "Player 1",
+      "Left/Right/Upper Arrow Keys: MoveYou may use your mouse to steer in single-player mode.",
+      "Player 2",
+      "W/A/D Keys: Move",
+      "Mobile Devices",
+      "Use the touchscreen to move."
+    ],
+    "howToPlay": "",
+    "tips": "",
+    "developer": "FreezeNova developed Snake Football.",
+    "similarGames": [
+      {
+        "title": "Soccer Merge",
+        "url": "https://www.onlinegames.io/soccer-merge/"
+      }
+    ]
+  },
+  "fullContent": "Home› SoccerSnake FootballBy OnlineGames.ioMake Game Full ScreenSlide your snake and score a goal! Snake Football is a 2D soccer game in which you direct a snake on a football field. Your cute animal is a footballer! Your main objective is to score as many goals as possible within 2 minutes.Slide the ball towards the opposite goal and kick it. Keep in mind that you can play this sports game with a friend in two-player mode. The person with the most scores at the end of the game wins!About Snake FootballThis game differs from other soccer games because your footballer is a snake here.And, of course, your opponent is a snake, too! You will be given two minutes for each match.In this short period of time, the one who scores most to his opponent’s goal wins the game.Dominate the field by keeping the ball in your hands, avoiding letting your opponent take it.When you get the chance, move forward to the goal with a high speed and kick!Four Unique Football FieldsThere are four fantastic football pitches in Snake Football. The first one is a standard grass pitch. Then, there is an utterly concrete field. The third field is a field that looks like a basketball court with its wooden grounds.The fourth and final field is the most exotic field of them all. It has an earth ground with two red goals. However, you must win five matches in each field to unlock another. Strive to unlock each pitch for extreme pleasure!Duel with a Friend SnakeYou can play this two-player game with a friend if you want. To open a match for two, click on the 1 VS 2 button from the level selection menu. Then, a character selection menu will open for your opponent to choose his character. Speaking of characters, you can unlock new snakes with the money you earn from the matches. Finally, select the soccer pitch you want to play among four fields. And you are ready for a tough match!ControlsPlayer 1Left/Right/Upper Arrow Keys: MoveYou may use your mouse to steer in single-player mode.Player 2W/A/D Keys: MoveMobile DevicesUse the touchscreen to move.DeveloperFreezeNova developed Snake Football.Similar Online GamesTry playing Soccer Merge. In the game, you will try to assemble the perfect team for your football club. To do that, you must meet your footballers’ needs by merging items!For further options, look for other online sports games on OnlineGames.io. Please share your gaming experiences with us in the comment section below! We’d be happy to hear from you.Embed URL:https://www.onlinegames.io/games/2023/construct/200/snake-football/index.htmlThis article was updated on August 7, 20242 Player2DAnimalArcadeBallCrazyEmbeddableFreeFunHTML5KidsMobileSnakeSoccerSports",
+  "extractedAt": "2025-06-10T05:17:56.577Z",
+  "localThumbnail": "Snake Football_1749532676577.jpg"
+}
