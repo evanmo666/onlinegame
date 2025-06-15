@@ -28,6 +28,11 @@ function GameCard({ game }: GameCardProps) {
   const gameSlug = titleToSlug(game.title)
   const imagePath = getGameThumbnailPath(game)
 
+  // 调试信息：在开发环境中打印图片路径
+  if (process.env.NODE_ENV === 'development') {
+    console.log(`Game: ${game.title}, Image Path: ${imagePath}, Local Thumbnail: ${game.localThumbnail}`)
+  }
+
   return (
     <Link href={`/game/${gameSlug}`} className="block">
       <div className="game-card h-full">
@@ -40,6 +45,19 @@ function GameCard({ game }: GameCardProps) {
             className="object-cover transition-transform duration-300 group-hover:scale-110"
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             priority={false}
+            onError={(e) => {
+              console.error(`Failed to load image for ${game.title}: ${imagePath}`)
+              // 尝试使用远程图片作为备用
+              const target = e.target as HTMLImageElement
+              if (target.src !== game.thumbnail) {
+                target.src = game.thumbnail
+              }
+            }}
+            onLoad={() => {
+              if (process.env.NODE_ENV === 'development') {
+                console.log(`Successfully loaded image for ${game.title}: ${imagePath}`)
+              }
+            }}
           />
           
           {/* 播放按钮覆盖层 */}

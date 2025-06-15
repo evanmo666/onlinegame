@@ -1,12 +1,13 @@
 # Dependencies
-node_modules
-**/node_modules
+/node_modules
 /.pnp
 .pnp.js
 
+# Testing
+/coverage
+
 # Next.js
-.next
-**/.next
+/.next/
 /out/
 
 # Production
@@ -38,9 +39,5 @@ next-env.d.ts
 *.swo
 
 # OS
-Thumbs.db
-
-# 大文件
-*.node
-*.gz
-*.pack 
+Thumbs.db 
+.vercel

@@ -13,7 +13,11 @@ export async function generateStaticParams() {
 }
 
 // 生成动态metadata
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+export async function generateMetadata({ 
+  params 
+}: { 
+  params: { slug: string } 
+}): Promise<Metadata> {
   const game = getGameBySlug(params.slug)
   
   if (!game) {
@@ -55,7 +59,12 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   }
 }
 
-export default function GamePage({ params }: { params: { slug: string } }) {
+// 使用Next.js接受的Page组件签名
+export default async function GamePage({ 
+  params 
+}: { 
+  params: { slug: string } 
+}) {
   const game = getGameBySlug(params.slug)
   
   if (!game) {
