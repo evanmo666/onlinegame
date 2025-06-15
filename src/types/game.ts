@@ -3,7 +3,7 @@ export interface Game {
   title: string;
   url: string;
   category: string;
-  gameFrame: string;
+  gameFrame: string | null;
   thumbnail: string;
   localThumbnail: string;
   hasControls: boolean;
